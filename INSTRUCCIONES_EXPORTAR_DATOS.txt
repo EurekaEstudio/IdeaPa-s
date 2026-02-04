@@ -1,0 +1,81 @@
+==============================================
+📋 INSTRUCCIONES: EXPORTAR DATOS YOUTUBE ANALYTICS
+==============================================
+
+PERÍODO A EXPORTAR:
+-------------------
+- DICIEMBRE 2025: 01/12/2025 - 31/12/2025
+- ENERO 2026: 01/01/2026 - 31/01/2026
+
+ARCHIVOS REQUERIDOS (exportar en formato CSV):
+------------------------------------------------
+
+1. CONTENIDO (Rendimiento de videos)
+   📁 Guardar como: "Datos de la tabla.csv"
+   Ruta: YouTube Studio > Análisis > Contenido > Pestaña "Videos"
+   Columnas necesarias: Título, Vistas, Tiempo reproducción, Retención %, Me gusta, Suscriptores, CTR, Impresiones
+
+2. EDAD DEL ESPECTADOR
+   📁 Guardar como: "Edad del espectador.csv"
+   Ruta: YouTube Studio > Análisis > Audiencia > Datos demográficos > Edad
+   Columnas: Edad del usuario, Vistas (%), Duración promedio, Porcentaje promedio reproducido (%)
+
+3. SEXO DEL ESPECTADOR
+   📁 Guardar como: "Sexo del espectador.csv"
+   Ruta: YouTube Studio > Análisis > Audiencia > Datos demográficos > Sexo
+   Columnas: Género del usuario, Vistas (%), Duración promedio, Porcentaje promedio reproducido (%)
+
+4. FUENTES DE TRÁFICO
+   📁 Guardar como: "Fuentes de tráfico.csv"
+   Ruta: YouTube Studio > Análisis > Alcance > Fuentes de tráfico
+   Columnas: Fuente de tráfico, Vistas, Tiempo de reproducción (horas)
+
+5. GEOGRAFÍA (opcional)
+   📁 Guardar como: "Geografía.csv"
+   Ruta: YouTube Studio > Análisis > Audiencia > Geografía
+   Columnas: País, Vistas
+
+ESTRUCTURA DE CARPETAS:
+------------------------
+/Contenido [fecha]_[fecha] IdeaPais (full)/
+  ├── Datos de la tabla.csv
+  
+/Edades, sexo y ciudades/
+  ├── Edad del espectador [fecha]_[fecha] IdeaPais.csv
+  ├── Sexo del espectador [fecha]_[fecha] IdeaPais.csv
+  └── Geografía [fecha]_[fecha] IdeaPais.csv (opcional)
+
+/Fuentes de tráfico [fecha]_[fecha] IdeaPais (full)/
+  └── Fuentes de tráfico.csv
+
+EJEMPLO DICIEMBRE 2025:
+-----------------------
+/Contenido 2025-12-01_2025-12-31 IdeaPais (full)/
+  └── Datos de la tabla.csv
+
+/Edades, sexo y ciudades/
+  ├── Edad del espectador 2025-12-01_2025-12-31 IdeaPais.csv
+  └── Sexo del espectador 2025-12-01_2025-12-31 IdeaPais.csv
+
+/Fuentes de tráfico 2025-12-01_2025-12-31 IdeaPais (full)/
+  └── Fuentes de tráfico.csv
+
+PASOS RÁPIDOS:
+--------------
+1. Ir a YouTube Studio > Análisis
+2. Seleccionar período (Diciembre o Enero)
+3. Exportar cada sección como CSV
+4. Renombrar archivos según formato indicado
+5. Organizar en carpetas
+6. Subir a la carpeta del proyecto
+7. Ejecutar: python3 app.py
+8. Abrir: http://localhost:8000
+
+NOTAS IMPORTANTES:
+------------------
+✓ Asegúrate de exportar TODAS las columnas disponibles
+✓ Formato de fecha: YYYY-MM-DD
+✓ No modificar nombres de columnas en CSV
+✓ Verificar que CSV usa codificación UTF-8
+✓ Separador decimal: punto (.)
+✓ Separador de miles: coma opcional

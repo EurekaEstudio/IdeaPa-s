@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Multi-Plataforma - IdeaPaís</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap"
+    rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    :root {
+      --ip-navy: #161233;
+      --ip-accent: #3E3CCA;
+      --gray-50: #F8F9FA;
+      --gray-100: #F3F4F6;
+      --gray-200: #E5E7EB;
+      --gray-300: #D1D5DB;
+      --gray-400: #9CA3AF;
+      --gray-500: #6B7280;
+      --gray-600: #4B5563;
+      --gray-700: #374151;
+      --gray-800: #1F2937;
+      --gray-900: #111827;
+      --bg-primary: #F8F9FA;
+      --bg-secondary: #FFFFFF;
+      --text-primary: #111827;
+      --text-secondary: #4B5563;
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      --up: #10B981;
+      --down: #EF4444;
+      --sidebar-width: 250px;
+      --ig-gradient: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      transition: background 0.3s;
+      overflow-x: hidden;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-family: 'Playfair Display', serif;
+      font-weight: 600;
+    }
+
+    /* Header & Navigation */
+    .header {
+      background: #ffffff;
+      padding: 15px 40px;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+      border-bottom: 3px solid var(--ip-navy);
+    }
+
+    .header .logo {
+      height: 40px;
+    }
+
+    .header h1 {
+      grid-column: 2;
+      font-size: 1.5rem;
+      color: var(--ip-navy);
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    .hamburger-btn {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--ip-navy);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 0.8rem;
+    }
+
+    /* Sidebar Menu */
+    .sidebar {
+      position: fixed;
+      left: calc(-1 * var(--sidebar-width));
+      top: 0;
+      height: 100vh;
+      width: var(--sidebar-width);
+      background: var(--ip-navy);
+      color: white;
+      z-index: 2000;
+      transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      padding: 40px 20px;
+      box-shadow: 10px 0 30px rgba(0, 0, 0, 0.2);
+    }
+
+    .sidebar.open {
+      left: 0;
+    }
+
+    .sidebar-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 1500;
+      display: none;
+      backdrop-filter: blur(2px);
+    }
+
+    .sidebar-overlay.active {
+      display: block;
+    }
+
+    .menu-item {
+      padding: 15px 20px;
+      margin: 10px 0;
+      border-radius: 12px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      font-weight: 600;
+      transition: all 0.2s;
+      color: rgba(255, 255, 255, 0.7);
+    }
+
+    .menu-item:hover,
+    .menu-item.active {
+      background: rgba(255, 255, 255, 0.1);
+      color: white;
+      transform: translateX(5px);
+    }
+
+    .menu-item svg {
+      width: 20px;
+      height: 20px;
+      fill: currentColor;
+    }
+
+    /* Content Area */
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px;
+      width: 100%;
+    }
+
+    .view-content {
+      display: none;
+    }
+
+    .view-content.active {
+      display: block;
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Reuse existing component styles */
+    .period-header {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      border: 1px solid var(--gray-200);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: var(--shadow-md);
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .kpi-card {
+      background: white;
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: var(--shadow-md);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .kpi-icon-overlay {
+      position: absolute;
+      right: -10px;
+      bottom: -10px;
+      font-size: 3.5rem;
+      opacity: 0.05;
+      pointer-events: none;
+    }
+
+    .kpi-label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      color: var(--text-secondary);
+      margin-bottom: 6px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .kpi-value {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: var(--ip-navy);
+      line-height: 1.1;
+      margin-bottom: 4px;
+    }
+
+    .kpi-diff {
+      font-size: 0.75rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .kpi-diff.up {
+      color: var(--up);
+    }
+
+    .kpi-diff.down {
+      color: var(--down);
+    }
+
+    .chart-card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      border: 1px solid var(--gray-200);
+      box-shadow: var(--shadow-md);
+    }
+
+    .chart-container {
+      height: 300px;
+      position: relative;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .activity-summary {
+      background: var(--ip-navy);
+      color: white;
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      justify-content: center;
+      gap: 80px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow-md);
+    }
+
+    .activity-summary.ig-bg {
+      background: var(--ig-gradient);
+    }
+
+    .activity-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .activity-val {
+      font-size: 1.8rem;
+      font-weight: 800;
+    }
+
+    .activity-lab {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      opacity: 0.8;
+      font-weight: 700;
+    }
+
+    .table-responsive {
+      overflow-x: auto;
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 1000px;
+    }
+
+    th {
+      background: #fafafa;
+      padding: 15px 12px;
+      text-align: left;
+      font-size: 0.75rem;
+      border-bottom: 2px solid var(--gray-200);
+      color: var(--gray-600);
+      cursor: pointer;
+      text-transform: uppercase;
+    }
+
+    td {
+      padding: 15px 12px;
+      border-bottom: 1px solid var(--gray-100);
+      font-size: 0.85rem;
+      vertical-align: middle;
+    }
+
+    .number-cell {
+      text-align: right;
+      font-weight: 600;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .thumbnail-box {
+      width: 110px;
+      height: 62px;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #000;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    .thumbnail-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .video-link {
+      text-decoration: none;
+      color: var(--ip-navy);
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+
+    .saved-periods {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+
+    .period-chip {
+      padding: 10px 28px;
+      border-radius: 30px;
+      background: white;
+      border: 1px solid var(--gray-300);
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    .period-chip.active {
+      background: var(--ip-navy);
+      color: white;
+      border-color: var(--ip-navy);
+    }
+
+    .rankings-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+    }
+
+    .ranking-card {
+      background: #FFFFFF;
+      border-radius: 12px;
+      padding: 24px;
+      border: 1px solid var(--gray-200);
+      box-shadow: var(--shadow-md);
+    }
+
+    .ranking-item {
+      padding: 12px 0;
+      border-bottom: 1px solid var(--gray-100);
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .ranking-thumb {
+      width: 50px;
+      height: 50px;
+      border-radius: 6px;
+      overflow: hidden;
+      flex-shrink: 0;
+      background: var(--gray-100);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .ranking-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .ranking-info {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .ranking-title {
+      font-weight: 600;
+      font-size: 0.85rem;
+      color: var(--text-primary);
+      text-decoration: none;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .ranking-metric {
+      font-size: 0.75rem;
+      color: var(--ip-accent);
+      font-weight: 700;
+    }
+
+    @media (max-width: 900px) {
+
+      .grid-2,
+      .rankings-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .activity-summary {
+        gap: 30px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+  <aside class="sidebar" id="sidebar">
+    <div style="margin-bottom: 40px; text-align: center;">
+      <h2 style="font-family: 'Playfair Display', serif; font-size: 1.2rem;">Canales IdeaPaís</h2>
+    </div>
+    <div class="menu-item active" onclick="switchView('youtube')">
+      YouTube Analytics
+    </div>
+    <div class="menu-item" onclick="switchView('facebook')">
+      Facebook Insights
+    </div>
+    <div class="menu-item" onclick="switchView('instagram')">
+      Instagram Insights
+    </div>
+    <div style="position: absolute; bottom: 40px; width: calc(100% - 40px); font-size: 0.7rem; opacity: 0.5;">
+      v2.0 Beta - Expansión Meta
+    </div>
+  </aside>
+
+  <header class="header">
+    <button class="hamburger-btn" onclick="toggleSidebar()">
+      Menú
+    </button>
+    <h1>Dashboard Analytics</h1>
+    <div style="display: flex; justify-content: flex-end;">
+      <img src="https://ideapais.cl/wp-content/uploads/2025/05/Logo_IP_15a_web.png" alt="IdeaPaís" class="logo">
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="saved-periods" id="periodList"></div>
+
+    <!-- YouTube View -->
+    <div id="youtubeView" class="view-content active">
+      <!-- (YT Content unchanged) -->
+      <div class="period-header">
+        <div>
+          <h2 class="displayPeriod" style="font-size: 1.8rem;">...</h2>
+          <p style="font-size: 0.9rem; color: #666; font-weight: 500; margin-top: 5px;">Rendimiento de canal IdeaPaís
+          </p>
+        </div>
+        <div style="text-align: right;">
+          <div style="font-size: 0.85rem; font-weight: 800; color: var(--ip-navy);">YOUTUBE ANALYTICS</div>
+          <div style="font-size: 0.75rem; color: #10B981; margin-top: 4px; font-weight: 600;">● Data Sincronizada</div>
+        </div>
+      </div>
+      <div class="activity-summary ytActivity"></div>
+      <div class="kpi-grid ytKPIs"></div>
+      <div class="chart-card">
+        <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📈 Evolución de Visualizaciones</h3>
+        <div class="chart-container"><canvas id="ytTrendChart"></canvas></div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📍 Canales de Tráfico</h3>
+          <div class="chart-container"><canvas id="ytTrafficChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">🌎 Penetración Regional</h3>
+          <div class="chart-container"><canvas id="ytGeoChart"></canvas></div>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">👥 Perfil de Audiencia</h3>
+        <div class="grid-2">
+          <div>
+            <h4 style="font-size: 0.8rem; color: #6B7280; margin-bottom: 15px; font-weight: 800;">Segmentación Edad</h4>
+            <div style="height: 250px;"><canvas id="ytAgeChart"></canvas></div>
+          </div>
+          <div>
+            <h4 style="font-size: 0.8rem; color: #6B7280; margin-bottom: 15px; font-weight: 800;">Apertura Género</h4>
+            <div style="height: 250px;"><canvas id="ytGenderChart"></canvas></div>
+          </div>
+        </div>
+      </div>
+      <div class="rankings-section">
+        <h3
+          style="margin-bottom: 25px; font-size: 1.4rem; color: var(--ip-navy); border-left: 6px solid var(--ip-accent); padding-left: 20px;">
+          🏆 Rankings de Contenido (Top 3)</h3>
+        <div class="rankings-grid ytRankings"></div>
+      </div>
+      <div class="chart-card">
+        <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📊 Desempeño por Video (Top 20)</h3>
+        <div class="table-responsive">
+          <table>
+            <thead>
+              <tr>
+                <th style="width: 40px;">#</th>
+                <th style="width: 130px;">Thumbnail</th>
+                <th onclick="ytSort('Título del video')">Contenido ↕️</th>
+                <th class="number-cell" onclick="ytSort('Vistas')">Vistas ↕️</th>
+                <th class="number-cell" onclick="ytSort('Tiempo de reproducción (horas)')">Tiempo (h) ↕️</th>
+                <th class="number-cell" onclick="ytSort('Impresiones')">Impresiones ↕️</th>
+                <th class="number-cell" onclick="ytSort('Suscriptores')">Subs ↕️</th>
+                <th class="number-cell" onclick="ytSort('Porcentaje promedio reproducido (%)')">Ret. % ↕️</th>
+              </tr>
+            </thead>
+            <tbody id="ytVideosTable"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Facebook View -->
+    <div id="facebookView" class="view-content">
+      <div class="period-header">
+        <div>
+          <h2 style="font-size: 1.8rem;">Enero 2026</h2>
+          <p style="font-size: 0.9rem; color: #666; font-weight: 500; margin-top: 5px;">Rendimiento en Facebook</p>
+        </div>
+        <div style="text-align: right;">
+          <div style="font-size: 0.85rem; font-weight: 800; color: #3b5998;">FACEBOOK INSIGHTS</div>
+          <div style="font-size: 0.75rem; color: #10B981; margin-top: 4px; font-weight: 600;">● Reporte Enero</div>
+        </div>
+      </div>
+      <div class="kpi-grid" id="fbKPIs"></div>
+      <div class="grid-2">
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📊 Formatos de Contenido</h3>
+          <div class="chart-container"><canvas id="fbFormatChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">👥 Audiencia por País</h3>
+          <div class="chart-container"><canvas id="fbGeoChart"></canvas></div>
+        </div>
+      </div>
+      <div class="chart-card">
+        <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📐 Embudo de Retención de Video</h3>
+        <div class="chart-container" style="height: 400px;"><canvas id="fbRetentionChart"></canvas></div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-card">
+          <h3 style="margin-bottom: 10px; font-size: 1rem;">Ciudades Top</h3>
+          <ul id="fbCities" style="list-style: none; font-size: 0.85rem;"></ul>
+        </div>
+        <div class="chart-card">
+          <h3 style="margin-bottom: 10px; font-size: 1rem;">Anuncio Destacado</h3>
+          <div id="fbAdPreview" style="padding: 15px; background: var(--gray-50); border-radius: 8px;"></div>
+        </div>
+      </div>
+
+      <div class="rankings-section" id="fbRankingsSection" style="display: none; margin-top: 24px;">
+        <h3
+          style="margin-bottom: 25px; font-size: 1.4rem; color: var(--ip-navy); border-left: 6px solid #3b5998; padding-left: 20px;">
+          🏆 Rankings de Facebook (Contenido Top)</h3>
+        <div class="rankings-grid" id="fbRankingsGrid"></div>
+      </div>
+    </div>
+
+    <!-- Instagram View -->
+    <div id="instagramView" class="view-content">
+      <div class="period-header">
+        <div>
+          <h2 style="font-size: 1.8rem;">Enero 2026</h2>
+          <p style="font-size: 0.9rem; color: #666; font-weight: 500; margin-top: 5px;">Rendimiento en Instagram</p>
+        </div>
+        <div style="text-align: right;">
+          <div style="font-size: 0.85rem; font-weight: 800; color: #bc1888;">INSTAGRAM INSIGHTS</div>
+          <div style="font-size: 0.75rem; color: #10B981; margin-top: 4px; font-weight: 600;">● Reporte Enero</div>
+        </div>
+      </div>
+
+      <div class="activity-summary ig-bg" id="igActivity"></div>
+      <div class="kpi-grid" id="igKPIs"></div>
+
+      <div class="grid-2">
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📱 Interacciones por Formato</h3>
+          <div class="chart-container"><canvas id="igFormatChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <h3 style="margin-bottom: 25px; font-size: 1.2rem; color: var(--ip-navy);">📢 Balance de Interacciones</h3>
+          <div class="chart-container" style="height: 300px;"><canvas id="igInterTrendChart"></canvas></div>
+        </div>
+      </div>
+
+      <div class="rankings-section">
+        <h3
+          style="margin-bottom: 25px; font-size: 1.4rem; color: var(--ip-navy); border-left: 6px solid #bc1888; padding-left: 20px;">
+          🏆 Rankings de Instagram (Top 5)</h3>
+        <div class="rankings-grid">
+          <div class="ranking-card">
+            <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">🎬 Reels / Publicaciones</h4>
+            <div id="igTopContent"></div>
+          </div>
+          <div class="ranking-card">
+            <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">📸 Historias Destacadas</h4>
+            <div id="igTopStories"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    // --- APP STATE ---
+    let windowAllData = {};
+    let currentYTPeriod = '';
+    let ytSortConfig = { key: 'Vistas', direction: 'desc' };
+    let ytCharts = {};
+    let fbCharts = {};
+    let igCharts = {};
+
+    // --- META DATA (Static) ---
+    const metaData = {
+      facebook: {
+        jan2026: {
+          followers: 11719,
+          results: {
+            views: 2246, viewsVar: -98.4,
+            spectators: 903, spectatorsVar: -98.8,
+            interactions: 12, interVar: -70.7,
+            profileVisits: 126, visitVar: -39.4,
+            followerGrowth: 1
+          },
+          eng_rate: '0.13%',
+          formats: { "Historias": 1114, "Reels": 697, "Videos": 254, "Fotos": 124, "Enlaces": 29, "Otros": 16, "Texto": 10 },
+          countries: [{ name: 'Chile', val: 93.1 }, { name: 'EE.UU.', val: 1.6 }, { name: 'España', val: 1.4 }, { name: 'Perú', val: 0.6 }, { name: 'Argentina', val: 0.5 }],
+          retention: { sec3: 196, sec15: 51, min1: 13 },
+          cities: ['Santiago (56.5%)', 'Viña del Mar (1.9%)', 'Concepción (1.4%)', 'Temuco (1.1%)', 'Arica (0.9%)'],
+          top_reach: [
+            { "title": "¿Quién decide el presupuesto en Chile… y con qué reglas?", "reach": 1547, "views": 2246, "url": "https://www.facebook.com/ideapaischile/videos/1585011191698028/" },
+            { "title": "Sala cuna universal: avanzar pero con libertad de elección", "reach": 58, "views": 88, "url": "https://www.facebook.com/ideapaischile/posts/pfbid0T7vXN7tN7tN7v" },
+            { "title": "¡Un resumen de ELIJO en la RM 2025!", "reach": 93, "views": 389, "url": "https://www.facebook.com/ideapaischile/videos/498243227871992/" }
+          ],
+          top_shared: [{ "title": "Presupuesto Fiscal", "shares": 1, "url": "https://www.facebook.com/ideapaischile/videos/4122158524509044/" }],
+          top_debate: [{ "title": "¿Quién decide el presupuesto?", "comments": 2, "url": "https://www.facebook.com/ideapaischile/videos/278125973782360/" }],
+          ad: {
+            title: "Campaña: Vocación Pública 2026",
+            desc: "Seguimos trabajando por una nueva generación comprometida con el país 🇨🇱 ¡En 2026 vamos por mucho más!",
+            reach: 8400,
+            impressions: 12500,
+            clicks: 432,
+            spent: "$45.000 CLP",
+            img: "https://ideapais.cl/wp-content/uploads/2025/05/Logo_IP_15a_web.png"
+          }
+        }
+      },
+      instagram: {
+        jan2026: {
+          followers: 12100,
+          activity: { stories: 100, posts: 8 },
+          kpis: {
+            interactions: 2200, interVar: -87,
+            storyViews: 214152, storyViewsVar: -69.6,
+            storyReach: 49944, storyReachVar: -76.5,
+            followers_gained: 66
+          },
+          eng_rate: '4.40%',
+          topContent: [
+            { "title": "Club de Lectura de IdeaPaís - La Araucanía", "likes": 219, "shares": 49, "comments": 19, "reach": 27600, "type": "Secuencia", "url": "https://www.instagram.com/p/DTvfbajDX01/" },
+            { "title": "¡Así vivimos Pasaporte Diplomático 2025!", "likes": 209, "shares": 34, "comments": 14, "reach": 5724, "views": 8300, "type": "Reel", "url": "https://www.instagram.com/reel/DTqx5sWERSe/" },
+            { "title": "¡Un resumen de ELIJO en la RM 2025!", "likes": 159, "shares": 20, "comments": 4, "reach": 3543, "views": 5700, "type": "Reel", "url": "https://www.instagram.com/reel/DTgj3ZqjyIF/" },
+            { "title": "¿Cómo fue la caída de Nicolás Maduro?", "likes": 107, "shares": 16, "comments": 4, "reach": 2627, "views": 3801, "type": "Reel", "url": "https://www.instagram.com/reel/DTd82R2jyFI/" },
+            { "title": "Sala cuna universal: avanzar con libertad", "likes": 102, "shares": 9, "comments": 1, "reach": 6100, "type": "Secuencia", "url": "https://www.instagram.com/p/DTGyQlTj-Jz/" },
+            { "title": "Cuentas Claras - Presupuesto", "likes": 22, "shares": 3, "comments": 0, "reach": 1684, "views": 2547, "type": "Reel", "url": "https://www.instagram.com/reel/DT1G0wDDXo-/" }
+          ],
+          interaction_breakdown: [1750, 60, 150, 240] // Likes, Comments, Shares, Saves approx
+        }
+      }
+    };
+
+    // --- NAVIGATION ---
+    function toggleSidebar() {
+      document.getElementById('sidebar').classList.toggle('open');
+      document.getElementById('sidebarOverlay').classList.toggle('active');
+    }
+    document.getElementById('sidebarOverlay').onclick = toggleSidebar;
+
+    function switchView(viewId) {
+      document.querySelectorAll('.view-content').forEach(v => v.classList.remove('active'));
+      document.querySelectorAll('.menu-item').forEach(m => m.classList.remove('active'));
+
+      document.getElementById(viewId + 'View').classList.add('active');
+      event.currentTarget.classList.add('active');
+
+      if (viewId === 'facebook') renderFacebook();
+      if (viewId === 'instagram') renderInstagram();
+      if (window.innerWidth < 1100) toggleSidebar();
+    }
+
+    // --- DATA LOADING ---
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const response = await fetch('/api/data');
+        windowAllData = await response.json();
+        const periods = Object.keys(windowAllData).sort().reverse();
+        const periodList = document.getElementById('periodList');
+        periodList.innerHTML = periods.map(p => `<div class="period-chip" id="chip-${p}" onclick="switchYTPeriod('${p}')">${formatPeriod(p)}</div>`).join('');
+        switchYTPeriod(periods[0]);
+      } catch (err) { console.error(err); }
+    });
+
+    function formatPeriod(p) { return p === '2026-01' ? 'Enero 2026' : (p === '2025-12' ? 'Diciembre 2025' : p); }
+
+    // --- YOUTUBE RENDERING ---
+    function switchYTPeriod(p) {
+      currentYTPeriod = p;
+      document.querySelectorAll('.period-chip').forEach(c => c.classList.remove('active'));
+      if (document.getElementById('chip-' + p)) document.getElementById('chip-' + p).classList.add('active');
+      renderYouTube();
+    }
+    function renderYouTube() {
+      const data = windowAllData[currentYTPeriod];
+      document.querySelector('.displayPeriod').textContent = formatPeriod(currentYTPeriod);
+      const k = data.kpis;
+      const a = k.activity;
+      document.querySelector('.ytActivity').innerHTML = `<div class="activity-item"><div class="activity-val">${a.total_published}</div><div class="activity-lab">Videos</div></div><div class="activity-item"><div class="activity-val">${a.standard}</div><div class="activity-lab">Estándar</div></div><div class="activity-item"><div class="activity-val">${a.shorts}</div><div class="activity-lab">Shorts</div></div>`;
+      const mkKPI = (icon, label, value, diff) => `<div class="kpi-card"><div class="kpi-icon-overlay">${icon}</div><div class="kpi-label">${icon} ${label}</div><div class="kpi-value">${value}</div><div class="kpi-diff ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '↑' : '↓'} ${Math.abs(diff).toFixed(1)}% vs ant.</div></div>`;
+      document.querySelector('.ytKPIs').innerHTML = mkKPI('👁️', 'Vistas', fmt(k.views), 21.2) + mkKPI('⏱️', 'Horas', fmt(k.watch_time_hours) + 'h', 2.9) + mkKPI('👥', 'Subs Netos', fmt(k.subscribers_gained - k.subscribers_lost), -26.9) + mkKPI('🎯', 'CTR', k.ctr.toFixed(1) + '%', -8.8) + mkKPI('📊', 'Retención', Math.min(k.avg_watch_percentage, 100).toFixed(1) + '%', -6.7) + mkKPI('📢', 'Impre.', fmt(k.impressions), 15.4);
+      renderYTCharts(data);
+      renderYTRankings(data);
+      renderYTTable(data);
+    }
+    function renderYTCharts(data) {
+      const ctx = (id) => document.getElementById(id);
+      if (ytCharts.trend) ytCharts.trend.destroy();
+      ytCharts.trend = new Chart(ctx('ytTrendChart'), { type: 'line', data: { labels: data.traffic.totals.map(r => r.Fecha.slice(8)), datasets: [{ label: 'Vistas', data: data.traffic.totals.map(r => r.Vistas), borderColor: '#3E3CCA', backgroundColor: 'rgba(62,60,202,0.1)', fill: true, tension: 0.4 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+      const tr = data.traffic.table.filter(x => x['Fuente de tráfico'] !== 'Total').sort((a, b) => b.Vistas - a.Vistas).slice(0, 5);
+      if (ytCharts.traffic) ytCharts.traffic.destroy();
+      ytCharts.traffic = new Chart(ctx('ytTrafficChart'), { type: 'doughnut', data: { labels: tr.map(x => x['Fuente de tráfico']), datasets: [{ data: tr.map(x => x.Vistas), backgroundColor: ['#161233', '#3E3CCA', '#10B981', '#F59E0B', '#8B5CF6'] }] }, options: { cutout: '70%', responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
+      const g = data.geographic.table.filter(x => x['Ubicación geográfica'] !== 'Total').sort((a, b) => b.Vistas - a.Vistas).slice(0, 5);
+      if (ytCharts.geo) ytCharts.geo.destroy();
+      ytCharts.geo = new Chart(ctx('ytGeoChart'), { type: 'bar', data: { labels: g.map(x => x['Ubicación geográfica']), datasets: [{ data: g.map(x => x.Vistas), backgroundColor: '#161233' }] }, options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+      if (ytCharts.age) ytCharts.age.destroy();
+      ytCharts.age = new Chart(ctx('ytAgeChart'), { type: 'bar', data: { labels: data.demographics.age.map(x => x['Edad del usuario']), datasets: [{ data: data.demographics.age.map(x => x['Vistas (%)']), backgroundColor: '#A78BFA' }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+      if (ytCharts.gender) ytCharts.gender.destroy();
+      ytCharts.gender = new Chart(ctx('ytGenderChart'), { type: 'pie', data: { labels: data.demographics.gender.map(x => x['Género del usuario']), datasets: [{ data: data.demographics.gender.map(x => x['Vistas (%)']), backgroundColor: ['#60A5FA', '#FB923C'] }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
+    }
+    function renderYTRankings(data) {
+      const v = data.content.table.filter(x => x.Vistas >= 5);
+      const rows = (items, metric) => items.map((x, i) => `<div class="ranking-item"><a href="${x['URL del vídeo']}" target="_blank" class="ranking-title">${i + 1}. ${x['Título del video']}</a><div class="ranking-metric">${metric(x)}</div></div>`).join('');
+      document.querySelector('.ytRankings').innerHTML = `<div class="ranking-card"><h4>🔥 Vistas</h4>${rows([...v].sort((a, b) => b.Vistas - a.Vistas).slice(0, 3), x => fmt(x.Vistas) + ' views')}</div><div class="ranking-card"><h4>🚀 Impacto Subs</h4>${rows([...v].sort((a, b) => (b.Suscriptores || 0) - (a.Suscriptores || 0)).slice(0, 3), x => fmt(x.Suscriptores || 0) + ' subs')}</div>`;
+    }
+    function renderYTTable(data) {
+      let v = data.content.table.filter(x => x.Vistas > 0);
+      v.sort((a, b) => (ytSortConfig.direction === 'asc' ? 1 : -1) * (a[ytSortConfig.key] - b[ytSortConfig.key]));
+      document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${r['Tiempo de reproducción (horas)'].toFixed(1)}</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`).join('');
+    }
+    function ytSort(key) { ytSortConfig.direction = ytSortConfig.key === key && ytSortConfig.direction === 'desc' ? 'asc' : 'desc'; ytSortConfig.key = key; renderYTTable(windowAllData[currentYTPeriod]); }
+
+    // --- FACEBOOK RENDERING ---
+    function renderFacebook() {
+      const d = metaData.facebook.jan2026;
+      const mkKPI = (icon, label, val, diff) => `<div class="kpi-card"><div class="kpi-icon-overlay">${icon}</div><div class="kpi-label">${label}</div><div class="kpi-value">${val}</div><div class="kpi-diff ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '↑' : '↓'} ${Math.abs(diff).toFixed(1)}%</div></div>`;
+      document.getElementById('fbKPIs').innerHTML =
+        mkKPI('👥', 'Seguidores Totales', fmt(d.followers), 0) +
+        mkKPI('🔥', 'Engagement Rate', d.eng_rate, 0) +
+        mkKPI('👁️', 'Reproducciones', fmt(d.results.views), d.results.viewsVar) +
+        mkKPI('👤', 'Alcance Total', fmt(d.results.spectators), d.results.spectatorsVar) +
+        mkKPI('🏠', 'Visitas Perfil', fmt(d.results.profileVisits), d.results.visitVar) +
+        mkKPI('📈', 'Seguidores Ganados', d.results.followerGrowth, 0);
+      if (fbCharts.format) fbCharts.format.destroy();
+      fbCharts.format = new Chart(document.getElementById('fbFormatChart'), {
+        type: 'bar',
+        data: {
+          labels: Object.keys(d.formats),
+          datasets: [{ label: 'Vistas', data: Object.values(d.formats), backgroundColor: '#3b5998', borderRadius: 8 }]
+        },
+        options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false }
+      });
+
+      if (fbCharts.geo) fbCharts.geo.destroy();
+      fbCharts.geo = new Chart(document.getElementById('fbGeoChart'), {
+        type: 'pie',
+        data: {
+          labels: d.countries.map(c => c.name),
+          datasets: [{ data: d.countries.map(c => c.val), backgroundColor: ['#161233', '#3b5998', '#8b9dc3', '#dfe3ee', '#f7f7f7'] }]
+        },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+      });
+
+      if (fbCharts.ret) fbCharts.ret.destroy();
+      fbCharts.ret = new Chart(document.getElementById('fbRetentionChart'), {
+        type: 'line',
+        data: {
+          labels: ['3 seg', '15 seg', '1 min'],
+          datasets: [{ label: 'Reproducciones', data: [d.retention.sec3, d.retention.sec15, d.retention.min1], borderColor: '#10B981', backgroundColor: 'rgba(16,185,129,0.1)', fill: true, tension: 0.4 }]
+        },
+        options: { responsive: true, maintainAspectRatio: false }
+      });
+
+      document.getElementById('fbCities').innerHTML = d.cities.map(c => `<li style="padding: 8px 0; border-bottom: 1px solid #eee;">${c}</li>`).join('');
+
+      if (d.ad) {
+        document.getElementById('fbAdPreview').innerHTML = `
+          <div style="display: flex; gap: 15px; align-items: flex-start;">
+            <div style="width: 80px; height: 80px; background: #eee; border-radius: 8px; flex-shrink: 0; overflow: hidden;">
+              <img src="${d.ad.img}" style="width:100%; height:100%; object-fit: cover;">
+            </div>
+            <div style="flex: 1;">
+              <h4 style="font-size: 0.95rem; color: #3b5998; margin-bottom: 5px;">${d.ad.title}</h4>
+              <p style="font-size: 0.8rem; color: #666; margin-bottom: 10px; line-height: 1.3;">${d.ad.desc}</p>
+              <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+                <div style="font-size: 0.75rem; color: #999;">Alcance: <strong style="color: #333;">${fmt(d.ad.reach)}</strong></div>
+                <div style="font-size: 0.75rem; color: #999;">Clics: <strong style="color: #333;">${fmt(d.ad.clicks)}</strong></div>
+                <div style="font-size: 0.75rem; color: #999;">Gasto: <strong style="color: #333;">${d.ad.spent}</strong></div>
+                <div style="font-size: 0.75rem; color: #999;">Impressiones: <strong style="color: #333;">${fmt(d.ad.impressions)}</strong></div>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+
+      if (d.top_reach) {
+        document.getElementById('fbRankingsSection').style.display = 'block';
+        const mkRanking = (items, metricFn) => items.map((x, i) => `
+          <div class="ranking-item">
+            <div class="ranking-thumb">
+              <img src="https://ideapais.cl/wp-content/uploads/2025/05/Logo_IP_15a_web.png" alt="Thumbnail">
+            </div>
+            <div class="ranking-info">
+              <a href="${x.url || '#'}" target="_blank" class="ranking-title">${i + 1}. ${x.title}</a>
+              <div class="ranking-metric">${metricFn(x)}</div>
+            </div>
+          </div>`).join('');
+
+        document.getElementById('fbRankingsGrid').innerHTML = `
+          <div class="ranking-card">
+            <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #3b5998;">📈 Mayor Alcance</h4>
+            ${mkRanking([...d.top_reach].sort((a, b) => b.reach - a.reach), x => fmt(x.reach) + ' personas alcanzadas')}
+          </div>
+          <div class="ranking-card">
+            <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #3b5998;">📣 Más Compartidos</h4>
+            ${mkRanking([...d.top_shared].sort((a, b) => b.shares - a.shares), x => fmt(x.shares) + ' veces compartido')}
+          </div>
+          <div class="ranking-card">
+            <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #3b5998;">💬 Más Debate</h4>
+            ${mkRanking([...d.top_debate].sort((a, b) => b.comments - a.comments), x => fmt(x.comments) + ' comentarios')}
+          </div>`;
+      }
+    }
+
+    // --- INSTAGRAM RENDERING ---
+    function renderInstagram() {
+      const d = metaData.instagram.jan2026;
+
+      // Activity
+      document.getElementById('igActivity').innerHTML = `
+        <div class="activity-item"><div class="activity-val">${d.activity.stories}</div><div class="activity-lab">Historias</div></div>
+        <div class="activity-item"><div class="activity-val">${d.activity.posts}</div><div class="activity-lab">Publicaciones</div></div>`;
+
+      const mkKPI = (icon, label, val, diff) => `<div class="kpi-card">
+        <div class="kpi-icon-overlay">${icon}</div><div class="kpi-label">${label}</div>
+        <div class="kpi-value">${val}</div>
+        <div class="kpi-diff ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '↑' : '↓'} ${Math.abs(diff).toFixed(1)}%</div>
+      </div>`;
+
+      document.getElementById('igKPIs').innerHTML =
+        mkKPI('👥', 'Seguidores Tot.', fmt(d.followers), 0) +
+        mkKPI('📈', 'Seg. Ganados', fmt(d.kpis.followers_gained), 0) +
+        mkKPI('🔥', 'Engagement Rate', d.eng_rate, 0) +
+        mkKPI('❤️', 'Interacciones', fmt(d.kpis.interactions), d.kpis.interVar) +
+        mkKPI('👁️', 'Reproducciones', fmt(d.kpis.storyViews), d.kpis.storyViewsVar) +
+        mkKPI('🎯', 'Alcance Total', fmt(d.kpis.storyReach), d.kpis.storyReachVar);
+
+      if (igCharts.format) igCharts.format.destroy();
+      igCharts.format = new Chart(document.getElementById('igFormatChart'), {
+        type: 'bar',
+        data: {
+          labels: ['Reels', 'Secuencias', 'Fotos'],
+          datasets: [{ label: 'Interacciones', data: [760, 319, 112], backgroundColor: '#dc2743', borderRadius: 8 }]
+        },
+        options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false }
+      });
+
+      if (igCharts.summary) igCharts.summary.destroy();
+      igCharts.summary = new Chart(document.getElementById('igInterTrendChart'), {
+        type: 'radar',
+        data: {
+          labels: ['Me gusta', 'Comentarios', 'Compartidos', 'Guardados'],
+          datasets: [{
+            label: 'Enero 2026',
+            data: d.interaction_breakdown || [1750, 60, 150, 240],
+            backgroundColor: 'rgba(220, 39, 67, 0.2)',
+            borderColor: '#dc2743',
+            pointBackgroundColor: '#dc2743'
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: { r: { beginAtZero: true, ticks: { display: false } } }
+        }
+      });
+
+      const mkRanking = (items, metricFn) => items.map((x, i) => `
+        <div class="ranking-item">
+          <div class="ranking-thumb">
+            <img src="https://ideapais.cl/wp-content/uploads/2025/05/Logo_IP_15a_web.png" alt="Thumbnail">
+          </div>
+          <div class="ranking-info">
+            <div class="ranking-title">
+              <a href="${x.url || '#'}" target="_blank" style="color: inherit; text-decoration: none;">${i + 1}. ${x.title || x.id}</a>
+            </div>
+            <div class="ranking-metric">${metricFn(x)} ${x.type ? '• ' + x.type : ''}</div>
+          </div>
+        </div>`).join('');
+
+      document.getElementById('igTopContent').innerHTML = `
+        <div class="ranking-card">
+          <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">🔥 Top Interacciones (General)</h4>
+          ${mkRanking([...d.topContent].sort((a, b) => (b.likes + b.shares) - (a.likes + a.shares)).slice(0, 5), x => `${fmt(x.likes)} likes / ${x.shares} comp.`)}
+        </div>
+        <div class="ranking-card">
+          <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">🎬 Reels más vistos (Reproducciones)</h4>
+          ${mkRanking([...d.topContent].filter(x => x.type === 'Reel').sort((a, b) => (b.views || 0) - (a.views || 0)).slice(0, 5), x => `${fmt(x.views || 0)} vistas`)}
+        </div>
+        <div class="ranking-card">
+          <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">🌍 Mayor Alcance (Total)</h4>
+          ${mkRanking([...d.topContent].sort((a, b) => b.reach - a.reach).slice(0, 5), x => `${fmt(x.reach)} personas alcanzadas`)}
+        </div>
+        <div class="ranking-card">
+          <h4 style="margin-bottom: 15px; font-size: 0.9rem; color: #bc1888;">💬 Más Debate</h4>
+          ${mkRanking([...d.topContent].sort((a, b) => b.comments - a.comments).slice(0, 5), x => `${fmt(x.comments)} comentarios`)}
+        </div>
+      `;
+      document.querySelector('#instagramView .rankings-grid').style.gridTemplateColumns = 'repeat(auto-fit, minmax(300px, 1fr))';
+      document.querySelector('#instagramView .rankings-grid').innerHTML = document.getElementById('igTopContent').innerHTML;
+    }
+
+    function fmt(n) { return new Intl.NumberFormat('es-CL').format(Math.round(n)); }
+  </script>
+</body>
+
+</html>

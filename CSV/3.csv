@@ -1,0 +1,934 @@
+﻿"Identificador de la publicación","Identificador de la página","Nombre de la página",Título,Descripción,"Duración (segundos)","Hora de publicación","Tipo de subtítulo","Enlace permanente","Es una publicación cruzada","Es una publicación compartida","Tipo de publicación",Idiomas,"Etiquetas personalizadas","Estado de contenido financiado","Comentario sobre los datos",Fecha,"Ingresos estimados (USD)","CPM del anuncio (USD)","Impresiones del anuncio","Post ID",Alcance,"Reacciones, comentarios y veces que se compartió",Reacciones,Comentarios,"Veces que se compartió","Segundos reproducidos","Segundos en promedio reproducidos","Total de clics","Clics de otro tipo","Consumo de segmentación del público coincidente (Video Click)","Clics en el enlace","Alcance de Publicaciones promocionadas","Alcance de Publicaciones orgánicas","Reproducciones de video de 3 segundos","Reproducciones de video de 1 minuto","Espectadores de 3 segundos","Espectadores de 1 minuto","Reproducciones de video de 3 segundos de Publicaciones promocionadas","Reproducciones de video de 3 segundos de Publicaciones orgánicas","Reproducciones de video de 1 minuto de Recomendaciones","Reproducciones de video de 1 minuto de Contenido compartido","Reproducciones de video de 1 minuto de Seguidores","Reproducciones de video de 1 minuto de Publicaciones promocionadas","Segundos reproducidos en Recomendaciones","Segundos reproducidos en Seguidores","Segundos reproducidos en Contenido compartido","Segundos reproducidos en Publicaciones promocionadas","Segundos en promedio producidos en Recomendaciones","Segundos en promedio producidos en Seguidores","Segundos en promedio producidos en Contenido compartido","Segundos en promedio producidos en Publicaciones promocionadas","Porcentaje del total de reproducciones en el intervalo 0","Porcentaje del total de reproducciones en el intervalo 1","Porcentaje del total de reproducciones en el intervalo 2","Porcentaje del total de reproducciones en el intervalo 3","Porcentaje del total de reproducciones en el intervalo 4","Porcentaje del total de reproducciones en el intervalo 5","Porcentaje del total de reproducciones en el intervalo 6","Porcentaje del total de reproducciones en el intervalo 7","Porcentaje del total de reproducciones en el intervalo 8","Porcentaje del total de reproducciones en el intervalo 9","Porcentaje del total de reproducciones en el intervalo 10","Porcentaje del total de reproducciones en el intervalo 11","Porcentaje del total de reproducciones en el intervalo 12","Porcentaje del total de reproducciones en el intervalo 13","Porcentaje del total de reproducciones en el intervalo 14","Porcentaje del total de reproducciones en el intervalo 15","Porcentaje del total de reproducciones en el intervalo 16","Porcentaje del total de reproducciones en el intervalo 17","Porcentaje del total de reproducciones en el intervalo 18","Porcentaje del total de reproducciones en el intervalo 19","Porcentaje del total de reproducciones en el intervalo 20","Porcentaje del total de reproducciones en el intervalo 21","Porcentaje del total de reproducciones en el intervalo 22","Porcentaje del total de reproducciones en el intervalo 23","Porcentaje del total de reproducciones en el intervalo 24","Porcentaje del total de reproducciones en el intervalo 25","Porcentaje del total de reproducciones en el intervalo 26","Porcentaje del total de reproducciones en el intervalo 27","Porcentaje del total de reproducciones en el intervalo 28","Porcentaje del total de reproducciones en el intervalo 29","Porcentaje del total de reproducciones en el intervalo 30","Porcentaje del total de reproducciones en el intervalo 31","Porcentaje del total de reproducciones en el intervalo 32","Porcentaje del total de reproducciones en el intervalo 33","Porcentaje del total de reproducciones en el intervalo 34","Porcentaje del total de reproducciones en el intervalo 35","Porcentaje del total de reproducciones en el intervalo 36","Porcentaje del total de reproducciones en el intervalo 37","Porcentaje del total de reproducciones en el intervalo 38","Porcentaje del total de reproducciones en el intervalo 39","Porcentaje del total de reproducciones en el intervalo 40","Porcentaje de reproducciones de 15 segundos en el intervalo 0","Porcentaje de reproducciones de 15 segundos en el intervalo 1","Porcentaje de reproducciones de 15 segundos en el intervalo 2","Porcentaje de reproducciones de 15 segundos en el intervalo 3","Porcentaje de reproducciones de 15 segundos en el intervalo 4","Porcentaje de reproducciones de 15 segundos en el intervalo 5","Porcentaje de reproducciones de 15 segundos en el intervalo 6","Porcentaje de reproducciones de 15 segundos en el intervalo 7","Porcentaje de reproducciones de 15 segundos en el intervalo 8","Porcentaje de reproducciones de 15 segundos en el intervalo 9","Porcentaje de reproducciones de 15 segundos en el intervalo 10","Porcentaje de reproducciones de 15 segundos en el intervalo 11","Porcentaje de reproducciones de 15 segundos en el intervalo 12","Porcentaje de reproducciones de 15 segundos en el intervalo 13","Porcentaje de reproducciones de 15 segundos en el intervalo 14","Porcentaje de reproducciones de 15 segundos en el intervalo 15","Porcentaje de reproducciones de 15 segundos en el intervalo 16","Porcentaje de reproducciones de 15 segundos en el intervalo 17","Porcentaje de reproducciones de 15 segundos en el intervalo 18","Porcentaje de reproducciones de 15 segundos en el intervalo 19","Porcentaje de reproducciones de 15 segundos en el intervalo 20","Porcentaje de reproducciones de 15 segundos en el intervalo 21","Porcentaje de reproducciones de 15 segundos en el intervalo 22","Porcentaje de reproducciones de 15 segundos en el intervalo 23","Porcentaje de reproducciones de 15 segundos en el intervalo 24","Porcentaje de reproducciones de 15 segundos en el intervalo 25","Porcentaje de reproducciones de 15 segundos en el intervalo 26","Porcentaje de reproducciones de 15 segundos en el intervalo 27","Porcentaje de reproducciones de 15 segundos en el intervalo 28","Porcentaje de reproducciones de 15 segundos en el intervalo 29","Porcentaje de reproducciones de 15 segundos en el intervalo 30","Porcentaje de reproducciones de 15 segundos en el intervalo 31","Porcentaje de reproducciones de 15 segundos en el intervalo 32","Porcentaje de reproducciones de 15 segundos en el intervalo 33","Porcentaje de reproducciones de 15 segundos en el intervalo 34","Porcentaje de reproducciones de 15 segundos en el intervalo 35","Porcentaje de reproducciones de 15 segundos en el intervalo 36","Porcentaje de reproducciones de 15 segundos en el intervalo 37","Porcentaje de reproducciones de 15 segundos en el intervalo 38","Porcentaje de reproducciones de 15 segundos en el intervalo 39","Porcentaje de reproducciones de 15 segundos en el intervalo 40","Comentarios negativos de los usuarios","Comentarios negativos únicos de los usuarios","Reproducciones de video de 3 segundos por público destacado (F, 25-34)","Reproducciones de video de 3 segundos por público destacado (M, 25-34)","Reproducciones de video de 3 segundos por público destacado (F, 18-24)","Reproducciones de video de 3 segundos por público destacado (M, 18-24)","Reproducciones de video de 3 segundos por público destacado (F, 45-54)","Reproducciones de video de 3 segundos por público destacado (F, 35-44)","Reproducciones de video de 3 segundos por público destacado (F, 55-64)","Reproducciones de video de 3 segundos por público destacado (M, 45-54)","Reproducciones de video de 3 segundos por público destacado (M, 35-44)","Reproducciones de video de 3 segundos por público destacado (F, 65+)","Reproducciones de video de 3 segundos por público destacado (M, 55-64)","Reproducciones de video de 3 segundos por público destacado (M, 65+)","Reproducciones de video de 3 segundos por país (Chile (CL))","Reproducciones de video de 3 segundos por país (United States (US))","Reproducciones de video de 3 segundos por país (Spain (ES))","Reproducciones de video de 3 segundos por país (Bolivia (BO))","Reproducciones de video de 3 segundos por país (Germany (DE))","Reproducciones de video de 3 segundos por país (Argentina (AR))","Reproducciones de video de 3 segundos por país (United Kingdom (GB))","Reproducciones de video de 3 segundos por país (France (FR))","Reproducciones de video de 3 segundos por país (Colombia (CO))","Reproducciones de video de 3 segundos por país (Peru (PE))","Reproducciones de video de 3 segundos por país (Netherlands (NL))","Reproducciones de video de 3 segundos por país (New Zealand (NZ))","Reproducciones de video de 3 segundos por país (Poland (PL))","Reproducciones de video de 3 segundos por país (Brazil (BR))","Reproducciones de video de 3 segundos por país (Luxembourg (LU))","Reproducciones de video de 3 segundos por país (Dominican Republic (DO))","Reproducciones de video de 3 segundos por país (Mexico (MX))","Reproducciones de video de 3 segundos por país (Guatemala (GT))","Reproducciones de video de 3 segundos por país (Austria (AT))","Reproducciones de video de 3 segundos por país (Uruguay (UY))","Reproducciones de video de 3 segundos por país (Philippines (PH))","Reproducciones de video de 3 segundos por país (Australia (AU))","Reproducciones de video de 3 segundos por país (Indonesia (ID))","Reproducciones de video de 3 segundos por país (South Korea (KR))","Reproducciones de video de 3 segundos por país (Italy (IT))","Reproducciones de video de 3 segundos por país (Canada (CA))","Reproducciones de video de 3 segundos por país (Croatia (HR))","Reproducciones de video de 3 segundos por país (South Africa (ZA))","Reproducciones de video de 3 segundos por país (Switzerland (CH))","Reproducciones de video de 3 segundos por país (Vietnam (VN))","Reproducciones de video de 3 segundos por país (Israel (IL))","Reproducciones de video de 3 segundos por país (Ireland (IE))","Reproducciones de video de 3 segundos por país (Nicaragua (NI))","Reproducciones de video de 3 segundos por país (Slovenia (SI))","Reproducciones de video de 3 segundos por país (Ecuador (EC))","Reproducciones de video de 3 segundos por país (Belgium (BE))","Reproducciones de video de 3 segundos por país (Norway (NO))","Reproducciones de video de 3 segundos por país (Venezuela (VE))","Reproducciones de video de 3 segundos por país (United Arab Emirates (AE))","Reproducciones de video de 3 segundos por país (Sweden (SE))","Reproducciones de video de 3 segundos por país (Costa Rica (CR))","Reproducciones de video de 3 segundos por país (Portugal (PT))","Reproducciones de video de 3 segundos por país (Japan (JP))","Reproducciones de video de 3 segundos por país (India (IN))","Reproducciones de video de 3 segundos por país (Hong Kong (HK))","Reproducciones de video de 3 segundos por país (Panama (PA))","Reproducciones de video de 3 segundos por país (Denmark (DK))","Reproducciones de video de 3 segundos por país (Finland (FI))","Reproducciones de video de 3 segundos por país (Thailand (TH))","Reproducciones de video de 3 segundos por país (Zambia (ZM))","Reproducciones de video de 3 segundos por país (Russia (RU))","Reproducciones de video de 3 segundos por país (Mozambique (MZ))","Reproducciones de video de 3 segundos por país (Saudi Arabia (SA))","Reproducciones de video de 3 segundos por país (Paraguay (PY))","Reproducciones de video de 3 segundos por país (Czech Republic (CZ))","Reproducciones de video de 3 segundos por país (Réunion (RE))","Reproducciones de video de 3 segundos por país (Hungary (HU))","Reproducciones de video de 3 segundos por país (Ukraine (UA))","Reproducciones de video de 3 segundos por país (Cuba (CU))","Reproducciones de video de 3 segundos por país (Mayotte (YT))","Reproducciones de video de 3 segundos por país (Kenya (KE))","Reproducciones de video de 3 segundos por país (Turks and Caicos Islands (TC))","Reproducciones de video de 3 segundos por país (Bangladesh (BD))","Reproducciones de video de 3 segundos por país (Pakistan (PK))","Reproducciones de video de 3 segundos por país (Iran (IR))","Reproducciones de video de 3 segundos por país (Mongolia (MN))","Reproducciones de video de 3 segundos por país (Romania (RO))","Reproducciones de video de 3 segundos por país (Afghanistan (AF))","Reproducciones de video de 3 segundos por país (Serbia (RS))","Reproducciones de video de 3 segundos por país (Honduras (HN))","Reproducciones de video de 3 segundos por país (Turkey (TR))"
+1585011191698028,100064564696710,IdeaPaís,"¿Aún no revisas nuestro canal de YouTube? 😱
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública","¿Aún no revisas nuestro canal de YouTube? 😱
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública",7,"04/15/2021 16:30",N/A,https://www.facebook.com/ideapaischile/videos/1585011191698028/,0,0,Videos,,,,,Total,,0,0,,73,0,0,0,0,79.528,1.347,1,,1,,0,73,1,0,1,0,0,1,0,0,0,0,10.446,69.082,0,0,1.161,1.382,0,0,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+498243227871992,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video del quinto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con Juan Luis Ossa, investigador del Centro de Estudios Púbicos (CEP) y candidato a la Convención Constitucional por el distrito 26 de la región de Los Lagos, sobre el régimen de gobierno en su perspectiva histórica y funcional, y la importancia de una descentralización y desconcentración efectiva del poder.
+
+¡No te los pierdas!
+
+🎞 Puedes encontrar el video completo en el siguiente enlace: https://bit.ly/32o9yvo
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #JuanLuisOssa #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video del quinto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con Juan Luis Ossa, investigador del Centro de Estudios Púbicos (CEP) y candidato a la Convención Constitucional por el distrito 26 de la región de Los Lagos, sobre el régimen de gobierno en su perspectiva histórica y funcional, y la importancia de una descentralización y desconcentración efectiva del poder.
+
+¡No te los pierdas!
+
+🎞 Puedes encontrar el video completo en el siguiente enlace: https://bit.ly/32o9yvo
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #JuanLuisOssa #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",61,"04/17/2021 10:15",auto,https://www.facebook.com/ideapaischile/videos/498243227871992/,0,0,Videos,,,,,Total,,0,0,,114,1,1,0,0,412.642,4.636,3,2,1,,0,114,28,0,28,0,0,28,0,0,0,0,56.656,355.986,0,0,4.722,4.624,0,0,0.93,0.96,0.96,0.71,0.46,0.32,0.29,0.25,0.21,0.21,0.18,0.18,0.14,0.14,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0,0,0,0.75,1,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4122158524509044,100064564696710,IdeaPaís,"El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas.
+
+¿No la has revisado? ⁉
+
+👉Puedes encontrar la #PrimeraEdición en el siguiente enlace: 
+https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política","El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas.
+
+¿No la has revisado? ⁉
+
+👉Puedes encontrar la #PrimeraEdición en el siguiente enlace: 
+https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política",8,"04/19/2021 10:45",N/A,https://www.facebook.com/ideapaischile/videos/4122158524509044/,0,0,Videos,,,,,Total,,0,0,,81,1,1,0,0,137.697,2.024,2,,1,1,0,81,14,0,13,0,0,14,0,0,0,0,48.52,89.177,0,0,3.235,1.683,0,0,1,1,1,1,0.79,0.64,0.36,0.36,0.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278125973782360,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video del sexto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con con con Soledad Bertelsen (doctor en derecho, profesora de la Universidad de los Andes) y Catalina Salem (magíster en derecho constitucional y profesora de la Pontificia Universidad Católica de Chile) acerca del Tribunal Constitucional en Chile: el fundamento de su existencia, su posible inclusión en la próxima Constitución y abordamos sus críticas y problemas, ofreciendo algunas respuestas.
+
+¡No te lo pierdas! 
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3n4hyes
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #SoledadBertelsen #CatalinaSalem #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video del sexto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con con con Soledad Bertelsen (doctor en derecho, profesora de la @[23054316290:274:Universidad de los Andes]) y Catalina Salem (magíster en derecho constitucional y profesora de la @[9562219958:274:Pontificia Universidad Católica de Chile]) acerca del Tribunal Constitucional en Chile: el fundamento de su existencia, su posible inclusión en la próxima Constitución y abordamos sus críticas y problemas, ofreciendo algunas respuestas.
+
+¡No te lo pierdas! 
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3n4hyes
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #SoledadBertelsen #CatalinaSalem #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",58,"04/20/2021 16:25",auto,https://www.facebook.com/ideapaischile/videos/278125973782360/,0,0,Videos,,,,,Total,,0,0,,97,0,0,0,0,468.127,5.144,1,1,,,0,97,36,0,34,0,0,36,0,0,0,0,46.107,422.02,0,0,3.074,5.553,0,0,1,1,1,0.69,0.61,0.39,0.36,0.31,0.28,0.22,0.14,0.08,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.03,0.03,0.03,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.25,0.25,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+966050314168713,100064564696710,IdeaPaís,"Hoy  queremos recomendar nuestro #libro ""Gonzalo Vial Política y Crisis Social"". 
+
+Una selección de columnas del abogado e historiador escritas para @dirariolasegunda durante la transición política.  Líneas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019. 
+
+📖📚 Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web. http://ideapais.cl/editorial-ip/
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #IdeaPaís #DíadelLibro #DíaMundialdel Libro","Hoy  queremos recomendar nuestro #libro ""Gonzalo Vial Política y Crisis Social"". 
+
+Una selección de columnas del abogado e historiador escritas para @dirariolasegunda durante la transición política.  Líneas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019. 
+
+📖📚 Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web. http://ideapais.cl/editorial-ip/
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #IdeaPaís #DíadelLibro #DíaMundialdel Libro",7,"04/23/2021 16:25",N/A,https://www.facebook.com/ideapaischile/videos/966050314168713/,0,0,Videos,,,,,Total,,0,0,,65,0,0,0,0,228.904,4.161,2,1,,1,0,65,11,0,10,0,0,11,0,0,0,0,47.378,181.526,0,0,4.308,4.126,0,0,1,1,1,1,0.91,0.55,0.36,0.27,0.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185548683411862,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video del sexto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con con con Soledad Bertelsen (doctor en derecho, profesora de la Universidad de los Andes) y Catalina Salem (magíster en derecho constitucional y profesora de la Pontificia Universidad Católica de Chile) acerca del Tribunal Constitucional en Chile: el fundamento de su existencia, su posible inclusión en la próxima Constitución y abordamos sus críticas y problemas, ofreciendo algunas respuestas.
+
+¡No te lo pierdas!
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3n4hyes
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #SoledadBertelsen #CatalinaSalem #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video del sexto capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con con con Soledad Bertelsen (doctor en derecho, profesora de la Universidad de los Andes) y Catalina Salem (magíster en derecho constitucional y profesora de la Pontificia Universidad Católica de Chile) acerca del Tribunal Constitucional en Chile: el fundamento de su existencia, su posible inclusión en la próxima Constitución y abordamos sus críticas y problemas, ofreciendo algunas respuestas.
+
+¡No te lo pierdas!
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3n4hyes
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #SoledadBertelsen #CatalinaSalem #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",33,"04/24/2021 09:55",auto,https://www.facebook.com/ideapaischile/videos/185548683411862/,0,0,Videos,,,,,Total,,0,0,,99,1,1,0,0,300.013,3.448,1,,1,,0,99,27,0,26,0,0,27,0,0,0,0,127.263,172.75,0,0,9.79,2.335,0,0,0.96,0.96,1,1,0.85,0.56,0.59,0.37,0.26,0.19,0.19,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.07,0.07,0.11,0.11,0.11,0.11,0.11,0.04,0.04,0,0,0,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2907591186149171,100064564696710,IdeaPaís,"[#IPRecomienda] En el marco de la celebración de los premios #Oscars2021, queremos  recomendar #ElAgenteTopo. Un documental chileno dirigido por Maite Alberdi y que busca reflejar el abandono y las dificultades que viven los #AdultosMayores en Chile.
+
+La película obtuvo una histórica nominación a los premios Oscar como Mejor documental, lo que lo transforma en el primer film chileno que compite en esa categoría.
+
+Actualmente se encuentra disponible en Netflix.
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#Netflix #Ducumental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales","[#IPRecomienda] En el marco de la celebración de los premios #Oscars2021, queremos  recomendar #ElAgenteTopo. Un documental chileno dirigido por Maite Alberdi y que busca reflejar el abandono y las dificultades que viven los #AdultosMayores en Chile.
+
+La película obtuvo una histórica nominación a los premios Oscar como Mejor documental, lo que lo transforma en el primer film chileno que compite en esa categoría.
+
+Actualmente se encuentra disponible en Netflix.
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#Netflix #Ducumental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales",15,"04/25/2021 09:55",N/A,https://www.facebook.com/ideapaischile/videos/2907591186149171/,0,0,Videos,,,,,Total,,0,0,,82,1,1,0,0,204.142,2.758,0,,,,0,82,12,0,12,0,0,12,0,0,0,0,55.034,149.108,0,0,4.234,2.445,0,0,1,1,1,1,1,0.92,0.67,0.42,0.33,0.33,0.25,0.25,0.25,0.25,0.25,0.25,0.25,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4336478526362286,100064564696710,IdeaPaís,"[#IPConstitucional]
+
+🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional.
+
+🖱Puedes ingresar a través del  siguiente link:  http://ideapais.cl/area-constitucional/
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #procesoconstituyente","[#IPConstitucional]
+
+🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional.
+
+🖱Puedes ingresar a través del  siguiente link:  http://ideapais.cl/area-constitucional/
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #procesoconstituyente",18,"04/26/2021 10:11",N/A,https://www.facebook.com/ideapaischile/videos/4336478526362286/,0,0,Videos,,,,,Total,,0,0,,57,1,1,0,0,71.149,1.694,1,1,,,0,57,8,0,8,0,0,8,0,0,0,0,6.958,64.191,0,0,1.74,1.69,0,0,1,1,1,1,0.5,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+800280314236896,100064564696710,IdeaPaís,"Ya está disponible la versión en video del séptimo capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con Matías Petersen, Investigador en Centro UANDES, Signos e IdeaPaís, sobre las discusiones que existen en torno a los principios constitucionales: la subsidiariedad, los adjetivos que caracterizan el debate y los peligros de llenar la Constitución de elementos contradictorios o faltos de contenido.
+
+¡No te lo pierdas!
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3nrnEpk
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn  #MatiasPetersen #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","Ya está disponible la versión en video del séptimo capítulo de ""Hoja en Blanco""
+
+En este episodio Jorge Hagedorn conversó con Matías Petersen, Investigador en Centro UANDES, Signos e IdeaPaís, sobre las discusiones que existen en torno a los principios constitucionales: la subsidiariedad, los adjetivos que caracterizan el debate y los peligros de llenar la Constitución de elementos contradictorios o faltos de contenido.
+
+¡No te lo pierdas!
+
+🎞 Puedes encontrarlo en el siguiente enlace: https://bit.ly/3nrnEpk
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn  #MatiasPetersen #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",61,"04/27/2021 16:30",auto,https://www.facebook.com/ideapaischile/videos/800280314236896/,0,0,Videos,,,,,Total,,0,0,,74,0,0,0,0,227.704,3.614,0,,,,0,74,21,0,19,0,0,21,0,0,0,0,66.756,160.948,0,0,6.676,3.037,0,0,1,1,1,0.38,0.19,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.05,0.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+468442584225871,100064564696710,IdeaPaís,"💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional","💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional",32,"04/30/2021 10:11",N/A,https://www.facebook.com/ideapaischile/videos/468442584225871/,0,0,Videos,,,,,Total,,0,0,,65,0,0,0,0,102.457,1.736,0,,,,0,65,9,0,8,0,0,9,0,0,0,0,13.215,89.242,0,0,1.322,1.822,0,0,1,1,1,1,0.56,0.33,0.22,0.22,0.22,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263166555550036,100064564696710,IdeaPaís,"¿Aún no revisas nuestro canal de YouTube? 😱
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública","¿Aún no revisas nuestro canal de YouTube? 😱
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública",7,"04/30/2021 16:25",N/A,https://www.facebook.com/ideapaischile/videos/263166555550036/,0,0,Videos,,,,,Total,,0,0,,71,0,0,0,0,124.816,1.92,1,1,,,0,71,7,0,7,0,0,7,0,0,0,0,28.89,95.926,0,0,4.128,1.654,0,0,1,1,1,1,1,0.86,0.71,0.71,0.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291138219316987,100064564696710,IdeaPaís,"📱🖥💻¿Aún no nos sigues en #RedesSociales ?
+
+Te invitamos a visitarnos en nuestras diferentes cuentas y a estar al día con todos los contenidos que estamos subiendo. Estudios, videos, cartas documentos y todo tipo de información que puede ser relevante para la discusión pública.
+
+➡️ Síguenos y anímate a ser parte de nuestra comunidad digital.
+
+#RRSS #Twitter #Facebook #Instagram #LinkedIn #YouTube #RedesSociales #ComunidadDigital","📱🖥💻¿Aún no nos sigues en #RedesSociales ?
+
+Te invitamos a visitarnos en nuestras diferentes cuentas y a estar al día con todos los contenidos que estamos subiendo. Estudios, videos, cartas documentos y todo tipo de información que puede ser relevante para la discusión pública.
+
+➡️ Síguenos y anímate a ser parte de nuestra comunidad digital.
+
+#RRSS #Twitter #Facebook #Instagram #LinkedIn #YouTube #RedesSociales #ComunidadDigital",16,"05/03/2021 11:07",N/A,https://www.facebook.com/ideapaischile/videos/291138219316987/,0,0,Videos,,,,,Total,,0,0,,68,1,1,0,0,194.58,2.702,1,,1,,0,68,10,0,8,0,0,10,0,0,0,0,74.065,120.515,0,0,5.698,2.043,0,0,0.9,0.9,1,1,0.9,0.9,0.8,0.6,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.3,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+863413610878851,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video del cuarto  capítulo de ""Hoja en Blanco"".
+
+En este episodio Magdalena Ortega conversó con Diego Schalper, abogado, doctor en derecho y diputado RN por el distrito 15 sobre uno de los grandes temas que se verán en la próxima discusión constitucional: los derechos sociales. ¿Cómo entenderlos y qué consecuencias jurídicas o prácticas esto tendrá?, ¿cómo dar verdaderas herramientas de cambio social?
+
+🎞 Puedes verlo en el siguiente enlace: https://bit.ly/3mIqkyN
+
+¡No te los pierdas!
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #MagdalenaOrtega #DiegoSchalper #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video del cuarto  capítulo de ""Hoja en Blanco"".
+
+En este episodio Magdalena Ortega conversó con Diego Schalper, abogado, doctor en derecho y diputado RN por el distrito 15 sobre uno de los grandes temas que se verán en la próxima discusión constitucional: los derechos sociales. ¿Cómo entenderlos y qué consecuencias jurídicas o prácticas esto tendrá?, ¿cómo dar verdaderas herramientas de cambio social?
+
+🎞 Puedes verlo en el siguiente enlace: https://bit.ly/3mIqkyN
+
+¡No te los pierdas!
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #MagdalenaOrtega #DiegoSchalper #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",61,"04/13/2021 16:23",auto,https://www.facebook.com/ideapaischile/videos/863413610878851/,0,0,Videos,,,,,Total,,0,0,,96,1,1,0,0,456.93,5.252,4,3,,1,0,96,20,0,19,0,0,20,0,0,0,0,98.371,358.559,0,0,6.559,4.98,0,0,0.95,0.95,0.95,0.65,0.5,0.4,0.4,0.4,0.4,0.35,0.3,0.3,0.3,0.2,0.2,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.1,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.15,0.05,1,1,1,1,1,1,1,1,1,1,1,1,1,0.71,0.71,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.57,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.29,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134225882003870,100064564696710,IdeaPaís,"📢 ¡Falta poco para #LaEscuelaConstituyente!
+
+#CursoOnline de 5 sesiones en la que grandes expositores abordarán algunos de los temas que serán relevantes en la discusión constitucional.
+
+😱¿Aún no te has inscrito? Quedan pocos días.
+
+¡Anímate! Al inscribirte estarás participando por una de las cajas que vamos a estar sorteando al final de cada sesión.
+
+📌Puedes inscribirte en el siguiente enlace: bit.ly/3mqtze2 
+
+#LaEscuela #Formación #FormaciónPolíica #FormaciónOnline #EducaciónenLínea #IdeaPaís #QuédateEnCasa #YoAprendo #DiscusiónConstitucional #NuevaConstitución #ClasesEnlínea #TalleresEnLínea #Laescuela3","📢 ¡Falta poco para #LaEscuelaConstituyente!
+
+#CursoOnline de 5 sesiones en la que grandes expositores abordarán algunos de los temas que serán relevantes en la discusión constitucional.
+
+😱¿Aún no te has inscrito? Quedan pocos días.
+
+¡Anímate! Al inscribirte estarás participando por una de las cajas que vamos a estar sorteando al final de cada sesión.
+
+📌Puedes inscribirte en el siguiente enlace: bit.ly/3mqtze2 
+
+#LaEscuela #Formación #FormaciónPolíica #FormaciónOnline #EducaciónenLínea #IdeaPaís #QuédateEnCasa #YoAprendo #DiscusiónConstitucional #NuevaConstitución #ClasesEnlínea #TalleresEnLínea #Laescuela3",31,"04/15/2021 11:25",N/A,https://www.facebook.com/ideapaischile/videos/134225882003870/,0,0,Videos,,,,,Total,,0,0,,77,1,1,0,0,126.073,1.969,1,,1,,0,77,3,0,3,0,0,3,0,0,0,0,10.168,115.905,0,0,1.271,2.07,0,0,1,1,1,1,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+381273126490203,100064564696710,IdeaPaís,"Aquí les dejamos un extracto de lo que fue la participación de Magdalena Ortega, directora de #IPConstitucional, en el programa ""Qué hay de nuevo"" de Radio Infinita 
+
+En esta oportunidad conversaron sobre las #MetasSolidarias como un mecanismo para abordar los #DerechosSociales en la #NuevaConstitución.","Aquí les dejamos un extracto de lo que fue la participación de Magdalena Ortega, directora de #IPConstitucional, en el programa ""Qué hay de nuevo"" de @[264810496868081:274:Radio Infinita] 
+
+En esta oportunidad conversaron sobre las #MetasSolidarias como un mecanismo para abordar los #DerechosSociales en la #NuevaConstitución.",47,"12/14/2020 13:37",auto,https://www.facebook.com/ideapaischile/videos/381273126490203/,0,0,Videos,,,,,Total,,0,0,,59,1,1,0,0,236.821,4.385,1,,1,,0,59,12,0,12,0,0,12,0,0,0,0,134.551,102.27,0,0,9.611,2.557,0,0,1,1,1,0.92,0.75,0.67,0.58,0.58,0.58,0.5,0.5,0.42,0.33,0.33,0.33,0.33,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.17,0.17,0.17,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+460280325363389,100064564696710,IdeaPaís,"[#IPRecomienda] Nuestra recomendación de hoy es:  #Patria, una mini serie española de @HBO basada en un libro que retrata el conflicto armado vivido en España con Euskadi. Es una imagen de lo que ocurre cuando en la #Sociedad se pierde el #EstadodeDerecho y los acuerdos mínimos de proscribir la violencia para solucionar conflictos. Se rompen los vínculos sociales y evidencia que en estas crisis, los que más sufren son las familias y los sectores más vulnerables con el miedo e incertidumbres. 
+
+Esta serie invita a muchas reflexiones, como la importancia de reivindicar que la violencia nunca debe ser un medio ni un fin para lograr resultados (de ahí que sea relevante para mantener la paz, el #MonopolioDelaFuerza por parte del #Estado) y, sobre todo, que dependemos los unos de los otros.
+
+¿y tú? ¿ya la viste?
+Comenta 
+👇👇
+
+#Miniserie #HBO #CrisisSocial #Política #PolíticaEspañola #ConflictoArmado #Euskadi #ViolenciaSocial #Violencia #TejidoSocial #VínculosSociales","[#IPRecomienda] Nuestra recomendación de hoy es:  #Patria, una mini serie española de @HBO basada en un libro que retrata el conflicto armado vivido en España con Euskadi. Es una imagen de lo que ocurre cuando en la #Sociedad se pierde el #EstadodeDerecho y los acuerdos mínimos de proscribir la violencia para solucionar conflictos. Se rompen los vínculos sociales y evidencia que en estas crisis, los que más sufren son las familias y los sectores más vulnerables con el miedo e incertidumbres. 
+
+Esta serie invita a muchas reflexiones, como la importancia de reivindicar que la violencia nunca debe ser un medio ni un fin para lograr resultados (de ahí que sea relevante para mantener la paz, el #MonopolioDelaFuerza por parte del #Estado) y, sobre todo, que dependemos los unos de los otros.
+
+¿y tú? ¿ya la viste?
+Comenta 
+👇👇
+
+#Miniserie #HBO #CrisisSocial #Política #PolíticaEspañola #ConflictoArmado #Euskadi #ViolenciaSocial #Violencia #TejidoSocial #VínculosSociales",11,"12/12/2020 07:57",N/A,https://www.facebook.com/ideapaischile/videos/460280325363389/,0,0,Videos,,,,,Total,,0,0,,40,0,0,0,0,144.753,4.386,0,,,,0,40,4,0,4,0,0,4,0,0,0,0,126.411,18.342,0,0,10.535,0.874,0,0,1,1,1,1,0.75,0.75,0.75,0.5,0.5,0.5,0.5,0.25,0.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+867721573953069,100064564696710,IdeaPaís,"💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional","💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional",32,"04/12/2021 16:30",N/A,https://www.facebook.com/ideapaischile/videos/867721573953069/,0,0,Videos,,,,,Total,,0,0,,71,1,1,0,0,104.264,1.629,1,1,,,0,71,6,0,6,0,0,6,0,0,0,0,22.451,81.813,0,0,2.041,1.544,0,0,1,1,1,1,1,0.5,0.33,0.33,0.33,0.17,0.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+915713425873082,100064564696710,IdeaPaís,"Nos estamos acercando a las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy María Eyzaguirre, investigadora de #IPConstitucional, nos habla sobre las correcciones o modificaciones que se hicieron al sistema electoral para esta elección.
+
+Ahora que ya lo sabes, no te quedes con la información.
+
+¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: https://bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril #DiscusiónConstitucional #SistemaDHont #Paridad #Constitución #ConstituciónSolidaria #EscañosReservados #CandidatosIndependientes","Nos estamos acercando a las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy María Eyzaguirre, investigadora de #IPConstitucional, nos habla sobre las correcciones o modificaciones que se hicieron al sistema electoral para esta elección.
+
+Ahora que ya lo sabes, no te quedes con la información.
+
+¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: https://bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril #DiscusiónConstitucional #SistemaDHont #Paridad #Constitución #ConstituciónSolidaria #EscañosReservados #CandidatosIndependientes",45,"04/09/2021 16:25",auto,https://www.facebook.com/ideapaischile/videos/915713425873082/,0,0,Videos,,,,,Total,,0,0,,72,1,1,0,0,138.558,2.068,0,,,,0,72,5,0,4,0,0,5,0,0,0,0,62.804,75.754,0,0,4.832,1.403,0,0,1,1,1,1,0.6,0.6,0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3824200127701482,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video de nuestro segundo capítulo de ""Hoja en Blanco"".
+
+En este episodio Magdalena Ortega conversó con Sebastián Soto sobre último libro ""La hora de la Re Constitución"", la manera en la que aborda el proceso constitucional chileno y los eventos de la crisis social de 2019, para intentar explicar cómo llegamos a este punto.
+
+También conversaron sobre algunos de los debates que se abordan sobre el régimen de gobierno y su propuesta de mantener el presidencialismo.
+
+🎞 Puedes ver el video completo en el siguiente enlace: https://bit.ly/2RbsWt4
+
+¡No te los pierdas!
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #MagdalenaOrtega #SebastiánSoto #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video de nuestro segundo capítulo de ""Hoja en Blanco"".
+
+En este episodio Magdalena Ortega conversó con Sebastián Soto sobre último libro ""La hora de la Re Constitución"", la manera en la que aborda el proceso constitucional chileno y los eventos de la crisis social de 2019, para intentar explicar cómo llegamos a este punto.
+
+También conversaron sobre algunos de los debates que se abordan sobre el régimen de gobierno y su propuesta de mantener el presidencialismo.
+
+🎞 Puedes ver el video completo en el siguiente enlace: https://bit.ly/2RbsWt4
+
+¡No te los pierdas!
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #MagdalenaOrtega #SebastiánSoto #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",61,"04/08/2021 16:48",auto,https://www.facebook.com/ideapaischile/videos/3824200127701482/,0,0,Videos,,,,,Total,,0,0,,106,1,1,0,0,237.096,2.605,1,,,1,0,106,18,0,18,0,0,18,0,0,0,0,40.863,196.233,0,0,2.151,2.726,0,0,1,1,1,0.78,0.56,0.44,0.28,0.22,0.17,0.17,0.17,0.17,0.11,0.06,0.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0.67,0.33,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184983713436351,100064564696710,IdeaPaís,"[#IPConstitucional]
+
+🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional.
+
+🖱Puedes ingresar a través del siguiente link: https://bit.ly/3wD99mE
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #procesoconstituyente","[#IPConstitucional]
+
+🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional.
+
+🖱Puedes ingresar a través del siguiente link: https://bit.ly/3wD99mE
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #procesoconstituyente",18,"04/08/2021 10:10",N/A,https://www.facebook.com/ideapaischile/videos/184983713436351/,0,0,Videos,,,,,Total,,0,0,,63,1,1,0,0,54.592,1.114,1,,1,,0,63,1,0,1,0,0,1,0,0,0,0,13.113,41.479,0,0,1.193,1.092,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287346569654152,100064564696710,IdeaPaís,"Compartimos un extracto de la participación de Cristóbal Bellolio, candidato a constituyente por el #Distrito11, en el foro ""El presidencialismo en disputa"". Una actividad que se desarrolló con el lanzamiento del nuevo documento ""Presidencialismo. Ideas fundamentales y reformas!
+
+🎥¿Te lo perdiste? Puedes encontrar el video completo aquí: https://bit.ly/2PlGCRy
+
+#Presidencialismo #Constitución #ConstituciónSolidaria
+#ConvenciónConstitucional #NuevaConstitución #NuevaConstituciónChile #Elección2021 #ProcesoConstituyente #EleccionesDeConstiruyentes #RégimenDeGobierno #Política #DiscusiónConstitucional #Foro #Política #PolíticaChile
+#Chile #IPConstitucional","Compartimos un extracto de la participación de Cristóbal Bellolio, candidato a constituyente por el #Distrito11, en el foro ""El presidencialismo en disputa"". Una actividad que se desarrolló con el lanzamiento del nuevo documento ""Presidencialismo. Ideas fundamentales y reformas!
+
+🎥¿Te lo perdiste? Puedes encontrar el video completo aquí: https://bit.ly/2PlGCRy
+
+#Presidencialismo #Constitución #ConstituciónSolidaria
+#ConvenciónConstitucional #NuevaConstitución #NuevaConstituciónChile #Elección2021 #ProcesoConstituyente #EleccionesDeConstiruyentes #RégimenDeGobierno #Política #DiscusiónConstitucional #Foro #Política #PolíticaChile
+#Chile #IPConstitucional",58,"04/06/2021 09:53",auto,https://www.facebook.com/ideapaischile/videos/287346569654152/,0,0,Videos,,,,,Total,,0,0,,108,1,1,0,0,511.667,5.329,3,2,,1,0,108,29,0,29,0,0,29,0,0,0,0,99.925,411.742,0,0,5.878,5.212,0,0,1,1,1,0.79,0.55,0.41,0.31,0.24,0.21,0.21,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.14,0.1,0.07,0.03,0.03,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,0.6,0.4,0.4,0.4,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+460067678650082,100064564696710,IdeaPaís,"Compartimos un extracto de la participación de Claudio Alvarado, Director Ejecutivo del Ies Chile en el foro ""El presidencialismo en disputa"". Una actividad que se desarrolló con el lanzamiento del nuevo documento ""Presidencialismo. Ideas fundamentales y reformas!
+
+🎥¿Te lo perdiste? Puedes encontrar el video completo aquí: https://bit.ly/2PlGCRy 
+
+#Presidencialismo #Constitución #ConstituciónSolidaria
+#ConvenciónConstitucional #NuevaConstitución #NuevaConstituciónChile #Elección2021 #ProcesoConstituyente #EleccionesDeConstiruyentes #RégimenDeGobierno #Política #DiscusiónConstitucional #Foro #Política #PolíticaChile
+#Chile #IPConstitucional","Compartimos un extracto de la participación de Claudio Alvarado, Director Ejecutivo del @[1064937826872187:274:Ies Chile] en el foro ""El presidencialismo en disputa"". Una actividad que se desarrolló con el lanzamiento del nuevo documento ""Presidencialismo. Ideas fundamentales y reformas!
+
+🎥¿Te lo perdiste? Puedes encontrar el video completo aquí: https://bit.ly/2PlGCRy 
+
+#Presidencialismo #Constitución #ConstituciónSolidaria
+#ConvenciónConstitucional #NuevaConstitución #NuevaConstituciónChile #Elección2021 #ProcesoConstituyente #EleccionesDeConstiruyentes #RégimenDeGobierno #Política #DiscusiónConstitucional #Foro #Política #PolíticaChile
+#Chile #IPConstitucional",60,"04/03/2021 09:59",auto,https://www.facebook.com/ideapaischile/videos/460067678650082/,0,0,Videos,,,,,Total,,0,0,,104,3,3,0,0,340.893,3.918,2,1,1,,0,104,24,0,23,0,0,24,0,0,0,0,157.752,183.141,0,0,12.135,2.475,0,0,1,1,1,0.58,0.33,0.33,0.29,0.21,0.21,0.17,0.17,0.17,0.13,0.13,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204488621048069,100064564696710,IdeaPaís,"Compartimos la participación que tuvo Magdalena Ortega, el pasado miércoles 24 de marzo, en el programa “Qué hay de Nuevo” de Radio Infinita, conducido por Cony Stipicic, Matías de la Maza y Javier Beguelli.
+
+En esta oportunidad Ortega abordó el debate sobre el cambio del actual Régimen de Gobierno y la fuerte crítica al presidencialismo. En ese sentido señaló que es necesario tener una visión más amplia que permita reformar ciertos elementos del régimen y pensar nuestro sistema político en su conjunto, para generar mejores incentivos de cooperación y mayor gobernabilidad.
+
+📌 Puedes encontrar la entrevista completa aquí: https://bit.ly/31HN88c
+
+#MagdalenaOrtega #QuehaydeNuevo #RadioInfinita #PégimendeGobierno #Presidencialismo","Compartimos la participación que tuvo Magdalena Ortega, el pasado miércoles 24 de marzo, en el programa “Qué hay de Nuevo” de Radio Infinita, conducido por Cony Stipicic, Matías de la Maza y Javier Beguelli.
+
+En esta oportunidad Ortega abordó el debate sobre el cambio del actual Régimen de Gobierno y la fuerte crítica al presidencialismo. En ese sentido señaló que es necesario tener una visión más amplia que permita reformar ciertos elementos del régimen y pensar nuestro sistema político en su conjunto, para generar mejores incentivos de cooperación y mayor gobernabilidad.
+
+📌 Puedes encontrar la entrevista completa aquí: https://bit.ly/31HN88c
+
+#MagdalenaOrtega #QuehaydeNuevo #RadioInfinita #PégimendeGobierno #Presidencialismo",42,"04/02/2021 10:07",auto,https://www.facebook.com/ideapaischile/videos/204488621048069/,0,0,Videos,,,,,Total,,0,0,,67,1,1,0,0,179.487,2.761,3,2,1,,0,67,17,0,17,0,0,17,0,0,0,0,74.904,104.583,0,0,3.943,2.274,0,0,1,1,1,1,0.59,0.35,0.35,0.29,0.18,0.06,0.06,0.06,0.06,0.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4409889012373673,100064564696710,IdeaPaís,"Hoy terminamos marzo conmemorando todas aquellas luchas que buscan dar más oportunidades a las mujeres. Hoy Chile es un país muy diferente,  pero aún nos falta mucho por recorrer. 
+
+En este mes trajimos diferentes realidades que lograron evidenciar que, no solo seguimos viviendo en un país donde las condiciones no son iguales entre hombres y mujeres; sino que también estamos en una sociedad donde ellas muchas veces son las más perjudicadas. Todas realidades que no sólo existen, sino que durante la pandemia se hicieron más evidentes. 
+
+Además, creemos que esta no es una discusión únicamente de mujeres, sino más bien un tema social que nos involucra a todos; y con el proceso constitucional que se nos avecina, tenemos la oportunidad de generar instancias de participación en la que hombres y mujeres podamos dialogar y tomar medidas para crear un Chile más justo. 
+
+Hoy mostramos los rostros que hacen posible que IdeaPaís trabaje por una sociedad más justa, humana y solidaria. Un Chile #ProMujer 
+
+ #MujerChilena  #justiciaparalasMujeres #IgualdadDeGénero #Planeta5050  #GirlPower #Niñas #Niña #ParidadDeGénero #Nomásviolencia","Hoy terminamos marzo conmemorando todas aquellas luchas que buscan dar más oportunidades a las mujeres. Hoy Chile es un país muy diferente,  pero aún nos falta mucho por recorrer. 
+
+En este mes trajimos diferentes realidades que lograron evidenciar que, no solo seguimos viviendo en un país donde las condiciones no son iguales entre hombres y mujeres; sino que también estamos en una sociedad donde ellas muchas veces son las más perjudicadas. Todas realidades que no sólo existen, sino que durante la pandemia se hicieron más evidentes. 
+
+Además, creemos que esta no es una discusión únicamente de mujeres, sino más bien un tema social que nos involucra a todos; y con el proceso constitucional que se nos avecina, tenemos la oportunidad de generar instancias de participación en la que hombres y mujeres podamos dialogar y tomar medidas para crear un Chile más justo. 
+
+Hoy mostramos los rostros que hacen posible que IdeaPaís trabaje por una sociedad más justa, humana y solidaria. Un Chile #ProMujer 
+
+ #MujerChilena  #justiciaparalasMujeres #IgualdadDeGénero #Planeta5050  #GirlPower #Niñas #Niña #ParidadDeGénero #Nomásviolencia",85,"03/31/2021 16:05",auto,https://www.facebook.com/ideapaischile/videos/4409889012373673/,0,0,Videos,,,,,Total,,0,0,,109,1,1,0,0,219.657,2.554,3,2,1,,0,109,11,1,11,1,0,11,0,0,0,0,110.611,109.046,0,0,5.268,1.678,0,0,1,1,0.45,0.27,0.27,0.27,0.27,0.18,0.18,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1354533451594617,100064564696710,IdeaPaís,"📣Se viene #LaEscuelaConstituyente, ¿Estás preparado? 
+
+Nos hemos reinventado y venimos con todo para #Abril con discusiones de temas importantes, grandes invitados y muchas más novedades. 🤩
+
+¡Anímate!  Que la cuarentena no sea una excusa para no seguir aprendiendo.  📚📖
+
+➡ Atentos a la apertura de las inscripciones. 
+
+#IdeaPaís #LaEscuela #QuédateEnCasa #YoAprendo #DiscusiónConstitucional #NuevaConstitución #FormaciónPolítica #FormaciónOnline #ClasesEnlínea #TalleresEnLínea #Laescuela3","📣Se viene #LaEscuelaConstituyente, ¿Estás preparado? 
+
+Nos hemos reinventado y venimos con todo para #Abril con discusiones de temas importantes, grandes invitados y muchas más novedades. 🤩
+
+¡Anímate!  Que la cuarentena no sea una excusa para no seguir aprendiendo.  📚📖
+
+➡ Atentos a la apertura de las inscripciones. 
+
+#IdeaPaís #LaEscuela #QuédateEnCasa #YoAprendo #DiscusiónConstitucional #NuevaConstitución #FormaciónPolítica #FormaciónOnline #ClasesEnlínea #TalleresEnLínea #Laescuela3",8,"03/31/2021 09:26",N/A,https://www.facebook.com/ideapaischile/videos/1354533451594617/,0,0,Videos,,,,,Total,,0,0,,76,0,0,0,0,107.717,1.683,2,2,,,0,76,5,0,5,0,0,5,0,0,0,0,15.064,92.653,0,0,1.256,1.782,0,0,1,1,1,1,0.8,0.6,0.6,0.4,0.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215635583648304,100064564696710,IdeaPaís,"🎙 Ya está disponible la versión en video de nuestro primer capítulo de ""Hoja en Blanco"".
+
+Daniel Mansuy, director del Centro de Estudios e Investigación Social (Signos) e investigador senior del Instituto de Estudios de la Sociedad (@ieschile ) y Jorge Hagedorn, investigador constitucional de #IdeaPaís, conversaron sobre el recorrido político-social para llegar a este Chile post-transición, las expectativas ciudadanas y propias sobre el nuevo proceso constituyente, su visión acerca de nuestra sistema político y régimen de gobierno, y las tensiones políticas acerca del concepto de subsidiariedad y el neoliberalismo.
+
+🎞 Puedes ver el video completo aquí: https://bit.ly/2O5xfFc
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #DanielMansuy #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast","🎙 Ya está disponible la versión en video de nuestro primer capítulo de ""Hoja en Blanco"".
+
+Daniel Mansuy, director del Centro de Estudios e Investigación Social (Signos) e investigador senior del Instituto de Estudios de la Sociedad (@ieschile ) y Jorge Hagedorn, investigador constitucional de #IdeaPaís, conversaron sobre el recorrido político-social para llegar a este Chile post-transición, las expectativas ciudadanas y propias sobre el nuevo proceso constituyente, su visión acerca de nuestra sistema político y régimen de gobierno, y las tensiones políticas acerca del concepto de subsidiariedad y el neoliberalismo.
+
+🎞 Puedes ver el video completo aquí: https://bit.ly/2O5xfFc
+
+#Podcast #PodcastIP #HojaEnBlanco #Spotify #JorgeHagedorn #DanielMansuy #PodcastConstitucional, #Entrevista #DiscusiónConstitucional #PropuestasConstitucionales #NuevaConstitución #Constitución #ConstituciónChile #NuevaConstituciónChile #NewPodcast #NuevoPodcast",57,"03/30/2021 08:52",auto,https://www.facebook.com/ideapaischile/videos/215635583648304/,0,0,Videos,,,,,Total,,0,0,,105,2,2,0,0,669.229,7.119,3,1,2,,0,105,35,0,34,0,0,35,0,0,0,0,177.22,492.009,0,0,12.659,6.151,0,0,1,1,1,0.74,0.51,0.31,0.31,0.23,0.2,0.2,0.17,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.11,0.11,0.11,0.11,0.11,0.09,0.09,0.06,0.06,0.03,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.86,0.86,0.86,0.86,0.86,0.71,0.57,0.43,0.43,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2506528382975377,100064564696710,IdeaPaís,"El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas.
+
+¿No la has revisado? ⁉
+
+👉Puedes encontrar la #PrimeraEdición aquí: https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política","El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas.
+
+¿No la has revisado? ⁉
+
+👉Puedes encontrar la #PrimeraEdición aquí: https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política",14,"03/29/2021 08:56",N/A,https://www.facebook.com/ideapaischile/videos/2506528382975377/,0,0,Videos,,,,,Total,,0,0,,72,0,0,0,0,91.927,1.584,0,,,,0,72,5,0,5,0,0,5,0,0,0,0,4.793,87.134,0,0,0.799,1.676,0,0,1,1,1,1,1,0.6,0.4,0,0,0,0,0,0,0.2,0.2,0.2,0.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149204223770234,100064564696710,IdeaPaís,"[#IPRecomienda] Nuestra recomendación de hoy es: El episodio Joaquín García-Huidobro y su libro ""Bencina & Pasto Seco. La crisis chilena en perspectiva (1990-2020)‪"" del #Podcast #Réplica de @tele13_radio‬. Aquí exploran las causas de la crisis social y política que vive nuestro país, que dieron origen al estallido del 18 de octubre de 2019.
+
+📌 Puedes encontrarlo aquí: https://apple.co/3detGoH
+
+#Podcast #JoaquínGarcíaHuidobro #CrisisSocial #EstallidoSocial #GonzaloVial","[#IPRecomienda] Nuestra recomendación de hoy es: El episodio Joaquín García-Huidobro y su libro ""Bencina & Pasto Seco. La crisis chilena en perspectiva (1990-2020)‪"" del #Podcast #Réplica de @tele13_radio‬. Aquí exploran las causas de la crisis social y política que vive nuestro país, que dieron origen al estallido del 18 de octubre de 2019.
+
+📌 Puedes encontrarlo aquí: https://apple.co/3detGoH
+
+#Podcast #JoaquínGarcíaHuidobro #CrisisSocial #EstallidoSocial #GonzaloVial",16,"03/28/2021 09:34",auto,https://www.facebook.com/ideapaischile/videos/149204223770234/,0,0,Videos,,,,,Total,,0,0,,92,0,0,0,0,306.347,3.481,2,1,,1,0,92,15,0,14,0,0,15,0,0,0,0,112.248,194.099,0,0,7.016,2.696,0,0,1,1,1,1,0.73,0.6,0.47,0.47,0.47,0.47,0.47,0.4,0.33,0.33,0.27,0.27,0.27,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+925203671614073,100064564696710,IdeaPaís,"La pandemia nos hizo adaptarnos, cambiar nuestras costumbres e integrarnos al mundo digital. Una alternativa que nos permite seguir con nuestras actividades, a pesar del confinamiento. Pero, ¿cómo afectó el #COVID19 a la obtención de empleo?👧
+
+Más 900 mil mujeres perdieron sus puestos de trabajo en el  2020 y según datos de ComunidadMujer, 88% de ellas ha renunciado a la búsqueda de nuevas oportunidades por temor a posibles contagios y por sobrecarga en las tareas del hogar.  Esto demuestra una evidente falta de #corresponsabilidad que solo genera más desgaste a la mujer y le resta participación en el campo laboral.  
+
+⏰ Es tiempo para que trabajemos por crear una sociedad más justa, y para esto debemos empezar desde la casa. Una sociedad corresponsable es una que en la que la familia y el hogar no son una carga, sino una responsabilidad compartida. Este es el puntapié inicial para una sociedad con equidad de condiciones y oportunidades entre mujeres y hombres.
+
+¿Estás de acuerdo con nuestra propuesta?
+
+¿Crees que hombres y mujeres deberíamos tener la misma participación en las tareas del hogar? ¿Crees que estamos en igualdad de condiciones para buscar empleo?   🙋‍♀️🙋‍♂️
+
+📣¡Anímate! y comenta usando los hashtags #ProMujer e #IdeaPaís","La pandemia nos hizo adaptarnos, cambiar nuestras costumbres e integrarnos al mundo digital. Una alternativa que nos permite seguir con nuestras actividades, a pesar del confinamiento. Pero, ¿cómo afectó el #COVID19 a la obtención de empleo?👧
+
+Más 900 mil mujeres perdieron sus puestos de trabajo en el  2020 y según datos de ComunidadMujer, 88% de ellas ha renunciado a la búsqueda de nuevas oportunidades por temor a posibles contagios y por sobrecarga en las tareas del hogar.  Esto demuestra una evidente falta de #corresponsabilidad que solo genera más desgaste a la mujer y le resta participación en el campo laboral.  
+
+⏰ Es tiempo para que trabajemos por crear una sociedad más justa, y para esto debemos empezar desde la casa. Una sociedad corresponsable es una que en la que la familia y el hogar no son una carga, sino una responsabilidad compartida. Este es el puntapié inicial para una sociedad con equidad de condiciones y oportunidades entre mujeres y hombres.
+
+¿Estás de acuerdo con nuestra propuesta?
+
+¿Crees que hombres y mujeres deberíamos tener la misma participación en las tareas del hogar? ¿Crees que estamos en igualdad de condiciones para buscar empleo?   🙋‍♀️🙋‍♂️
+
+📣¡Anímate! y comenta usando los hashtags #ProMujer e #IdeaPaís",28,"03/25/2021 15:21",N/A,https://www.facebook.com/ideapaischile/videos/925203671614073/,0,0,Videos,,,,,Total,,0,0,,76,2,2,0,0,116.155,2.151,3,1,2,,0,76,7,0,7,0,0,7,0,0,0,0,7.744,108.411,0,0,1.291,2.259,0,0,1,1,1,1,0.57,0.57,0.43,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+428701025096475,100064564696710,IdeaPaís,"💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional","💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+¡Anímate!
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional",32,"03/22/2021 12:17",N/A,https://www.facebook.com/ideapaischile/videos/428701025096475/,0,0,Videos,,,,,Total,,0,0,,84,0,0,0,0,120.253,1.768,0,,,,0,84,8,0,8,0,0,8,0,0,0,0,10.485,109.768,0,0,2.097,1.743,0,0,0.88,0.88,0.88,0.88,0.63,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.25,0.25,0.13,0.13,0.13,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2902717749973563,100064564696710,IdeaPaís,"[#IPRecomienda] Nuestra recomendación de hoy es: #LaTeoríaSuecadelAmor. Un documental dirigido por Erik Gandini y que busca reflejar el abandono y las dificultades que viven los #AdultosMayores. .
+
+El documental desgrana lo que fue el proyecto de familia del gobierno sueco de los años 70, titulado “La familia del futuro: una política socialista para la familia”. Dicho programa se constituyó en un auténtico manifiesto en el que se establecían las directrices de la política estatal para lograr una familia “nueva”. El objetivo era asegurar la completa independencia —“el valor más sueco de todos”— de los individuos respecto de sus relaciones familiares, de modo tal que ellas no supusieran ninguna carga, ya sea en términos materiales o emocionales. Así, se buscaba que los hijos jóvenes no dependieran de sus padres, ni los adultos mayores de sus hijos, ni las mujeres de los hombres ni viceversa, garantizando su supuesta autosuficiencia.
+
+Actualmente se encuentra disponible en YouTube.
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#YouTube #Documental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales #Sociedad","[#IPRecomienda] Nuestra recomendación de hoy es: #LaTeoríaSuecadelAmor. Un documental dirigido por Erik Gandini y que busca reflejar el abandono y las dificultades que viven los #AdultosMayores. .
+
+El documental desgrana lo que fue el proyecto de familia del gobierno sueco de los años 70, titulado “La familia del futuro: una política socialista para la familia”. Dicho programa se constituyó en un auténtico manifiesto en el que se establecían las directrices de la política estatal para lograr una familia “nueva”. El objetivo era asegurar la completa independencia —“el valor más sueco de todos”— de los individuos respecto de sus relaciones familiares, de modo tal que ellas no supusieran ninguna carga, ya sea en términos materiales o emocionales. Así, se buscaba que los hijos jóvenes no dependieran de sus padres, ni los adultos mayores de sus hijos, ni las mujeres de los hombres ni viceversa, garantizando su supuesta autosuficiencia.
+
+Actualmente se encuentra disponible en YouTube.
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#YouTube #Documental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales #Sociedad",16,"03/21/2021 10:20",N/A,https://www.facebook.com/ideapaischile/videos/2902717749973563/,0,0,Videos,,,,,Total,,0,0,,84,0,0,0,0,385.294,5.206,0,,,,0,84,15,0,15,0,0,15,0,0,0,0,120.875,264.419,0,0,20.146,3.889,0,0,1,1,1,1,0.87,0.6,0.47,0.47,0.4,0.33,0.27,0.27,0.27,0.27,0.27,0.27,0.27,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251814269948741,100064564696710,IdeaPaís,"Nos estamos acercando a las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy María Eyzaguirre, investigadora de #IPConstitucional, nos explicará cómo podría afectar el aumento de los candidatos independientes en los resultados de las elección. 
+
+Ahora que ya lo sabes, no te quedes con la información.
+
+¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril  #DiscusiónConstitucional #SistemaDHont #Paridad #Constitución #ConstituciónSolidaria #EscañosReservados #CandidatosIndependientes","Nos estamos acercando a las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy María Eyzaguirre, investigadora de #IPConstitucional, nos explicará cómo podría afectar el aumento de los candidatos independientes en los resultados de las elección. 
+
+Ahora que ya lo sabes, no te quedes con la información.
+
+¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril  #DiscusiónConstitucional #SistemaDHont #Paridad #Constitución #ConstituciónSolidaria #EscañosReservados #CandidatosIndependientes",27,"03/18/2021 15:25",auto,https://www.facebook.com/ideapaischile/videos/251814269948741/,0,0,Videos,,,,,Total,,0,0,,60,1,1,0,0,192.233,3.495,1,1,,,0,60,9,0,9,0,0,9,0,0,0,0,14.527,177.706,0,0,2.906,3.555,0,0,1,1,1,1,1,1,0.78,0.67,0.56,0.56,0.44,0.44,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.22,0.22,0.22,0.22,0.22,0.22,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.67,0.67,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292788495609500,100064564696710,IdeaPaís,"A menos de un mes para las Elecciones para convencionales constituyentes queremos recordar la columna realizada por Magdalena Ortega, Directora de #IPConstitucional. En este video 
+nos habla sobre la importancia de reivindicar la solidaridad como principio rector del orden social y, por lo tanto, como un elemento que debe incorporarse a la hora de pensar nuestras políticas públicas.
+
+¿Qué opinas tú?
+
+#Constitución #nuevaconstitución #discusiónconstitucional #DerechosSociales  #11abril #IdeaPaís #MagdalenaOrtega #Elecciones2021 #solidaridad #políticaspúblicas #ordensocial","A menos de un mes para las Elecciones para convencionales constituyentes queremos recordar la columna realizada por Magdalena Ortega, Directora de #IPConstitucional. En este video 
+nos habla sobre la importancia de reivindicar la solidaridad como principio rector del orden social y, por lo tanto, como un elemento que debe incorporarse a la hora de pensar nuestras políticas públicas.
+
+¿Qué opinas tú?
+
+#Constitución #nuevaconstitución #discusiónconstitucional #DerechosSociales  #11abril #IdeaPaís #MagdalenaOrtega #Elecciones2021 #solidaridad #políticaspúblicas #ordensocial",96,"03/15/2021 15:40",auto,https://www.facebook.com/ideapaischile/videos/292788495609500/,0,0,Videos,,,,,Total,,0,0,,105,1,1,0,0,391.705,4.719,2,2,,,0,105,24,1,23,1,0,24,0,0,0,0,5.474,386.231,0,0,1.369,4.889,0,0,1,1,0.63,0.29,0.17,0.13,0.13,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0.8,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5215910948481515,100064564696710,IdeaPaís,"[#IPRecomienda] Nuestra recomendación de hoy es: #ElAgenteTopo. Un documental chileno dirigido por Maite Alberdi y  que  busca reflejar el abandono y las dificultades que viven los #AdultosMayores en Chile. 
+
+La película se encuentra preseleccionada en la lista de 15 finalistas en las Categorías Mejor Documental y Mejor Película Internacional de los Premios Óscar. Dos situaciones inéditas para un film chileno: El Agente Topo es la primera película chilena que compite en dos categorías, y por primera vez un documental nacional queda en la preselección, siendo un hito para este género.
+
+Actualmente  se encuentra disponible en Netflix.  
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#Netflix #Ducumental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales","[#IPRecomienda] Nuestra recomendación de hoy es: #ElAgenteTopo. Un documental chileno dirigido por Maite Alberdi y  que  busca reflejar el abandono y las dificultades que viven los #AdultosMayores en Chile. 
+
+La película se encuentra preseleccionada en la lista de 15 finalistas en las Categorías Mejor Documental y Mejor Película Internacional de los Premios Óscar. Dos situaciones inéditas para un film chileno: El Agente Topo es la primera película chilena que compite en dos categorías, y por primera vez un documental nacional queda en la preselección, siendo un hito para este género.
+
+Actualmente  se encuentra disponible en Netflix.  
+
+¿y tú? ¿ya la viste? ¿Qué te pareció?
+Comenta
+👇👇
+
+#Netflix #Ducumental #AdultosMayores #Ancianos #Asilos #Abandono #Vejez #Vulnerabilidad #VínculosSociales",15,"03/14/2021 15:25",N/A,https://www.facebook.com/ideapaischile/videos/5215910948481515/,0,0,Videos,,,,,Total,,0,0,,83,0,0,0,0,270.492,3.512,1,,1,,0,83,14,0,13,0,0,14,0,0,0,0,70.464,200.028,0,0,11.744,2.818,0,0,1,1,1,1,0.86,0.79,0.79,0.71,0.64,0.57,0.43,0.43,0.36,0.29,0.29,0.21,0.21,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264069111969877,100064564696710,IdeaPaís,"¿Aún no revisas nuestro canal de YouTube? 😱
+
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública","¿Aún no revisas nuestro canal de YouTube? 😱
+
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes encontrar nuestro canal aquí: https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública",16,"03/13/2021 14:21",N/A,https://www.facebook.com/ideapaischile/videos/264069111969877/,0,0,Videos,,,,,Total,,0,0,,99,0,0,0,0,224.991,2.527,1,,1,,0,99,10,0,9,0,0,10,0,0,0,0,2.696,222.295,0,0,0.674,2.616,0,0,1,1,1,1,0.9,0.7,0.5,0.4,0.3,0.3,0.2,0.2,0.2,0.2,0.1,0.1,0.1,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+475744660455685,100064564696710,IdeaPaís,"Estamos exactamente a un mes para las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy Magdalena Ortega, directora de #IPConstitucional, nos explica cómo se ajustarán los resultados de las listas con la #paridaddegénero.
+
+Ahora que ya lo sabes, no te quedes con la información. ¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: https://bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril #DiscusiónConstitucional #SistemaDhont #PolíticaChile","Estamos exactamente a un mes para las #Elecciones2021 y es importante que nos preguntemos ¿qué tanto sabemos sobre el sistema que elegirá a los candidatos?
+
+Sabemos que puede ser un proceso complejo y que puede generar dudas. Por lo que hoy Magdalena Ortega, directora de #IPConstitucional, nos explica cómo se ajustarán los resultados de las listas con la #paridaddegénero.
+
+Ahora que ya lo sabes, no te quedes con la información. ¡Compártelo!
+
+¿Te interesa saber más del tema?
+📌 Puedes ver el video completo aquí: https://bit.ly/2MLudpa
+
+#IdeaPaís #EleccionesConstituyentes #11abril #DiscusiónConstitucional #SistemaDhont #PolíticaChile",60,"03/11/2021 15:04",auto,https://www.facebook.com/ideapaischile/videos/475744660455685/,0,0,Videos,,,,,Total,,0,0,,78,0,0,0,0,391.081,5.586,3,2,1,,0,78,20,0,20,0,0,20,0,0,0,0,77.938,313.143,0,0,15.588,4.818,0,0,1,1,1,0.65,0.55,0.45,0.4,0.35,0.3,0.3,0.2,0.15,0.15,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.05,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.25,0.25,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+727762171265097,100064564696710,IdeaPaís,"El confinamiento hizo que nuestra sociedad tuviera que adaptarse e integrar el teletrabajo como una alternativa que le permitía a las personas seguir sus labores sin salir de casa. Pero, ¿cómo afecta esto, a hombres y mujeres en las tareas del hogar? 🧹🧽🛒🍽
+
+Aunque la pandemia fue un evento mundial que afectó ampliamente a nuestra sociedad también tuvo por efecto poner sobre la mesa una realidad antes invisible, e incluso la acrecentó. Estudios realizados por @uchile y por la organización @comunidadmujer demostraron que labores como: cocinar, lavar, limpiar, cuidar a los hijos o ayudar en las tareas, siguen siendo responsabilidades que recaen principalmente en la mujer. Esto implica un mayor desgaste y carga para ella o simplemente brechas que a la larga impiden y dificultan la participación laboral de la mujer
+
+Observamos con preocupación que, a pesar de que un 52% de las chilenas vieron incrementadas sus labores en el hogar, un número tan alto como el 38% de los hombres indica que le dedicó 0 horas (¡ninguna!) a estas tareas. 😱
+
+⏰ Es tiempo para que trabajemos por crear una sociedad más justa, y para esto debemos empezar desde la casa. Una sociedad corresponsable es una que en la que la familia y el hogar no son una carga, sino una responsabilidad compartida. Este es el puntapié inicial para una sociedad con equidad de condiciones y oportunidades entre mujeres y hombres.
+
+¿Estás de acuerdo con nuestra propuesta?
+¿Crees que las tareas del hogar es una responsabilidad que deben asumir hombres y mujeres por igual? 🙋‍♀️🙋‍♂️
+
+📣¡Anímate! y comenta usando los hashtags #ProMujer e #IdeaPaís","El confinamiento hizo que nuestra sociedad tuviera que adaptarse e integrar el teletrabajo como una alternativa que le permitía a las personas seguir sus labores sin salir de casa. Pero, ¿cómo afecta esto, a hombres y mujeres en las tareas del hogar? 🧹🧽🛒🍽
+
+Aunque la pandemia fue un evento mundial que afectó ampliamente a nuestra sociedad también tuvo por efecto poner sobre la mesa una realidad antes invisible, e incluso la acrecentó. Estudios realizados por @uchile y por la organización @comunidadmujer demostraron que labores como: cocinar, lavar, limpiar, cuidar a los hijos o ayudar en las tareas, siguen siendo responsabilidades que recaen principalmente en la mujer. Esto implica un mayor desgaste y carga para ella o simplemente brechas que a la larga impiden y dificultan la participación laboral de la mujer
+
+Observamos con preocupación que, a pesar de que un 52% de las chilenas vieron incrementadas sus labores en el hogar, un número tan alto como el 38% de los hombres indica que le dedicó 0 horas (¡ninguna!) a estas tareas. 😱
+
+⏰ Es tiempo para que trabajemos por crear una sociedad más justa, y para esto debemos empezar desde la casa. Una sociedad corresponsable es una que en la que la familia y el hogar no son una carga, sino una responsabilidad compartida. Este es el puntapié inicial para una sociedad con equidad de condiciones y oportunidades entre mujeres y hombres.
+
+¿Estás de acuerdo con nuestra propuesta?
+¿Crees que las tareas del hogar es una responsabilidad que deben asumir hombres y mujeres por igual? 🙋‍♀️🙋‍♂️
+
+📣¡Anímate! y comenta usando los hashtags #ProMujer e #IdeaPaís",21,"03/10/2021 15:20",N/A,https://www.facebook.com/ideapaischile/videos/727762171265097/,0,0,Videos,,,,,Total,,0,0,,53,0,0,0,0,144.644,2.951,1,1,,,0,53,8,0,8,0,0,8,0,0,0,0,38.107,106.537,0,0,7.622,2.422,0,0,1,1,1,1,1,0.75,0.75,0.63,0.5,0.5,0.38,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.13,0.13,0.13,0.13,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+720490465315030,100064564696710,IdeaPaís,"En un país donde existe desigualdad de condiciones entre hombres y mujeres, conmemoramos el #MesdelaMujer con el inicio de nuestra campaña #ProMujer, un espacio que buscará  dar visibilidad a las distintas realidades a las que se enfrenta la #MujerChilena.
+
+👩👩‍🦰👱‍♀️👩‍🦳
+
+Estaremos compartiendo datos, estadísticas, propuestas y cada semana tendremos conversaciones #envivo con grandes invitadas, a través de nuestra cuenta de Instagram (@ideapais)
+
+📢¡No te pierdas ninguno de nuestros contenidos! 
+Únete a la conversación, comenta y comparte la información usando nuestro hashtags #ProMujer e #IdeaPaís. 
+
+#MesdelaMujer #Mujer #Mujeres #Woman #Women #MujerEnElMundo #MujerEnChile #MujerChilena #Sheinspiresme #Ella #Ellas #WonderWomen #justiciaparalasMujeres #IgualdadDeGénero #Planeta5050 #GirlPower #Niñas #Niña #ParidadDeGénero #Nomásviolencia","En un país donde existe desigualdad de condiciones entre hombres y mujeres, conmemoramos el #MesdelaMujer con el inicio de nuestra campaña #ProMujer, un espacio que buscará  dar visibilidad a las distintas realidades a las que se enfrenta la #MujerChilena.
+
+👩👩‍🦰👱‍♀️👩‍🦳
+
+Estaremos compartiendo datos, estadísticas, propuestas y cada semana tendremos conversaciones #envivo con grandes invitadas, a través de nuestra cuenta de Instagram (@ideapais)
+
+📢¡No te pierdas ninguno de nuestros contenidos! 
+Únete a la conversación, comenta y comparte la información usando nuestro hashtags #ProMujer e #IdeaPaís. 
+
+#MesdelaMujer #Mujer #Mujeres #Woman #Women #MujerEnElMundo #MujerEnChile #MujerChilena #Sheinspiresme #Ella #Ellas #WonderWomen #justiciaparalasMujeres #IgualdadDeGénero #Planeta5050 #GirlPower #Niñas #Niña #ParidadDeGénero #Nomásviolencia",25,"03/09/2021 08:19",N/A,https://www.facebook.com/ideapaischile/videos/720490465315030/,0,0,Videos,,,,,Total,,0,0,,48,0,0,0,0,113.32,2.575,0,,,,0,48,5,0,5,0,0,5,0,0,0,0,13.962,99.358,0,0,2.793,2.548,0,0,0.8,1,1,1,1,0.8,0.6,0.6,0.6,0.4,0.4,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125445619493570,100064564696710,IdeaPaís,"[#Paisaldía]    ¿Elecciones en dos días?
+
+📣 Jorge Hagedorn, investigador constitucional de #IdeaPaís, nos habla hoy sobre las consecuencias que puede traer  el proyecto ingresado este lunes por el Gobierno. Una medida  que establece un segundo día de votación para evitar aglomeraciones en las elecciones de alcaldes, concejales, gobernadores regionales y convencionales constituyentes estipulada para el 11 de abril de 2021.  
+
+#JorgeHagedorn #IdeaPaís #IpenLosMedios #IPConstitucional #Políticachilena  #Elecciones #11abril #Elecciones2021
+#Partidos #PartidosPolíticos #Servel","[#Paisaldía]    ¿Elecciones en dos días?
+
+📣 Jorge Hagedorn, investigador constitucional de #IdeaPaís, nos habla hoy sobre las consecuencias que puede traer  el proyecto ingresado este lunes por el Gobierno. Una medida  que establece un segundo día de votación para evitar aglomeraciones en las elecciones de alcaldes, concejales, gobernadores regionales y convencionales constituyentes estipulada para el 11 de abril de 2021.  
+
+#JorgeHagedorn #IdeaPaís #IpenLosMedios #IPConstitucional #Políticachilena  #Elecciones #11abril #Elecciones2021
+#Partidos #PartidosPolíticos #Servel",44,"03/03/2021 14:25",auto,https://www.facebook.com/ideapaischile/videos/125445619493570/,0,0,Videos,,,,,Total,,0,0,,93,2,1,0,1,275.435,3.672,2,2,,,0,93,17,0,15,0,0,17,0,0,0,0,83.448,182.469,9.518,0,8.345,2.944,3.173,0,1,1,1,1,0.59,0.47,0.47,0.35,0.35,0.35,0.35,0.29,0.29,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.12,0.12,0.12,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454860862384519,100064564696710,IdeaPaís,"💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+Anímate ‼
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional","💻 ¿Has visitado nuestra página web?
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena.
+
+Anímate ‼
+
+📌 Visítanos en ➡ https://ideapais.cl/
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional",32,"03/01/2021 14:14",N/A,https://www.facebook.com/ideapaischile/videos/454860862384519/,0,0,Videos,,,,,Total,,0,0,,90,0,0,0,0,133.939,1.809,0,,,,0,90,8,0,7,0,0,8,0,0,0,0,23.469,110.47,0,0,2.934,1.674,0,0,0.88,0.88,1,1,0.63,0.5,0.25,0.25,0.25,0.25,0.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+473379213669297,100064564696710,IdeaPaís,"El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas. 
+
+¿No la has revisado? ⁉
+
+Puedes encontrar la #PrimeraEdición en nuestra página web
+ 👉 https://bit.ly/3o56BIq 
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo","El año pasado lanzamos #Raíces. Una #revista que busca ser un espacio para las ideas, abordando los temas relevantes de la política chilena de una manera amplia y que integra perspectivas tanto académicas como políticas. 
+
+¿No la has revisado? ⁉
+
+Puedes encontrar la #PrimeraEdición en nuestra página web
+ 👉 https://bit.ly/3o56BIq 
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo",14,"02/26/2021 08:13",N/A,https://www.facebook.com/ideapaischile/videos/473379213669297/,0,0,Videos,,,,,Total,,0,0,,91,0,0,0,0,152.789,1.909,1,1,,,0,91,8,0,8,0,0,8,0,0,0,0,3.389,149.4,0,0,0.678,1.992,0,0,1,1,1,1,0.88,0.75,0.63,0.63,0.5,0.38,0.38,0.25,0.25,0.25,0.13,0.13,0.13,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1814425448714213,100064564696710,IdeaPaís,"La discusión constitucional que se avecina será una excelente oportunidad para repensar nuestra institucionalidad. Para que esta, a través de distintos mecanismos, pueda robustecer la vida local , la interdependencia y las distintas comunidades humanas. 
+
+Un modelo en el que, tanto las personas como sus organizaciones, sean el motor del desarrollo social y con una cooperación entre la sociedad y el Estado basada en los principios de subsidiariedad y solidaridad. 
+
+La cohesión social juega un rol fundamental en la vitalidad de una comunidad política. Porque la sociedad no son meros individuos aislados, sino que son familias y comunidades de sentido que interactúan entre sí en la búsqueda del bien común. 
+
+Si te interesa saber más de nuestras propuestas puedes revisar el Decálogo Constitucional aquí: https://bit.ly/2ZGpuI6
+
+#Descentralización #Solidaridad #Estado #sociedadCivil #Cooperación #DiscusiónConstitucional #NuevaConstitución #DesarrolloSocial #Política #Chile #Constitución #ConstituciónChile","La discusión constitucional que se avecina será una excelente oportunidad para repensar nuestra institucionalidad. Para que esta, a través de distintos mecanismos, pueda robustecer la vida local , la interdependencia y las distintas comunidades humanas. 
+
+Un modelo en el que, tanto las personas como sus organizaciones, sean el motor del desarrollo social y con una cooperación entre la sociedad y el Estado basada en los principios de subsidiariedad y solidaridad. 
+
+La cohesión social juega un rol fundamental en la vitalidad de una comunidad política. Porque la sociedad no son meros individuos aislados, sino que son familias y comunidades de sentido que interactúan entre sí en la búsqueda del bien común. 
+
+Si te interesa saber más de nuestras propuestas puedes revisar el Decálogo Constitucional aquí: https://bit.ly/2ZGpuI6
+
+#Descentralización #Solidaridad #Estado #sociedadCivil #Cooperación #DiscusiónConstitucional #NuevaConstitución #DesarrolloSocial #Política #Chile #Constitución #ConstituciónChile",92,"02/23/2021 14:46",auto,https://www.facebook.com/ideapaischile/videos/1814425448714213/,0,0,Videos,,,,,Total,,0,0,,124,1,1,0,0,642.683,5.493,4,3,,1,0,124,30,3,30,3,0,30,0,0,0,0,77.615,565.068,0,0,9.702,5.185,0,0,1,1,0.7,0.53,0.33,0.33,0.27,0.23,0.23,0.23,0.2,0.2,0.2,0.2,0.17,0.17,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.07,0.07,0.03,0.03,0.03,0.03,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,0.75,0.63,0.63,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.25,0.25,0.25,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1037336483442072,100064564696710,IdeaPaís,"¿Aún no revisas nuestro canal de YouTube? 😱
+
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la  política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes entrar aquí ➡ https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública","¿Aún no revisas nuestro canal de YouTube? 😱
+
+¡Anímate y Suscríbete!
+
+Constantemente estamos subiendo todo tipo de material audiovisual sobre temas de interés en la  política chilena y datos claves en el proceso de la redacción de la Nueva Constitución.
+
+Puedes entrar aquí ➡ https://www.youtube.com/user/IdeaPais
+
+#RRSS #IdeaPaís #Suscríbete #YouTube #Videos #Política #Chile #DiscusiónConstitucional #YouTubeChannel #NuevaConstitución #Debates #Seminarios #Conversatorios #PolíticaChile #PolíticaPública",16,"02/23/2021 08:27",N/A,https://www.facebook.com/ideapaischile/videos/1037336483442072/,0,0,Videos,,,,,Total,,0,0,,85,0,0,0,0,90.765,1.278,0,,,,0,85,4,0,4,0,0,4,0,0,0,0,6.997,83.768,0,0,1.4,1.27,0,0,1,1,1,1,0.75,0.5,0.5,0.25,0.25,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116143807058174,100064564696710,IdeaPaís,"Se acerca la #ElecciónDeConvencionales que redactarán la #NuevaConstitución de Chile pero, ¿qué tan informados estamos de cómo se elegirá a esos candidatos?
+
+El próximo 11 de abril tendremos la elección de los constituyentes que se encargarán de redactar la #NuevaConstituciónChile. Esta elección se realizará bajo el sistema #DHont, el mismo que se utiliza para las elecciones de parlamentarios, incluyendo modificaciones especiales en esta oportunidad.
+
+Sabemos que este sistema puede ser complejo y que puede generar dudas con todas las nuevas correcciones que se hicieron para asegurar la participación de los #CandidatosIndependientes, #EscañosReservados para #PueblosOriginarios y la #ParidadDeGénero. Es por eso que, creamos este video explicativo en el que, Jorge Hagedorn, María Eyzaguirre y Carolina Achondo, miembros de nuestra #ÁreaConstitucional, nos ""traen al pizarrón"" como funciona este sistema y todo el proceso que tendrá para obtener a los 155 convencionales.
+
+Ahora que ya lo sabes, no te quedes con la información. Tengamos electores más informados.
+
+¡Compártelo!
+
+#IdeaPaís #EleccionesConstityentes #11abril #DiscusiónConstitucional #SistemaDhont #PolíticaChile #Constitución #ProcesoConstituyente","Se acerca la #ElecciónDeConvencionales que redactarán la #NuevaConstitución de Chile pero, ¿qué tan informados estamos de cómo se elegirá a esos candidatos?
+
+El próximo 11 de abril tendremos la elección de los constituyentes que se encargarán de redactar la #NuevaConstituciónChile. Esta elección se realizará bajo el sistema #DHont, el mismo que se utiliza para las elecciones de parlamentarios, incluyendo modificaciones especiales en esta oportunidad.
+
+Sabemos que este sistema puede ser complejo y que puede generar dudas con todas las nuevas correcciones que se hicieron para asegurar la participación de los #CandidatosIndependientes, #EscañosReservados para #PueblosOriginarios y la #ParidadDeGénero. Es por eso que, creamos este video explicativo en el que, Jorge Hagedorn, María Eyzaguirre y Carolina Achondo, miembros de nuestra #ÁreaConstitucional, nos ""traen al pizarrón"" como funciona este sistema y todo el proceso que tendrá para obtener a los 155 convencionales.
+
+Ahora que ya lo sabes, no te quedes con la información. Tengamos electores más informados.
+
+¡Compártelo!
+
+#IdeaPaís #EleccionesConstityentes #11abril #DiscusiónConstitucional #SistemaDhont #PolíticaChile #Constitución #ProcesoConstituyente",332,"02/22/2021 07:56",auto,https://www.facebook.com/ideapaischile/videos/116143807058174/,0,0,Videos,,,,,Total,,0,0,,54,3,3,0,0,681.493,11.749,5,2,3,,0,54,13,3,12,3,0,13,0,0,0,0,605.793,75.7,0,0,55.073,1.611,0,0,0.92,0.31,0.23,0.15,0.15,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0,0,0.08,0.08,0,0,0,0,0,0,0,0,1,1,1,0.75,0.75,0.75,0.75,0.5,0.75,0.5,0.5,0.25,0.25,0.5,0.25,0.5,0.5,0.25,0.5,0.5,0.25,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1901853499982266,100064564696710,IdeaPaís,"""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del  abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web ➡ http://ideapais.cl/editorial-ip/
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda  #IdeaPaís","""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del  abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web ➡ http://ideapais.cl/editorial-ip/
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda  #IdeaPaís",7,"02/18/2021 08:07",N/A,https://www.facebook.com/ideapaischile/videos/1901853499982266/,0,0,Videos,,,,,Total,,0,0,,100,0,0,0,0,291.027,2.969,0,,,,0,100,21,0,21,0,0,21,0,0,0,0,140.522,150.505,0,0,7.027,1.93,0,0,1,1,1,1,0.9,0.43,0.33,0.24,0.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258351752508501,100064564696710,IdeaPaís,"🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? 
+ Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional. 
+
+🖱Puedes ingresar aquí https://bit.ly/3oVEexP
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #ProcesoConstituyente","🖥 ¿Ya revisaste el #ÁreaConstitucional de nuestra página web? 
+ Aquí estamos publicando #Documentos, #Ensayos, #Videos, #Podcast y todo tipo de contenido que ayude a informar sobre la #DiscusiónConstitucional. 
+
+🖱Puedes ingresar aquí https://bit.ly/3oVEexP
+
+#Ideapaís #NuevaConstutución #PáginaWeb #abcconstitucional #ConstituciónSolidaria #ConstituciónChile #ProcesoConstituyente",18,"02/17/2021 07:56",N/A,https://www.facebook.com/ideapaischile/videos/258351752508501/,0,0,Videos,,,,,Total,,0,0,,41,0,0,0,0,46.918,1.421,0,,,,0,41,3,0,3,0,0,3,0,0,0,0,7.622,39.296,0,0,1.525,1.404,0,0,1,1,1,1,0.67,0.33,0.33,0.33,0.33,0.33,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1887007161478114,100064564696710,IdeaPaís,"✒ Creemos que es un ineludible compromiso del #Estado el responder adecuadamente a esta y otras problemáticas, disponiendo de las condiciones materiales necesarias para asegurar una #VidaDigna para sus ciudadanos.
+.
+Por eso, proponemos comenzar a entender los derechos sociales más bien como: #MetasSolidarias. Estas consisten en fines constitucionales concretos que, mediante mandatos al legislador, buscan que se concreticen y resguarden las condiciones necesarias para el desarrollo de las personas.
+.
+¿Te interesa ampliar este tema? .
+.
+📃Te invitamos a leer nuestro nuevo documento “Derechos sociales, política y judicialización: De las tensiones que generan y una propuesta en la materia para una nueva Constitución” publicado en nuestra página web
+
+🖱Puedes encontrarlo aquí: https://bit.ly/3oTrMyt
+
+#DerechosSociales #Judicialización #DiscusiónConstitucional #NuevaConstitución #Estado #SociedadCivil #ConstituciónSolidaria","✒ Creemos que es un ineludible compromiso del #Estado el responder adecuadamente a esta y otras problemáticas, disponiendo de las condiciones materiales necesarias para asegurar una #VidaDigna para sus ciudadanos.
+.
+Por eso, proponemos comenzar a entender los derechos sociales más bien como: #MetasSolidarias. Estas consisten en fines constitucionales concretos que, mediante mandatos al legislador, buscan que se concreticen y resguarden las condiciones necesarias para el desarrollo de las personas.
+.
+¿Te interesa ampliar este tema? .
+.
+📃Te invitamos a leer nuestro nuevo documento “Derechos sociales, política y judicialización: De las tensiones que generan y una propuesta en la materia para una nueva Constitución” publicado en nuestra página web
+
+🖱Puedes encontrarlo aquí: https://bit.ly/3oTrMyt
+
+#DerechosSociales #Judicialización #DiscusiónConstitucional #NuevaConstitución #Estado #SociedadCivil #ConstituciónSolidaria",96,"02/15/2021 05:17",auto,https://www.facebook.com/ideapaischile/videos/1887007161478114/,0,0,Videos,,,,,Total,,0,0,,131,1,1,0,0,565.934,5.008,2,2,,,0,131,33,2,31,2,0,33,0,0,0,0,105.355,460.579,0,0,8.78,4.561,0,0,0.97,0.97,0.52,0.24,0.15,0.15,0.15,0.15,0.12,0.09,0.12,0.12,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0,0,0,1,1,1,1,1,1,1,1,0.86,0.71,0.71,0.71,0.71,0.71,0.57,0.57,0.57,0.57,0.57,0.57,0.43,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201011491761083,100064564696710,IdeaPaís,"💻 ¿Has visitado nuestra página web? 
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena. 
+
+Anímate ‼
+
+📌 Visítanos en ➡ https://ideapais.cl/  
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional","💻 ¿Has visitado nuestra página web? 
+
+Aquí podrás encontrar documentos, videos, columnas, estudios, infografías, propuestas constitucionales y muchos más contenidos relacionados a la política chilena. 
+
+Anímate ‼
+
+📌 Visítanos en ➡ https://ideapais.cl/  
+
+#IdeaPáís #Política #PolíticaChile #CentroEstudios #Web #IdeaPais #Documentos #Propuestas #DiscusiónConstitucional",32,"02/12/2021 09:44",N/A,https://www.facebook.com/ideapaischile/videos/201011491761083/,0,0,Videos,,,,,Total,,0,0,,60,0,0,0,0,105.547,2.069,0,,,,0,60,4,0,4,0,0,4,0,0,0,0,6.592,98.955,0,0,0.824,2.302,0,0,1,1,1,1,0.75,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169427008312164,100064564696710,IdeaPaís,"Compartimos la participación de Matías Petersen en el debate ""Gonzalo Vial: ¿Respuestas para el Chile actual?"" de Horizontal Chile.  Aquí nos habla sobre los textos de este escritor y cómo éstos tienen una visión que se ​ajusta al Chile actual.    
+
+Puedes leer un compilado de sus columnas en nuestro libro: ""Gonzalo Vial: Política y Crisis Social"". Encuéntralo en Amazon, Kindle, Google Play, o en nuestra página web: https://bit.ly/38CFBvk
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #Columnas #IdePaís","Compartimos la participación de Matías Petersen en el debate ""Gonzalo Vial: ¿Respuestas para el Chile actual?"" de Horizontal Chile.  Aquí nos habla sobre los textos de este escritor y cómo éstos tienen una visión que se ​ajusta al Chile actual.    
+
+Puedes leer un compilado de sus columnas en nuestro libro: ""Gonzalo Vial: Política y Crisis Social"". Encuéntralo en Amazon, Kindle, Google Play, o en nuestra página web: https://bit.ly/38CFBvk
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #Columnas #IdePaís",53,"02/08/2021 10:01",auto,https://www.facebook.com/ideapaischile/videos/169427008312164/,0,0,Videos,,,,,Total,,0,0,,81,1,1,0,0,427.245,5.621,4,2,2,,0,81,26,0,25,0,0,26,0,0,0,0,168.376,258.869,0,0,7.654,4.794,0,0,1,1,1,0.88,0.77,0.58,0.46,0.31,0.31,0.27,0.23,0.23,0.23,0.23,0.12,0.12,0.12,0.08,0.08,0.08,0.08,0.08,0.08,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.63,0.63,0.63,0.5,0.38,0.38,0.38,0.38,0.38,0.38,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.13,0.13,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+425993851947762,100064564696710,IdeaPaís,"Te invitamos a leer la #PrimeraEdición de nuestra revista #Raíces. Un proyecto que buscar ser un espacio para las ideas, que aborda todos los temas relevantes de la política chilena y que es un puente entre el mundo académico y el político.
+
+Puedes revisar la revista en nuestra página web:
+➡https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política","Te invitamos a leer la #PrimeraEdición de nuestra revista #Raíces. Un proyecto que buscar ser un espacio para las ideas, que aborda todos los temas relevantes de la política chilena y que es un puente entre el mundo académico y el político.
+
+Puedes revisar la revista en nuestra página web:
+➡https://bit.ly/3o56BIq
+
+#IdeaPaís #RevistaRaíces #Revista #Raíces #socialcristianismo #PensamientoPolítico #PolíticaChilena #IdeaPais #Política",14,"02/01/2021 07:55",N/A,https://www.facebook.com/ideapaischile/videos/425993851947762/,0,0,Videos,,,,,Total,,0,0,,89,1,1,0,0,144.711,1.831,0,,,,0,89,11,0,11,0,0,11,0,0,0,0,9.997,134.714,0,0,1.667,1.846,0,0,1,1,1,1,0.91,0.73,0.55,0.27,0.18,0.18,0.09,0.09,0.09,0.09,0.09,0.09,0.09,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266514371477946,100064564696710,IdeaPaís,"""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del  abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+
+Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web ➡ http://ideapais.cl/editorial-ip/
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda  #IdeaPaís","""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del  abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+
+Puedes adquirir el libro en su formato digital a través de Amazon, Google Play o Kindle; y en su edición física a través de nuestra página web ➡ http://ideapais.cl/editorial-ip/
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda  #IdeaPaís",7,"01/23/2021 10:31",N/A,https://www.facebook.com/ideapaischile/videos/266514371477946/,0,0,Videos,,,,,Total,,0,0,,99,0,0,0,0,284.614,3.093,5,3,1,1,0,99,21,0,19,0,0,21,0,0,0,0,77.596,207.018,0,0,3.88,2.876,0,0,1,1,1,1,0.95,0.76,0.57,0.38,0.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+395393034881488,100064564696710,IdeaPaís,"[#IPRecomienda] Nuestra recomendación de hoy es: #LaCacería: Las niñas de Alto Hospicio, una serie chilena basada en el caso del ""Psicópata de Alto Hospicio"" ocurrido en el norte del país a fines de los años 90.
+
+Recomendamos esta serie, ya que es una muestra gráfica del abandono, la pobreza y el clasismo más brutal de la clase política y de la policía. 
+
+¿y tú? ¿ya la viste?
+Comenta
+
+#Serie #Seriechilena #CrisisSocial #Política #Crimen #Psicópata #AltoHospicio #ViolenciaSocial #Violencia #Clasismo #Abandono #Pobreza #Femicidio #Femicidios #Feminicidios","[#IPRecomienda] Nuestra recomendación de hoy es: #LaCacería: Las niñas de Alto Hospicio, una serie chilena basada en el caso del ""Psicópata de Alto Hospicio"" ocurrido en el norte del país a fines de los años 90.
+
+Recomendamos esta serie, ya que es una muestra gráfica del abandono, la pobreza y el clasismo más brutal de la clase política y de la policía. 
+
+¿y tú? ¿ya la viste?
+Comenta
+
+#Serie #Seriechilena #CrisisSocial #Política #Crimen #Psicópata #AltoHospicio #ViolenciaSocial #Violencia #Clasismo #Abandono #Pobreza #Femicidio #Femicidios #Feminicidios",15,"01/08/2021 02:55",N/A,https://www.facebook.com/ideapaischile/videos/395393034881488/,0,0,Videos,,,,,Total,,0,0,,57,0,0,0,0,242.247,2.918,0,,,,0,57,16,0,14,0,0,16,0,0,0,0,103.608,138.639,0,0,2.801,3.014,0,0,0.94,1,1,1,0.94,0.75,0.38,0.25,0.25,0.19,0.13,0.13,0.13,0.13,0.13,0.13,0.13,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3462515667198591,100064564696710,IdeaPaís,"""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+
+Puedes adquirir el libro en su formato digital a través de
+ Amazon: https://amzn.to/38kvEl2
+ Google Play: http://bit.ly/3nEjPN6
+
+En su edición física a través de nuestra página web: http://ideapais.cl/editorial-ip/ 
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #IdeaPaís","""Gonzalo Vial: Política y Crisis Social"" Una selección de columnas del abogado e historiador escritas para La Segunda durante la transición política. Estas describen algunas de las causas que, a nuestro juicio, gatillaron la crisis social de octubre de 2019, y que Gonzalo Vial ya había anunciado hace muchos años.
+
+Puedes adquirir el libro en su formato digital a través de
+ Amazon: https://amzn.to/38kvEl2
+ Google Play: http://bit.ly/3nEjPN6
+
+En su edición física a través de nuestra página web: http://ideapais.cl/editorial-ip/ 
+
+#GonzaloVial #Libro #EditorialIP #Política #CrisisSocial #LaSegunda #IdeaPaís",7,"12/21/2020 13:56",N/A,https://www.facebook.com/ideapaischile/videos/3462515667198591/,0,0,Videos,,,,,Total,,0,0,,96,1,1,0,0,367.432,4.128,1,,1,,0,96,23,0,22,0,0,23,0,0,0,0,89.456,277.976,0,0,4.709,3.972,0,0,1,1,1,1,0.87,0.74,0.7,0.52,0.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151273801758957,100064564696710,IdeaPaís,"Sherif Girgis en Universidad Andrés Bello","Sherif Girgis expone sobre matrimonio y familia en UNAB.",186,"07/13/2012 06:26",N/A,https://www.facebook.com/ideapaischile/videos/10151273801758957/,0,0,Videos,,,,,Total,,,,,15,1,0,0,1,392.817,0,0,,,,0,15,8,1,6,1,0,8,0,0,0,0,111.38,0,281.437,0,4.641,0,93.813,0,1,0.88,0.63,0.25,0.25,0.25,0.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10150238813133957,100064564696710,IdeaPaís,"Comercial Congreso Humano para Chile","Este es el spot de MEGA sobre nuestro ""1° Congreso de Desarrollo Humano para Chile: desafíos pendientes"", que se realizará el MARTES 05 DE ABRIL a partir de las 09 horas en el Centro de Extensión de la Universidad Católica.
+Inscripciones en: www.ideapais.cl/congreso",30,"04/01/2011 05:30",N/A,https://www.facebook.com/ideapaischile/videos/10150238813133957/,0,0,Videos,,,,,Total,,,,,2,0,0,0,0,0.409,0,0,,,,0,2,0,0,0,0,0,0,0,0,0,0,0.409,0,0,0,0.409,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448150899175134,100064564696710,IdeaPaís,"Itinerario Constitucional","A propósito del Acuerdo por la paz firmado por parlamentario opositores y oficialistas, Magdalena Ortega, Directora de Formación y Servicio Público de IdeaPaís, explica los procesos y fechas que se vienen próximamente en relación a la posible elaboración de una nueva Constitución. .
+.
+.
+.
+
+#NuevaConstitución #AcuerpoPorLaPaz #ItinerarioConstitucional #MagdalenaOrtega #IdeaPaís #AC #Chile",80,"11/22/2019 11:51",N/A,https://www.facebook.com/ideapaischile/videos/448150899175134/?idorvanity=129618127070181,0,0,Videos,,,,,Total,,0,0,,253,0,0,0,0,1479.843,6.882,19,13,6,,0,253,81,5,76,5,0,81,0,0,0,0,210.993,1268.85,0,0,9.174,6.609,0,0,0.99,0.99,0.84,0.54,0.37,0.31,0.27,0.19,0.14,0.11,0.11,0.1,0.11,0.1,0.09,0.09,0.07,0.07,0.07,0.07,0.06,0.07,0.06,0.06,0.04,0.05,0.05,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,1,1,0.95,0.89,0.89,0.89,0.95,0.95,0.79,0.74,0.68,0.58,0.63,0.58,0.58,0.58,0.53,0.53,0.53,0.53,0.47,0.47,0.47,0.47,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454411598405086,100064564696710,IdeaPaís,"[#Ahora 📣] Comenzamos nuestra Jornada de Coaching para líderes universitarios 💪🏼💥","[#Ahora 📣] Comenzamos nuestra Jornada de Coaching para líderes universitarios 💪🏼💥",15,"08/25/2018 06:43",N/A,https://www.facebook.com/ideapaischile/videos/454411598405086/,0,0,Videos,,,,,Total,,0,0,,800,9,8,0,1,3340.037,4.366,59,38,21,,0,800,282,0,263,0,0,282,0,0,0,0,17.74,15.893,79.112,0,8.87,7.947,3.297,0,1,1,1,1,0.76,0.58,0.45,0.35,0.31,0.28,0.24,0.21,0.18,0.18,0.17,0.14,0.12,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,0,0,51,71,31,30,19,22,5,9,25,2,7,2,267,6,,,,,,,2,,,,,,,,1,,,,,2,,,1,,,,,,,,,,1,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,
+257309315103620,100064564696710,IdeaPaís,"Ya partimos con nuestro concurso de Innovación Social para escolares  #TRANSFORMA ✊ 
+Raymond Álvarez de Fundación Mi Parque contando sobre los cambios que podemos hacer e impactar en el país y el mundo.","Ya partimos con nuestro concurso de Innovación Social para escolares  #TRANSFORMA ✊ 
+Raymond Álvarez de Fundación @[100066880044330:2048:Mi Parque] contando sobre los cambios que podemos hacer e impactar en el país y el mundo.",8,"08/14/2018 11:26",N/A,https://www.facebook.com/ideapaischile/videos/257309315103620/,0,0,Videos,,,,,Total,,0,0,,1442,22,20,0,2,3606.414,3.556,52,31,21,,0,1442,256,0,229,0,0,256,0,0,0,0,163.528,7.995,4.999,0,16.353,3.998,1,0,0.99,1,1,1,0.99,0.91,0.8,0.62,0.54,0.5,0.45,0.39,0.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,55,76,12,13,11,23,10,8,28,4,7,3,230,8,3,,,1,1,,,3,,1,,,,1,1,,,,,5,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2005989379433037,100064564696710,IdeaPaís,"Estudios 2018","#IDEAPAÍSTV 🎥 En solo 35 segundos, @@[668338146:2048:Andres Berg] explica en qué está trabajando nuestra área de Estudios actualmente ☝🏼📚",36,"06/19/2018 14:17",N/A,https://www.facebook.com/ideapaischile/videos/2005989379433037/,0,0,Videos,,,,,Total,,0,0,,1063,31,23,6,2,6240.845,6.746,140,95,45,,0,1063,333,0,279,0,0,333,0,0,0,0,10.377,82.648,5.011,0,3.459,16.53,1.671,0,0.97,0.97,0.97,0.96,0.82,0.68,0.58,0.5,0.42,0.39,0.35,0.33,0.3,0.28,0.26,0.25,0.24,0.23,0.22,0.22,0.21,0.2,0.19,0.19,0.18,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.15,0.15,0.15,0.12,0.09,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,,,,,0,0,64,135,29,26,6,10,10,3,25,7,4,6,306,10,2,,,2,3,2,,,1,,,,,,2,,,1,,1,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,
+1988247417873900,100064564696710,IdeaPaís,"Pablo Valderrama en Seminario Socialcristianismo en Chile","#SEMINARIO 📺  Así fue parte de la intervención de nuestro director ejecutivo, @[1637744228:2048:Pablo Valderrama], en el seminario ""Socialcristianismo en Chile: reflexiones en una sociedad de cambio"" (intervención completa 👉🏼 http://bit.ly/2Jk92n6)",58,"06/06/2018 15:10",N/A,https://www.facebook.com/ideapaischile/videos/1988247417873900/,0,0,Videos,,,,,Total,,0,0,,764,8,8,0,0,7342.803,12.594,81,55,22,4,0,764,325,0,307,0,0,325,0,0,0,0,70.703,111.052,0,0,7.856,27.763,0,0,1,1,0.99,0.76,0.63,0.5,0.46,0.4,0.36,0.33,0.3,0.29,0.26,0.24,0.23,0.22,0.22,0.2,0.19,0.18,0.18,0.17,0.16,0.16,0.16,0.16,0.16,0.15,0.14,0.14,0.14,0.13,0.12,0.12,0.12,0.12,0.12,0.11,0.1,0.1,0.09,1,1,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,54,115,36,48,5,15,4,3,21,3,7,6,301,9,2,,,1,3,1,1,,1,,,,1,,,,,1,,1,,,1,,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1977970998901542,100064564696710,IdeaPaís,"Pablo Valderrama en El Líbero","#ENTREVISTA 📺  Nuestro director ejecutivo, @[1637744228:2048:Pablo Valderrama], conversó con El Líbero sobre nuestro último estudio ""El sueño chileno: un análisis a la nueva Ley de Inmigración"" (versión completa 👉🏼 http://bit.ly/2xnPOve)",26,"05/28/2018 10:22",N/A,https://www.facebook.com/ideapaischile/videos/1977970998901542/,0,0,Videos,,,,,Total,,0,0,,383,6,6,0,0,1902.983,5.499,28,18,10,,0,383,136,0,131,0,0,136,0,0,0,0,16.247,18.507,0,0,2.708,6.169,0,0,0.99,0.99,1,1,0.83,0.71,0.61,0.51,0.46,0.4,0.36,0.35,0.31,0.26,0.25,0.23,0.21,0.19,0.18,0.17,0.16,0.16,0.15,0.14,0.13,0.12,0.09,0.08,0.07,,,,,,,,,,,,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,0,0,26,53,18,7,4,6,3,3,9,1,3,2,125,8,,,,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1964509243581051,100064564696710,IdeaPaís,"Antonio Correa en Bienvenidos de Canal 13","#DEBATE 📺  Revive la participación de nuestro vicepresidente ejecutivo, @[100003016224442:2048:Antonio Correa], en el panel de @[100044357592691:2048:Bienvenidos] conversando sobre eutanasia (versión completa 👉🏼 http://bit.ly/2IoqWIM) #Bienvenidos13",37,"05/16/2018 08:05",N/A,https://www.facebook.com/ideapaischile/videos/1964509243581051/,0,0,Videos,,,,,Total,,0,0,,18581,69,64,0,5,263417.542,13.738,802,642,123,37,16787,2044,12839,0,12308,0,11705,1134,0,0,0,0,1439.403,261.247,1843.584,0,17.771,15.368,11.895,0,1,1,1,1,0.9,0.78,0.68,0.62,0.58,0.52,0.48,0.46,0.45,0.43,0.41,0.4,0.38,0.37,0.36,0.35,0.34,0.34,0.33,0.33,0.32,0.32,0.31,0.31,0.3,0.3,0.29,0.29,0.29,0.28,0.28,0.27,0.26,0.26,0.25,0.25,0.25,0.99,0.99,0.99,0.99,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.99,0.95,0.92,0.89,0.88,0.86,0.85,0.79,0.78,0.77,0.75,0.75,0.73,0.7,0.67,0.64,0.63,0.63,0.62,0.62,0.62,0.6,0.59,1,1,1107,2692,2761,5227,23,210,25,28,509,13,14,13,12700,51,8,,3,4,36,7,3,3,1,,,3,,1,1,,1,,,6,,,3,,,,1,,,,,,,,,,,,3,,2,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1
+1908386169193359,100064564696710,IdeaPaís,"Pablo Valderrama en Tele13 Radio","#ENTREVISTA 📻 Nuestro director ejecutivo, @[1637744228:2048:Pablo Valderrama], estuvo en #MesaCentral de @[100064316996693:2048:Tele13Radio] comentando nuestro último estudio: Nueva composición del Congreso Nacional.",630,"03/26/2018 08:01",N/A,https://www.facebook.com/ideapaischile/videos/1908386169193359/,0,0,Videos,,,,,Total,,0,0,,604,9,9,0,0,14396.287,20.773,37,18,19,,0,604,241,1,216,1,0,241,0,0,0,0,668.654,1.3,0,0,51.435,0.65,0,0,1,0.18,0.13,0.11,0.06,0.05,0.04,0.04,0.05,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,45,76,33,30,3,12,5,7,16,1,5,3,226,6,,,,,1,3,,,,,,,,,1,,,2,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1886130848085558,100064564696710,IdeaPaís,"Día de la Mujer","#IDEAPAÍSTV 🎥 Este 8 de marzo volvemos a celebrar el #DíaDeLaMujer, fecha que nos recuerda la importancia de las mujeres para nuestras sociedad y las deudas que aún siguen vigentes con ellas",51,"03/08/2018 07:05",N/A,https://www.facebook.com/ideapaischile/videos/1886130848085558/,0,0,Videos,,,,,Total,,0,0,,27098,14,11,0,3,188354.479,7.81,65,32,33,,26526,446,12008,0,12008,0,11842,166,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.9,0.77,0.65,0.57,0.49,0.43,0.38,0.35,0.3,0.27,0.23,0.22,0.2,0.19,0.18,0.17,0.16,0.15,0.14,0.13,0.12,0.12,0.11,0.11,0.1,0.1,0.09,0.09,0.09,0.08,0.06,0.05,0.04,0.04,0.03,0.02,0.02,0.01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,351,568,4953,6070,5,7,2,2,12,2,4,2,11999,4,2,,,,,,,,,,,,,,1,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1852615644770412,100064564696710,IdeaPaís,"Impulso 2018","#IDEAPAÍSTV 🎥 ¡Así fue nuestro seminario #Impulso2018, en el que discutimos de actualidad política y entregamos herramientas prácticas de gestión a líderes y dirigentes estudiantiles! ☝🏼",65,"02/07/2018 13:05",N/A,https://www.facebook.com/ideapaischile/videos/1852615644770412/,0,0,Videos,,,,,Total,,0,0,,3847,18,18,0,0,75046.792,11.604,85,20,47,18,3423,662,3642,0,1969,0,3460,182,0,0,0,0,0.514,27.059,0,0,0.514,13.53,0,0,0.93,0.99,0.97,0.89,0.84,0.81,0.78,0.62,0.41,0.34,0.3,0.27,0.26,0.25,0.24,0.22,0.22,0.21,0.2,0.2,0.18,0.17,0.17,0.16,0.15,0.15,0.14,0.14,0.14,0.14,0.13,0.13,0.13,0.13,0.13,0.13,0.12,0.12,0.12,0.12,0.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,272,256,642,762,5,6,5,3,11,,2,1,3623,10,1,,,,1,1,,,1,,,,,,2,,,,,1,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1767576779940966,100064564696710,IdeaPaís,"Cierre Formación IdeaPaís 2017","#IDEAPAÍSTV 🎥 Así fue la comida final del área de Formación de @[100064564696710:2048:IdeaPaís] 2017. ¡Muchas gracias a todos quienes fueron parte de esto! 🙌🏼",61,"11/23/2017 07:51",N/A,https://www.facebook.com/ideapaischile/videos/1767576779940966/,0,0,Videos,,,,,Total,,0,0,,8462,33,33,0,0,75311.164,6.324,132,60,72,,7883,887,3541,1,2376,1,3275,266,0,0,0,0,25.757,76.132,0,0,25.757,76.132,0,0,1,0.76,0.63,0.48,0.41,0.37,0.35,0.33,0.25,0.21,0.19,0.18,0.17,0.16,0.15,0.14,0.14,0.14,0.13,0.13,0.13,0.12,0.12,0.12,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.09,0.08,0.07,0.06,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,251,276,609,755,14,14,7,3,15,5,4,5,3515,14,2,,,1,2,,1,,,,,,,,,1,,,,3,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1765188793513098,100064564696710,IdeaPaís,"Congreso de Líderes Secundarios - Temuco","#IDEAPAÍSTV 🎥 Así fue el 1º Congreso de Líderes Secundarios de Temuco, al que asistieron más de 200 estudiantes de la Región de La Araucanía 🙋🏽‍♂️🙋🏽",89,"11/21/2017 05:01",N/A,https://www.facebook.com/ideapaischile/videos/1765188793513098/,0,0,Videos,,,,,Total,,0,0,,2855,11,11,0,0,55929.212,12.1,30,9,21,,2444,530,2533,0,1240,0,2373,160,0,0,0,0,20.253,0,0,0,6.751,0,0,0,0.93,0.99,0.84,0.77,0.72,0.57,0.33,0.27,0.24,0.23,0.21,0.19,0.19,0.18,0.17,0.16,0.15,0.15,0.15,0.14,0.14,0.14,0.13,0.13,0.13,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,176,145,512,406,5,9,5,3,9,4,3,2,2516,10,,,,1,1,,,3,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1751111871587457,100064564696710,IdeaPaís,"Congreso de Líderes Secundarios - Valparaíso y Viña del Mar","#IDEAPAÍSTV 🎥 Así fue el 1º Congreso de Líderes Secundarios de Valparaíso y Viña del Mar, al que asistieron más de 200 estudiantes 🙋🏽‍♂️🙋🏽",47,"11/08/2017 13:40",N/A,https://www.facebook.com/ideapaischile/videos/1751111871587457/,0,0,Videos,,,,,Total,,0,0,,967,0,0,0,0,4891.852,4.966,37,28,9,,0,967,280,0,248,0,0,280,0,0,0,0,18.794,2.124,7.072,0,3.759,1.062,3.536,0,1,1,0.99,0.9,0.69,0.55,0.5,0.4,0.35,0.34,0.33,0.3,0.28,0.26,0.24,0.24,0.24,0.23,0.23,0.23,0.21,0.19,0.19,0.19,0.18,0.18,0.17,0.16,0.16,0.15,0.16,0.16,0.16,0.16,0.15,0.15,0.14,0.1,0.09,0.08,0.04,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,89,33,61,6,1,7,5,16,4,7,2,257,11,,,,,3,2,,1,,,,,,,,,,,,3,,,,,,,,,,1,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1748952331803411,100064564696710,IdeaPaís,"Lanzamiento Libro Solidaridad","#IDEAPAÍSTV 🎥 El pasado martes 17 de octubre publicamos nuestro segundo libro de este año, ""Solidaridad: política y economía para el Chile postransición"", que profundiza sobre el principio de la solidaridad desde distintas perspectivas ☝🏼",65,"11/06/2017 11:54",N/A,https://www.facebook.com/ideapaischile/videos/1748952331803411/,0,0,Videos,,,,,Total,,0,0,,5993,2,0,0,0,48446.798,6.468,65,39,26,,5272,1061,2729,2,2019,2,2474,255,0,0,0,0,118.252,4.233,64.528,0,14.782,2.117,32.264,0,1,0.99,0.95,0.78,0.67,0.6,0.54,0.45,0.33,0.27,0.24,0.22,0.2,0.18,0.16,0.15,0.14,0.14,0.13,0.13,0.12,0.12,0.11,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.06,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.67,1,1,1,0.67,0.67,0.33,0.33,0.33,0,0,663,556,619,519,7,186,6,7,119,1,4,2,2700,17,3,,2,,1,1,1,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1734069586625019,100064564696710,IdeaPaís,"Antonio Correa en LitoralPressTV","#ENTREVISTA 📺 Nuestro director ejecutivo, @[100003016224442:2048:Antonio Correa], conversó con Christian Pino, de @[100068515999522:2048:LitoralPress TV], sobre el lanzamiento de nuestro último libro, ""Solidaridad: política y economía para el Chile postransición"". Puedes ver la entrevista completa aquí http://bit.ly/2l2Dj1R 👈🏼",56,"10/23/2017 12:50",N/A,https://www.facebook.com/ideapaischile/videos/1734069586625019/,0,0,Videos,,,,,Total,,0,0,,1019,0,0,0,0,4951.365,4.916,39,27,9,3,0,30,312,0,281,0,0,312,0,0,0,0,25.25,19.795,0.508,0,1.098,4.949,0.508,0,1,0.98,0.97,0.74,0.59,0.43,0.36,0.32,0.26,0.24,0.21,0.21,0.2,0.18,0.15,0.14,0.14,0.14,0.13,0.13,0.12,0.11,0.11,0.11,0.12,0.11,0.1,0.09,0.09,0.08,0.09,0.08,0.08,0.08,0.08,0.08,0.08,0.06,0.05,0.05,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,59,115,16,28,7,9,7,7,39,7,6,1,284,12,1,,,1,3,,,2,1,,,,,,1,1,,,,3,,,,,,,,,,,,,,,,,1,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,
+1703475499684428,100064564696710,IdeaPaís,"Congreso de Líderes Secundarios - Concepción","#IDEAPAÍSTV 🎥  El pasado viernes 8 de septiembre se realizó el primer Congreso de Líderes Secundarios en la Región del Biobío, organizado por @[129618127070181:274:IdeaPaís] y la @[100064633303727:2048:Universidad Autónoma de Chile], en el que participaron más de 200 estudiantes 🙋🏽‍♂️🙋🏽",103,"09/22/2017 13:39",N/A,https://www.facebook.com/ideapaischile/videos/1703475499684428/,0,0,Videos,,,,,Total,,,,,21551,0,0,0,0,147624.269,7.675,72,35,37,,20212,35,9578,0,8716,0,9235,343,0,0,0,0,36.108,0,35.205,0,4.012,0,3.201,0,1,0.99,0.76,0.58,0.45,0.32,0.24,0.19,0.15,0.13,0.11,0.1,0.09,0.08,0.07,0.07,0.06,0.05,0.05,0.05,0.05,0.04,0.04,0.04,0.04,0.04,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1295,894,1769,841,329,2596,18,144,1081,4,10,8,9554,9,,,2,,1,5,,1,,,,,,,1,,,1,,1,,,2,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1696015310430447,100064564696710,IdeaPaís,"Congreso de Líderes Secundarios - Santiago","#IDEAPAÍSTV 🎥 | El pasado viernes 1 de septiembre se realizó la 11º versión del Congreso de Líderes Secundarios, organizado por @[100064564696710:2048:IdeaPaís] y la @[153865604628540:274:Universidad Autónoma de Chile], en el que participaron más de 400 estudiantes de la Región Metropolitana 🙋🏽‍♂️🙋🏽",58,"09/14/2017 14:42",N/A,https://www.facebook.com/ideapaischile/videos/1696015310430447/,0,0,Videos,,,,,Total,,,,,19705,0,0,0,0,81395.783,8.371,34,19,15,,19109,9,4685,0,3745,0,4499,186,0,0,0,0,0.299,0,0,0,0.299,0,0,0,1,0.99,0.98,0.86,0.76,0.69,0.64,0.58,0.5,0.39,0.33,0.3,0.27,0.24,0.21,0.2,0.19,0.18,0.16,0.16,0.15,0.14,0.13,0.13,0.12,0.12,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.08,0.08,0.08,0.07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,261,243,2768,1342,5,4,3,5,6,4,4,4,4670,8,1,,,,3,,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,
+1673501652681813,100064564696710,IdeaPaís,"Antonio Correa Tribunal Constitucional","Este lunes, el Tribunal Constitucional entregará su fallo sobre el proyecto de ley para la legalización del aborto. Nosotros no nos quisimos quedar fuera de esta importante discusión y nuestro director Ejecutivo, @[100003016224442:2048:Antonio Correa], expuso ante los ministros la visión de @[100064564696710:2048:IdeaPaís] sobre este proyecto. Revisa la intervención completa aquí: https://youtu.be/UW1vG3erkEU 👈🏼",44,"08/21/2017 07:08",N/A,https://www.facebook.com/ideapaischile/videos/1673501652681813/,0,0,Videos,,,,,Total,,,,,27619,0,0,0,0,105560.086,5.019,324,238,79,7,26346,18,7620,0,7085,0,7157,463,0,0,0,0,89.809,106.053,2.591,0,3.593,10.606,2.591,0,1,0.97,0.96,0.9,0.73,0.62,0.53,0.46,0.4,0.35,0.32,0.29,0.26,0.24,0.21,0.19,0.17,0.15,0.14,0.13,0.12,0.11,0.1,0.1,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.75,0.75,0.75,1,1,0.75,0.75,0.75,0.75,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,1,1,860,1402,456,856,378,355,601,428,614,419,483,407,7580,12,5,,2,2,4,1,1,,,,,,,1,2,1,1,1,,2,1,,,1,,,,,,1,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1630727803625865,100064564696710,IdeaPaís,"Ley de Aborto","[#IdeaPaísTV 🎥] El gobierno, con su propuesta insuficiente para abordar el acompañamiento, terminará haciendo precisamente lo que no quería: llegará tarde y dará como única solución una política que afecta aún más a la mujer. Revisa nuestra propuesta social #PorElla, en la que profundizamos sobre la situación actual de los embarazos vulnerables en Chile http://bit.ly/2ugcXgD 🤰🏽",91,"07/11/2017 18:01",N/A,https://www.facebook.com/ideapaischile/videos/1630727803625865/,0,0,Videos,,,,,Total,,,,,5795,0,0,0,0,20695.869,5.321,83,59,23,1,2765,38,968,1,900,1,510,458,0,0,0,0,114.174,53.133,9.326,0,14.272,7.591,3.109,0,1,0.97,0.7,0.53,0.43,0.35,0.3,0.26,0.24,0.2,0.19,0.17,0.16,0.15,0.14,0.14,0.13,0.13,0.13,0.12,0.12,0.11,0.11,0.11,0.1,0.1,0.1,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.08,0.07,0.07,0.05,0.05,0.02,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,1,1,214,210,98,75,71,68,47,44,43,31,27,16,911,19,8,5,5,4,3,3,2,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1616625118369467,100064564696710,IdeaPaís,"Academia IP","[#IdeaPaísTV 🎥] Así fue la ceremonia de cierre de la #AcademiaIP 🎓, que contó con la participación de los jóvenes que pasaron por nuestros cursos de formación durante este semestre 👩🏽‍🎓👨🏽‍🎓 y la exposición de invitados especiales. ¡Muchas gracias a todos quienes fueron parte de este evento! 🙌🏼",61,"06/29/2017 19:08",N/A,https://www.facebook.com/ideapaischile/videos/1616625118369467/,0,0,Videos,,,,,Total,,,,,21681,0,0,0,0,121652.801,4.936,141,64,51,26,19670,11,7594,0,5530,0,7164,430,0,0,0,0,2.502,1.626,39.777,0,1.251,1.626,39.777,0,1,0.99,0.97,0.71,0.55,0.46,0.38,0.32,0.27,0.24,0.21,0.19,0.18,0.17,0.16,0.15,0.14,0.13,0.12,0.11,0.11,0.1,0.1,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,350,559,419,557,598,270,1465,376,209,1148,778,607,7555,14,4,1,1,3,1,5,1,,,,,,,,2,,,,,2,,,1,,,,,,,,,,,,,,,,1,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,
+1535323536499626,100064564696710,IdeaPaís,"""Invito a los jóvenes chilenos a participar, a cambiar la realidad, cambiar aquellas cosas que no les gustan y también a solidarizar con los jóvenes de la región, quienes vivimos bajo represión"" 
+- Rosa María Payá 🇨🇺 Red Latinoamericana Jóvenes por la Democracia | CubaDecide","""Invito a los jóvenes chilenos a participar, a cambiar la realidad, cambiar aquellas cosas que no les gustan y también a solidarizar con los jóvenes de la región, quienes vivimos bajo represión"" 
+- Rosa María Payá 🇨🇺 @[1463932590547610:274:Red Latinoamericana Jóvenes por la Democracia] | @[100064553087799:2048:CubaDecide]",37,"04/22/2017 08:44",N/A,https://www.facebook.com/ideapaischile/videos/1535323536499626/,0,0,Videos,,,,,Total,,,,,1948,0,0,0,0,4010.451,4.13,54,38,16,,0,8,314,0,306,0,0,314,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.99,0.97,0.82,0.68,0.57,0.49,0.39,0.35,0.3,0.25,0.23,0.21,0.2,0.19,0.17,0.16,0.15,0.14,0.13,0.13,0.11,0.11,0.1,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.07,0.07,0.07,0.06,0.06,0.06,0.06,0.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,55,107,31,52,6,6,8,11,19,3,3,4,276,22,,1,1,1,4,3,2,,1,,,,,,,,,,,2,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1515842538447726,100064564696710,IdeaPaís,"Debate Academia IdeaPaís","[#IdeaPaísTV 🎥] Compartimos con ustedes un pequeño resumen de lo que fue el debate inaugural de la Academia @[100064564696710:2048:IdeaPaís], ""Presidenciales: La mirada de los jóvenes"", en el que Diego Schalper, Cristián Bowen y Sebastián Depolo analizaron el escenario político actual del país de cara a las próximas elecciones presidenciales 🗳🇨🇱",46,"04/06/2017 13:55",N/A,https://www.facebook.com/ideapaischile/videos/1515842538447726/,0,0,Videos,,,,,Total,,,,,12059,0,0,0,0,51691.832,5.478,241,121,68,52,8298,343,2962,0,2623,0,1987,975,0,0,0,0,495.479,90.611,432.898,0,8.258,4.315,6.765,0,1,0.99,0.98,0.88,0.73,0.62,0.53,0.46,0.42,0.39,0.35,0.33,0.3,0.28,0.26,0.25,0.23,0.22,0.21,0.2,0.19,0.19,0.18,0.17,0.17,0.16,0.16,0.15,0.15,0.15,0.15,0.14,0.14,0.14,0.14,0.13,0.13,0.12,0.11,0.1,0.05,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.88,0.88,0.88,0.88,0.82,0.76,0.76,0.76,0.71,0.71,0.71,0.71,0.71,0.71,0.71,0.76,0.76,0.71,0.71,0.71,0.71,0.59,0.41,0.41,0.35,0,0,272,546,259,399,122,54,246,164,131,194,282,193,2863,36,4,,6,3,10,8,2,1,1,,,,,1,1,1,,,2,6,2,,5,2,,,1,,,2,,,1,,,,,,,1,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,
+1475710029127644,100064564696710,IdeaPaís,"Academia IP","Ya está abierta la convocatoria a la Academia @[100064564696710:2048:IdeaPaís], en donde buscaremos dar respuesta a las preguntas fundamentales en torno a los principales debates que enfrenta Chile. Son más de 1.350 los jóvenes que han decidido formarse con nosotros, ¿te sumas? Inscríbete aquí: http://bit.ly/FormularioIP 👈🏼 #ArmaElPuzzle",62,"03/02/2017 14:05",N/A,https://www.facebook.com/ideapaischile/videos/1475710029127644/,0,0,Videos,,,,,Total,,,,,15691,0,0,0,0,73105.978,5.251,439,280,123,36,11008,387,3769,3,3324,3,2614,1155,0,0,0,0,467.189,45.929,257.126,0,3.245,2.871,2.546,0,1,0.98,0.95,0.71,0.57,0.48,0.41,0.36,0.33,0.3,0.27,0.24,0.22,0.2,0.19,0.18,0.18,0.18,0.17,0.16,0.16,0.15,0.15,0.15,0.14,0.14,0.14,0.14,0.14,0.14,0.13,0.13,0.12,0.12,0.12,0.12,0.11,0.11,0.11,0.1,0.05,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,0.8,0.8,0.8,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0,0,303,756,259,549,165,85,331,240,214,208,281,219,3647,50,7,,1,5,15,9,2,,2,1,,2,,,2,,1,2,,6,3,2,2,2,2,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1435330629832251,100064564696710,IdeaPaís,"Derechos de la mujer","[#IdeaPaísTV 🎥] ¿Es realmente el aborto la solución que, como sociedad, queremos darle a las mujeres con embarazos vulnerables? Te invitamos a revisar la columna de nuestra directora de estudios, @[694551887:2048:Magdalena Vergara].
+
+Si te gusta, ¡comenta y comparte! 👍🏼📢",109,"01/20/2017 09:47",N/A,https://www.facebook.com/ideapaischile/videos/1435330629832251/,0,0,Videos,,,,,Total,,,,,1910,0,0,0,0,4953.25,7.37,44,27,17,,0,7,160,0,140,0,0,160,0,0,0,0,11.008,56.43,0,0,3.67,14.108,0,0,1,0.94,0.58,0.44,0.36,0.34,0.32,0.29,0.28,0.27,0.26,0.25,0.24,0.22,0.21,0.22,0.2,0.19,0.19,0.18,0.18,0.18,0.17,0.16,0.16,0.16,0.15,0.14,0.16,0.16,0.15,0.14,0.16,0.15,0.15,0.14,0.14,0.14,0.13,0.13,0.08,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,58,28,16,5,4,5,1,6,2,5,2,143,5,1,,,2,2,1,,2,1,,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1433316993366948,100064564696710,IdeaPaís,"Impulso 2017","[#IdeaPaísTV 🎥] Compartimos con ustedes un pequeño resumen de lo que fue nuestro encuentro de líderes universitarios #Impulso2017, que congrega a jóvenes de centros de alumnos y federaciones, con la idea de discutir sobre el contexto nacional actual y entregarles herramientas prácticas de gestión.",62,"01/18/2017 10:35",N/A,https://www.facebook.com/ideapaischile/videos/1433316993366948/,0,0,Videos,,,,,Total,,,,,2052,0,0,0,0,7313.051,7.335,69,46,23,,0,5,235,0,187,0,0,235,0,0,0,0,0.916,0,0,0,0.458,0,0,0,1,0.97,0.94,0.75,0.68,0.62,0.56,0.52,0.48,0.45,0.43,0.42,0.41,0.4,0.4,0.39,0.37,0.37,0.37,0.37,0.35,0.34,0.34,0.33,0.33,0.31,0.31,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.29,0.29,0.29,0.29,0.29,0.22,0.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,42,73,35,44,5,5,2,3,9,3,6,2,217,2,3,,1,2,1,3,,1,,,,,,,2,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1404769319555049,100064564696710,IdeaPaís,"Fin de año","[#IdeaPaísTV 🎥] ¿Cuál es el rol que debemos cumplir los jóvenes en el nuevo ciclo político que se aproxima? Te invitamos a revisar la columna de fin de año de nuestro director ejecutivo, @[100003016224442:2048:Antonio Correa].
+
+Si te gusta, ¡comenta y comparte! 👍🏼📢",94,"12/28/2016 11:58",N/A,https://www.facebook.com/ideapaischile/videos/1404769319555049/,0,0,Videos,,,,,Total,,,,,2959,0,0,0,0,13725.031,6.659,142,114,28,,0,34,517,0,412,0,0,517,0,0,0,0,13.258,40.219,29.816,0,2.21,10.055,1.988,0,1,0.96,0.71,0.51,0.42,0.34,0.31,0.28,0.27,0.25,0.24,0.23,0.22,0.21,0.21,0.2,0.19,0.19,0.18,0.18,0.18,0.17,0.17,0.16,0.16,0.15,0.15,0.15,0.15,0.14,0.14,0.14,0.14,0.14,0.14,0.13,0.13,0.13,0.12,0.11,0.05,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,88,207,54,89,7,7,7,7,26,3,7,3,463,18,2,,3,3,8,6,,3,1,,,2,,,4,1,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,
+1363666790331969,100064564696710,IdeaPaís,"La otra cara de la inmigración en Chile [IdeaPaís]","La otra cara de la inmigración en Chile.",71,"12/01/2016 12:48",N/A,https://www.facebook.com/ideapaischile/videos/1363666790331969/,0,0,Videos,,,,,Total,,,,,59258,1,1,0,0,483616.686,10.468,4232,1839,2388,5,27333,1648,16952,37,15325,34,7637,9315,0,0,0,0,2433.149,474.565,3817.141,0,5.964,6.979,5.749,0,1,0.99,0.87,0.64,0.54,0.47,0.44,0.42,0.4,0.38,0.37,0.36,0.35,0.35,0.34,0.34,0.33,0.32,0.31,0.3,0.29,0.29,0.29,0.28,0.28,0.28,0.27,0.27,0.27,0.27,0.26,0.26,0.26,0.25,0.24,0.24,0.23,0.23,0.23,0.22,0.17,1,0.99,0.99,0.99,0.98,0.98,0.99,0.98,0.98,0.96,0.84,0.78,0.78,0.78,0.76,0.71,0.69,0.67,0.65,0.62,0.59,0.57,0.57,0.56,0.54,0.51,0.49,0.49,0.48,0.47,0.46,0.44,0.44,0.42,0.42,0.41,0.41,0.36,0.37,0.34,0.33,3,2,1429,2916,1972,3446,698,775,694,1172,1692,353,843,474,15131,322,172,14,100,98,70,175,103,112,14,21,4,28,,8,67,,4,4,,41,,,33,31,,2,10,,9,2,,,34,4,,71,,106,8,70,2,7,,6,6,6,5,3,3,2,2,2,2,2,2,,,,,,,,,,,,,,
+1352814711417177,100064564696710,IdeaPaís,#6AñosIdeaPaís,"Muchas gracias a todos los que nos acompañaron en nuestra comida anual 2016 #6AñosIdeaPaís",109,"11/22/2016 13:18",N/A,https://www.facebook.com/ideapaischile/videos/1352814711417177/,0,0,Videos,,,,,Total,,,,,7430,0,0,0,0,94619.324,9.431,516,284,232,,4165,43,2993,1,2369,1,2001,992,0,0,0,0,59.9,311.132,73.183,0,3.744,22.224,4.879,0,1,0.95,0.57,0.39,0.34,0.3,0.28,0.27,0.26,0.24,0.24,0.23,0.22,0.22,0.22,0.22,0.21,0.21,0.2,0.2,0.2,0.2,0.19,0.19,0.19,0.19,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.17,0.17,0.17,0.17,0.16,0.16,0.15,0.06,1,1,1,1,1,1,1,1,1,1,0.88,0.88,0.63,0.5,0.5,0.5,0.38,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.13,0.13,0.13,0.13,0.13,0.13,0.25,0.25,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,1,1,608,749,537,559,59,83,69,44,107,29,52,26,2888,53,5,,2,3,10,8,2,3,,,,,,,2,,,,,6,,,2,1,,,,,,,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1346141658751149,100064564696710,IdeaPaís,"IdeaPaís - 2016","[#VIDEO] Te invitamos a revisar un resumen del trabajo que realizamos durante este año #6AñosIdeaPaís",136,"11/16/2016 08:11",N/A,https://www.facebook.com/ideapaischile/videos/1346141658751149/,0,0,Videos,,,,,Total,,,,,8406,0,0,0,0,69029.486,7.553,408,305,103,,4597,333,2731,4,2130,4,1522,1209,0,0,0,0,484.197,344.123,437.17,0,6.289,11.471,4.701,0,1,0.83,0.47,0.3,0.25,0.22,0.2,0.18,0.17,0.16,0.15,0.15,0.15,0.14,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.08,0.07,0.06,0.04,0.02,1,1,1,1,1,1,0.91,0.91,0.82,0.82,0.82,0.82,0.82,0.82,0.73,0.64,0.64,0.55,0.55,0.45,0.55,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.18,0.09,0.09,0,0,639,793,342,373,74,105,55,42,117,35,43,37,2527,84,16,1,5,13,11,32,5,3,3,1,,2,,,4,4,,,,4,,,2,,,,2,1,,,,,,1,,,,1,,1,2,1,,,1,1,,1,,,,,,,,1,1,,,,,,,,,,,,
+1310809098951072,100064564696710,IdeaPaís,"Educación Cívica","[#EDUCACIÓNCÍVICA] Te recordamos que durante este semestre recorrimos diferentes establecimientos educacionales del país, realizando charlas de Educación Cívica a alumnos entre 14 y 18 años, quienes pudieron informarse y entregar su opinión sobre diferentes temáticas relacionadas con el actual proceso constituyente.",83,"10/13/2016 06:24",N/A,https://www.facebook.com/ideapaischile/videos/1310809098951072/,0,0,Videos,,,,,Total,,,,,4724,0,0,0,0,2753.76,9.834,31,12,19,,0,3,101,1,89,1,0,101,0,0,0,0,133.194,0,0,0,26.639,0,0,0,1,0.98,0.77,0.59,0.51,0.42,0.39,0.35,0.31,0.32,0.3,0.29,0.27,0.26,0.26,0.26,0.26,0.25,0.25,0.23,0.24,0.22,0.22,0.22,0.2,0.19,0.18,0.18,0.19,0.2,0.2,0.2,0.19,0.19,0.19,0.19,0.18,0.17,0.13,0.13,0.04,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1276487715716544,100064564696710,IdeaPaís,"Charlas Educación Cívica","[#EDUCACIÓNCÍVICA] Durante los últimos tres meses estuvimos recorriendo establecimientos educacionales en diferentes regiones del país, realizando Charlas de Educación Cívica a alumnos entre 14 y 18 años, quienes pudieron informarse y entregar su opinión sobre diferentes temáticas relacionadas con el actual proceso constituyente.",83,"09/06/2016 05:57",N/A,https://www.facebook.com/ideapaischile/videos/1276487715716544/,0,0,Videos,,,,,Total,,,,,6106,0,0,0,0,28461.234,4.928,176,138,38,,3173,23,1398,1,1145,1,742,656,0,0,0,0,72.198,35.21,29.03,0,10.314,8.803,3.629,0,1,0.95,0.72,0.53,0.4,0.34,0.28,0.25,0.22,0.2,0.18,0.16,0.16,0.15,0.14,0.13,0.12,0.12,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.09,0.08,0.09,0.08,0.08,0.08,0.07,0.06,0.02,1,1,1,1,1,1,1,1,1,0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0,0,0,0,0,0,0,0,0,0,0,262,361,218,251,38,35,36,23,52,33,23,18,1348,18,2,,3,1,2,5,6,,,1,,,,1,2,,,2,,4,,,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1265833523448630,100064564696710,IdeaPaís,"Seminario: Solidaridad y Desarrollo Humano","[#TECONTAMOS] El pasado jueves 18 de agosto, en el Día de la Solidaridad se llevó a cabo el seminario @[152675888500691:844:Solidaridad y Desarrollo Humano\: Desafíos Políticos] organizado por @[100064564696710:2048:IdeaPaís]  #DíaDeLaSolidaridad",56,"08/25/2016 09:13",N/A,https://www.facebook.com/ideapaischile/videos/1265833523448630/,0,0,Videos,,,,,Total,,,,,20709,0,0,0,0,55960.791,3.055,263,181,81,1,18042,52,2731,0,2464,0,2015,716,0,0,0,0,118.438,35.652,127.23,0,16.92,7.131,5.532,0,1,0.98,0.95,0.71,0.53,0.44,0.39,0.35,0.32,0.29,0.27,0.25,0.24,0.22,0.21,0.2,0.2,0.19,0.18,0.18,0.18,0.17,0.17,0.16,0.16,0.15,0.15,0.14,0.14,0.14,0.13,0.13,0.13,0.13,0.12,0.12,0.11,0.1,0.09,0.09,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.6,0.4,0.4,0.4,0.4,0.4,0.4,1,1,190,459,655,1297,6,10,12,9,15,6,9,6,2681,29,4,,3,1,2,2,,2,,,,1,,,2,1,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1263143513717631,100064564696710,IdeaPaís,"Curso: Ideas y Discusiones del SXXI","[#NODALOMISMO] @[1019380184:2048:Daniel Bustos], @[1188093012:2048:Roberto Ovalle] y Mariana Bello te cuentan su experiencia en nuestros cursos y te invitan a inscribirte para este segundo semestre en http://bit.ly/IdeaPaís
+¡Porque no da lo mismo que te dé lo mismo!",71,"08/22/2016 05:24",N/A,https://www.facebook.com/ideapaischile/videos/1263143513717631/,0,0,Videos,,,,,Total,,,,,3996,0,0,0,0,4149.287,0,48,29,19,,0,4,187,0,142,0,0,187,0,0,0,0,8.82,63.545,0,0,1.47,7.061,0,0,1,0.97,0.89,0.69,0.58,0.45,0.39,0.36,0.33,0.29,0.27,0.25,0.24,0.23,0.23,0.22,0.21,0.2,0.2,0.2,0.2,0.2,0.2,0.19,0.19,0.18,0.16,0.16,0.16,0.15,0.15,0.14,0.15,0.14,0.12,0.11,0.11,0.09,0.07,0.07,0.03,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,56,26,51,5,1,4,2,3,1,3,2,171,6,3,1,,,,1,,,,1,,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1259230214108961,100064564696710,IdeaPaís,"Curso: Ideas y Discusiones SXXI","[#NODALOMISMO]  Roberto Ovalle se atrevió a estar en los cursos del primer semestre del 2016 y hoy nos relata su visión sobre los liderazgo y la importancia de la formación! 
+#Inscríbete en nuestro cursos ""Ideas y Discusiones"" en http://bit.ly/IdeaPaís
+
+¡Porque no da lo mismo que te dé lo mismo!",69,"08/17/2016 14:14",N/A,https://www.facebook.com/ideapaischile/videos/1259230214108961/,0,0,Videos,,,,,Total,,,,,42854,0,0,0,0,137688.008,0,704,394,291,19,37391,6,6968,0,6286,0,5958,1015,0,0,0,0,5.63,0,39.652,0,0.704,0,13.218,0,1,0.98,0.85,0.61,0.46,0.37,0.31,0.26,0.22,0.2,0.18,0.17,0.16,0.15,0.14,0.14,0.13,0.13,0.12,0.12,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.07,0.07,0.06,0.05,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,378,709,1906,3499,121,63,41,19,41,25,14,9,6862,23,23,1,,3,1,4,4,,,1,1,7,,,10,1,,5,,2,,,5,,,,1,,2,,,,,1,,4,,,1,,,,,,,,,,,,1,,,,,,,,,,2,2,2,1,1,1,1,,
+1253958227969493,100064564696710,IdeaPaís,"Ideas y Discusiones","[#NODALOMISMO] Al igual que Mariana Bello, tú también puedes participar en los cursos de Ideas y Discusiones de @[100064564696710:2048:IdeaPaís].
+¡Porque no da lo mismo que te dé lo mismo!
+#Inscríbete en http://bit.ly/IdeaPaís",72,"08/11/2016 15:54",N/A,https://www.facebook.com/ideapaischile/videos/1253958227969493/,0,0,Videos,,,,,Total,,,,,53818,0,0,0,0,212523.54,0,450,199,212,39,50934,16,10871,5,9272,5,9703,1170,0,0,0,0,356.953,76.466,113.433,0,23.797,12.745,22.687,0,1,0.98,0.81,0.56,0.43,0.35,0.3,0.26,0.23,0.21,0.19,0.18,0.16,0.15,0.14,0.13,0.13,0.12,0.12,0.11,0.11,0.1,0.1,0.1,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.05,0.03,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.75,0.75,0.75,0.75,0.75,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.5,0,0,639,1027,3940,5033,23,13,17,4,14,6,11,5,10821,11,1,4,,3,1,2,2,1,,5,1,,,,20,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1250949021603747,100064564696710,IdeaPaís,"Inscríbete en el curso Ideas y Discusiones del SXXI","[#NODALOMISMO] @[1019380184:2048:Daniel Bustos] se atrevió a estar en los cursos del primer semestre del 2016 y hoy nos cuenta su experiencia y cómo está aportando desde su área. 
+No da lo mismo que te dé lo mismo!
+#Inscríbete en http://bit.ly/IdeaPaís",101,"08/08/2016 07:02",N/A,https://www.facebook.com/ideapaischile/videos/1250949021603747/,0,0,Videos,,,,,Total,,,,,18290,0,0,0,0,106609.385,0,785,620,159,6,14404,76,5582,0,5399,0,3999,1583,0,0,0,0,124.838,10.924,262.168,0,5.675,3.642,5.244,0,1,0.96,0.66,0.48,0.37,0.3,0.25,0.21,0.18,0.16,0.14,0.13,0.12,0.11,0.1,0.1,0.1,0.09,0.09,0.08,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.06,0.06,0.05,0.05,0.05,0.05,0.05,0.05,0.04,0.03,1,1,1,1,1,1,1,1,1,1,0.8,0.6,0.4,0.4,0.4,0.4,0.4,0.2,0.2,0.2,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,425,615,529,670,408,267,640,361,370,379,438,247,5507,19,13,,3,5,3,6,4,2,,2,,1,,1,2,,,1,,2,,,,1,,,1,,,,,,2,,1,1,,,,,1,2,,,,,,,,,2,,,,,,,,,,,,,,,,,,
+1242483979116918,100064564696710,IdeaPaís,"Pérdida y desperdicio de alimentos en Chile","[#IdeaPaísTV] Revisa y comparte la conversación con Darío Contreras de @[100068219945216:2048:Disco Sopa Chile] sobre las consecuencias de la pérdida y desperdicio de alimentos en el mundo y en Chile.
+
+Te invitamos a revisar nuestras propuestas para reducir el desperdicio de alimentos: http://bit.ly/DesperdicioDeAlimentos",96,"07/27/2016 15:28",N/A,https://www.facebook.com/ideapaischile/videos/1242483979116918/,0,0,Videos,,,,,Total,,,,,20332,0,0,0,0,106056.754,0,547,412,121,14,10326,228,4469,11,3941,10,2511,1958,0,0,0,0,575.55,85.882,679.708,0,15.147,4.09,5.665,0,1,0.96,0.69,0.52,0.42,0.35,0.31,0.28,0.26,0.24,0.22,0.21,0.19,0.18,0.16,0.16,0.15,0.14,0.14,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.09,0.08,0.04,1,1,1,1,1,1,1,0.9,0.9,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.5,0.5,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.1,0.1,0.1,0.1,0,0,520,714,327,382,291,298,391,304,294,246,349,200,4258,54,18,1,8,9,14,10,3,1,2,,,4,,,9,,8,5,,14,1,,4,3,,1,2,1,,,,,2,2,1,24,,2,,,2,,,1,,,,,,,1,2,,,,,,1,1,,,,,,,,,,
+1237585026273480,100064564696710,IdeaPaís,"IdeaPaís: ""Pérdida y desperdicio de alimentos en Chile""","[#IdeaPaísTV] Revisa y comparte la columna de nuestro director ejecutivo, @[100003016224442:2048:Antonio Correa], sobre nuestro nuevo informe ""Pérdida y Desperdicio de Alimentos en Chile"".. Una realidad que no sólo afecta a la economía, sino también al medio ambiente y a la cultura.",136,"07/20/2016 16:05",N/A,https://www.facebook.com/ideapaischile/videos/1237585026273480/,0,0,Videos,,,,,Total,,,,,22936,0,0,0,0,110352.892,0,532,415,116,1,15362,158,5661,1,5120,1,3591,2070,0,0,0,0,59.567,133.32,192.843,0,3.136,9.523,6.027,0,1,0.84,0.45,0.3,0.22,0.17,0.15,0.13,0.11,0.1,0.09,0.09,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.03,0.01,1,1,1,1,1,0.83,0.83,0.33,0.33,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0,0,0,0,0,0,0,0,0,542,984,431,693,330,236,484,360,434,279,405,253,5507,44,12,,15,6,20,,1,4,1,2,,3,,2,4,1,,4,,10,,,1,6,,,5,,,,,,1,2,,,,1,,,,,1,,,,,,1,,,2,,,,,,,1,4,,,,,,,,,
+1208572495841400,100064564696710,IdeaPaís,"IdeaPaís, Senado","[#TECONTAMOS] Ayer estuvo nuestro director Ejecutivo, Antonio Correa, en la Comisión de Salud del Senado,exponiendo sobre el proyecto de Ley que busca legalizar el aborto en nuestro país. #PorElla #NoAlAborto",102,"06/07/2016 15:52",N/A,https://www.facebook.com/ideapaischile/videos/1208572495841400/,0,0,Videos,,,,,Total,,,,,15968,0,0,0,0,82348.817,0,594,430,164,,10377,50,3628,3,3192,1,1668,1960,0,0,0,0,492.187,53.399,49.241,0,17.579,3.338,2.463,0,1,0.96,0.56,0.44,0.35,0.29,0.25,0.21,0.2,0.18,0.17,0.15,0.15,0.14,0.13,0.13,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.02,1,1,1,1,1,1,0.89,0.89,0.89,0.78,0.78,0.56,0.56,0.56,0.44,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.44,0.33,0.33,0.33,0.56,0.33,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.11,0.11,0.11,0,0,13,29,10,15,8,4,8,4,6,10,7,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1199853213379995,100064564696710,IdeaPaís,"[#TECONTAMOS] El pasado viernes 13 de mayo, se realizó el X Congreso Nacional de Líderes Secundarios, organizado por IdeaPaís. Les dejamos el video del evento que reunió a más de 400 jóvenes líderes. #lideressecundarios #ideapais","[#TECONTAMOS] El pasado viernes 13 de mayo, se realizó el X Congreso Nacional de Líderes Secundarios, organizado por IdeaPaís. Les dejamos el video del evento que reunió a más de 400 jóvenes líderes. #lideressecundarios #ideapais",117,"05/24/2016 11:32",N/A,https://www.facebook.com/ideapaischile/videos/1199853213379995/,0,0,Videos,,,,,Total,,,,,11268,0,0,0,0,75141.166,0,348,237,111,,8151,194,2868,4,2450,4,1143,1725,0,0,0,0,252.125,143.899,143.786,0,3.879,9.594,2.147,0,1,0.94,0.55,0.41,0.33,0.29,0.26,0.24,0.22,0.2,0.19,0.17,0.16,0.16,0.15,0.14,0.14,0.13,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.09,0.03,1,1,1,1,1,1,0.8,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.2,0.2,0.2,1,1,17,47,14,17,14,10,6,5,9,2,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1191057194259597,100064564696710,IdeaPaís,"Memoria Anual IdeaPaís","En 25 segundos te presentamos nuestra Memoria Anual 2015!
+
+Encuéntrala completa en: http://bit.ly/MemoriaAnual2015",25,"05/10/2016 09:12",N/A,https://www.facebook.com/ideapaischile/videos/1191057194259597/,0,0,Videos,,,,,Total,,,,,10571,0,0,0,0,24495.89,0,195,138,42,15,7522,32,1646,0,1573,0,1116,530,0,0,0,0,13.251,6.787,27.045,0,4.417,1.358,2.459,0,1,0.98,0.98,0.96,0.85,0.7,0.59,0.52,0.48,0.44,0.41,0.37,0.35,0.32,0.29,0.27,0.25,0.24,0.22,0.21,0.19,0.19,0.18,0.17,0.17,0.16,0.15,0.15,0.06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,5,2,2,4,3,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1174662639232386,100064564696710,IdeaPaís,"""Marihuana: más allá de la libertad individual""","[#TECONTAMOS] Hoy nuestro Director de Estudios, @[691483414:2048:Cristóbal Ruiz-Tagle C.], estuvo presentando el estudio social ""Marihuana: más allá de la libertad individual"" en @[100045445552516:2048:Radio Agricultura]
+
+Encuentra el informe completo en: http://bit.ly/InformeLegalizaciónMarihuana",598,"04/14/2016 07:47",N/A,https://www.facebook.com/ideapaischile/videos/1174662639232386/,0,0,Videos,,,,,Total,,,,,7670,0,0,0,0,11934.197,0,48,27,19,2,0,3,252,0,225,0,1,251,0,0,0,0,71.392,6.602,0,0,5.95,3.301,0,0,1,0.19,0.15,0.13,0.12,0.11,0.1,0.08,0.08,0.07,0.06,0.06,0.06,0.05,0.05,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.05,0.06,0.06,0.06,0.05,0.05,0.05,0.05,0.05,0.04,0.04,0.04,0.04,0.04,0.01,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,2,1,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1154524554579528,100064564696710,IdeaPaís,"Curso: Ideas y Discusiones del siglo SXXI","[#CursosIdeaPaís] Trinidad García-Huidobro nos cuenta su experiencia en los cursos en 2015 
+
+Y tú, ¿qué esperas para poner tus ideas en acción?
+#Inscríbete en http://bit.ly/CursosIdeaPaís",93,"03/21/2016 16:24",N/A,https://www.facebook.com/ideapaischile/videos/1154524554579528/,0,0,Videos,,,,,Total,,,,,15058,0,0,0,0,96990.256,0,1130,948,166,16,6210,98,4604,4,4180,2,1637,2967,0,0,0,0,121.809,334.053,292.903,0,3.384,33.406,7.323,0,1,0.97,0.77,0.56,0.42,0.35,0.3,0.27,0.24,0.22,0.19,0.18,0.17,0.16,0.15,0.14,0.14,0.13,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.07,0.03,1,1,1,1,1,1,1,1,1,0.78,0.67,0.67,0.67,0.67,0.67,0.56,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0.44,0,0,0,16,10,21,9,5,7,5,1,5,5,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1151589998206317,100064564696710,IdeaPaís,"Curso: Ideas y Discusiones del SXXI","[#CursosIdeaPaís] Domingo Vallejo se atrevió a estar en los cursos en 2015 y hoy nos cuenta su experiencia. 
+
+Y tú, ¿qué esperas para poner tus ideas en acción?
+ #Inscríbete en http://bit.ly/CursosIdeaPaís",109,"03/18/2016 05:45",N/A,https://www.facebook.com/ideapaischile/videos/1151589998206317/,0,0,Videos,,,,,Total,,,,,19116,0,0,0,0,89760.028,0,327,233,73,21,15168,133,4877,8,4227,8,3724,1153,0,0,0,0,629.242,43.453,670.858,0,12.585,7.243,11.77,0,1,0.97,0.6,0.4,0.29,0.23,0.19,0.16,0.14,0.13,0.12,0.11,0.1,0.1,0.09,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.07,0.06,0.06,0.06,0.06,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.04,0.04,0.04,0.04,0.04,0.04,0.02,1,1,1,1,1,1,1,0.88,0.75,0.75,0.75,0.75,0.75,0.75,0.69,0.69,0.63,0.63,0.63,0.63,0.56,0.5,0.5,0.5,0.5,0.5,0.44,0.44,0.44,0.38,0.38,0.38,0.31,0.31,0.31,0.31,0.31,0.25,0.25,0.25,0.19,0,0,8,16,24,9,2,3,4,2,5,2,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1145870812111569,100064564696710,IdeaPaís,"José Miguel González invita a los cursos 2016","[CURSOSIDEAPAÍS] José Miguel Gonzalez se atrevió a estar en los cursos en 2015 y hoy nos cuenta su experiencia. 
+Y tú, ¿qué esperas para poner tus ideas en acción? #Inscríbete en http://bit.ly/CursosIdeaPaís",113,"03/10/2016 10:41",N/A,https://www.facebook.com/ideapaischile/videos/1145870812111569/,0,0,Videos,,,,,Total,,,,,9657,0,0,0,0,77201.35,0,925,727,176,22,3764,114,3066,2,2514,2,1242,1824,0,0,0,0,361.458,219.537,250.761,0,6.127,21.954,4.18,0,1,0.94,0.63,0.47,0.38,0.32,0.28,0.24,0.22,0.21,0.2,0.19,0.18,0.17,0.16,0.16,0.15,0.14,0.14,0.13,0.13,0.13,0.12,0.12,0.12,0.11,0.11,0.11,0.1,0.1,0.1,0.1,0.1,0.09,0.09,0.09,0.09,0.09,0.08,0.07,0.04,1,1,1,1,1,1,1,0.89,0.78,0.78,0.78,0.78,0.67,0.56,0.56,0.44,0.33,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.33,0.33,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,1,1,13,15,52,30,7,7,10,2,7,2,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1087999181232066,100064564696710,IdeaPaís,"Evento de fin de año 2015","¡Te invitamos a repasar nuestro evento de fin de año!  #5AñosIdeaPaís",130,"12/02/2015 13:33",N/A,https://www.facebook.com/ideapaischile/videos/1087999181232066/,0,0,Videos,,,,,Total,,,,,17,0,0,0,0,176.428,0,0,,,,0,17,3,1,3,1,0,3,0,0,0,0,131.515,2.295,42.618,0,43.839,0.574,5.328,0,1,1,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1083760141655970,100064564696710,IdeaPaís,"La Quinta","[EVENTO DE FIN DE AÑO] Revisa ""La Quinta"", el diario edición especial de los #5añosIdeaPaís. 
+
+Encuéntralo completo en: http://bit.ly/1jfPemv",31,"11/23/2015 05:17",N/A,https://www.facebook.com/ideapaischile/videos/1083760141655970/,0,0,Videos,,,,,Total,,,,,3,0,0,0,0,9.597,0,0,,,,0,3,1,0,1,0,0,1,0,0,0,0,3.414,5.195,0.988,0,1.138,1.732,0.988,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1081702621861722,100064564696710,IdeaPaís,"Saludo autoridades","[EVENTO DE FIN DE AÑO] No solo los ex alumnos nos mandaron sus saludos, algunas autoridades políticas, sociales también quisieron ser parte de nuestro aniversario. #5AñosIdeaPaís.",133,"11/18/2015 13:42",N/A,https://www.facebook.com/ideapaischile/videos/1081702621861722/,0,0,Videos,,,,,Total,,,,,85,0,0,0,0,1114.042,0,1,1,,,0,85,47,5,37,5,0,47,0,0,0,0,207.303,9.732,897.007,0,6.911,1.622,13.192,0,1,0.91,0.49,0.34,0.34,0.26,0.19,0.19,0.19,0.19,0.19,0.17,0.13,0.13,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.04,1,1,1,1,1,0.92,0.69,0.69,0.69,0.69,0.69,0.62,0.46,0.46,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.15,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1075942755771042,100064564696710,IdeaPaís,"¡No te quedes fuera de nuestro evento de fin de año! #5AñosIP","¡No te quedes fuera de nuestro evento de fin de año! #5AñosIP",9,"11/05/2015 12:43",N/A,https://www.facebook.com/ideapaischile/videos/1075942755771042/,0,0,Videos,,,,,Total,,,,,5,0,0,0,0,90.539,0,0,,,,0,5,8,0,7,0,0,8,0,0,0,0,24.722,64.806,1.011,0,8.241,8.101,1.011,0,1,1,1,1,1,1,0.88,0.88,0.88,0.88,0.88,0.75,0.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10152265053703219,100064564696710,IdeaPaís,"""Economía Social de Mercado en Chile: ¿Mito o Realidad?"" en T0","Si se lo perdieron, les dejamos el video del libro que este jueves 10 lanzamos junto a su autor, Eugenio Yañez. 
+
+¡Están todos invitados!",44,"10/08/2013 07:09",N/A,https://www.facebook.com/ideapaischile/videos/10152265053703219/?idorvanity=129618127070181,0,0,Videos,,,,,Total,,,,,0,1,0,0,1,59.435,0,0,,,,0,0,3,0,3,0,0,3,0,0,0,0,57.938,0,1.497,0,8.277,0,1.497,0,1,1,1,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151045345086486,100064564696710,IdeaPaís,"Voces de la Calle - En qué te fijas para elegir un candidato","Jóvenes opinan en Voces de la Calle, de IdeaPaís.",101,"10/19/2012 09:28",N/A,https://www.facebook.com/ideapaischile/videos/10151045345086486/,0,0,Videos,,,,,Total,,,,,0,0,0,0,0,19.714,0,0,,,,0,0,3,0,3,0,0,3,0,0,0,0,19.714,0,0,0,1.793,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151274221558957,100064564696710,IdeaPaís,"Foro sobre Ley de Inscripicón Automática en UDD","Claudio Alvarado y Giorgio Jackson debaten sobre la Ley de Inscripción Automática en UDD.",86,"07/13/2012 10:10",N/A,https://www.facebook.com/ideapaischile/videos/10151274221558957/,0,0,Videos,,,,,Total,,,,,1,0,0,0,0,4.249,0,0,,,,0,1,0,0,0,0,0,0,0,0,0,0,4.249,0,0,0,1.417,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151274155233957,100064564696710,IdeaPaís,"Sherif Girgis en UC","Sherif Girgis expone sobre matrimonio y familia en la Pontificia Universidad Católica de Chile.",120,"07/13/2012 09:39",N/A,https://www.facebook.com/ideapaischile/videos/10151274155233957/,0,0,Videos,,,,,Total,,,,,2,0,0,0,0,22.701,0,0,,,,0,2,1,0,1,0,0,1,0,0,0,0,22.701,0,0,0,2.271,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151273964358957,100064564696710,IdeaPaís,"Sherif Girgis en La Moneda","Sherif Girgis junto a IdeaPaís visita a Ministro Larroulet.",73,"07/13/2012 07:55",N/A,https://www.facebook.com/ideapaischile/videos/10151273964358957/,0,0,Videos,,,,,Total,,,,,2,0,0,0,0,12.674,0,0,,,,0,2,1,0,1,0,0,1,0,0,0,0,12.674,0,0,0,1.585,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10151273855043957,100064564696710,IdeaPaís,"Sherif Girgis en ICARE","Sherif Girgis expone en ICARE ante empresarios líderes.",74,"07/13/2012 06:44",N/A,https://www.facebook.com/ideapaischile/videos/10151273855043957/,0,0,Videos,,,,,Total,,,,,10,0,0,0,0,40.079,0,0,,,,0,10,3,0,3,0,0,3,0,0,0,0,40.079,0,0,0,2.11,0,0,0,1,1,1,0.67,0.33,0,0,0,0,0,0,0.33,0,0,0,0,0,0,0.67,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Test Data Loading</title>
+</head>
+
+<body>
+    <h1>Dashboard Data Test</h1>
+    <pre id="output"></pre>
+
+    <script>
+        async function testDataLoading() {
+            const output = document.getElementById('output');
+
+            try {
+                output.textContent = '🔄 Cargando datos desde /api/data...\n';
+
+                const response = await fetch('/api/data');
+                const data = await response.json();
+
+                output.textContent += '✅ Datos recibidos:\n';
+                output.textContent += `Periodos: ${Object.keys(data).join(', ')}\n\n`;
+
+                // Check structure
+                for (const [period, periodData] of Object.entries(data)) {
+                    output.textContent += `\n${period}:\n`;
+                    output.textContent += `  - content.table: ${periodData.content?.table?.length || 0} items\n`;
+                    output.textContent += `  - traffic.table: ${periodData.traffic?.table?.length || 0} items\n`;
+                    output.textContent += `  - traffic.totals: ${periodData.traffic?.totals?.length || 0} items\n`;
+                    output.textContent += `  - geographic.table: ${periodData.geographic?.table?.length || 0} items\n`;
+                }
+
+                // Try transformation
+                output.textContent += '\n\n🔄 Probando transformación...\n';
+                const apiData = data['2026-01'];
+                const localData = {
+                    content: apiData.content?.table || [],
+                    traffic: apiData.traffic?.table || [],
+                    totals: apiData.traffic?.totals || [],
+                    geo: apiData.geographic?.table || []
+                };
+
+                output.textContent += `✅ Transformación exitosa:\n`;
+                output.textContent += `  - content: ${localData.content.length} items\n`;
+                output.textContent += `  - traffic: ${localData.traffic.length} items\n`;
+                output.textContent += `  - totals: ${localData.totals.length} items\n`;
+                output.textContent += `  - geo: ${localData.geo.length} items\n`;
+
+            } catch (error) {
+                output.textContent += `\n❌ Error: ${error.message}\n${error.stack}`;
+            }
+        }
+
+        testDataLoading();
+    </script>
+</body>
+
+</html>

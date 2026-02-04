@@ -1,0 +1,41 @@
+========================================
+📋 CÓMO USAR EL DASHBOARD - GUÍA RÁPIDA
+========================================
+
+HAY 2 FORMAS DE CARGAR DATOS:
+------------------------------
+
+MÉTODO 1: DESDE LA INTERFAZ WEB (RECOMENDADO) ✅
+------------------------------------------------
+1. Abre: http://localhost:8000
+2. Arrastra tus 3 carpetas CSV a la zona de "Cargar datos":
+   • Área geográfica [fecha]
+   • Contenido [fecha] (full)
+   • Fuente de tráfico [fecha]
+
+3. Haz clic en "Procesar y generar dashboard"
+4. ¡Listo! El dashboard se actualizará automáticamente
+
+MÉTODO 2: DESDE TERMINAL (MANUAL)
+----------------------------------
+1. Coloca las 3 carpetas CSV en la raíz del proyecto
+2. Ejecuta: python3 process_youtube_data.py
+3. Ejecuta: python3 app.py
+4. Abre: http://localhost:8000
+
+
+IMPORTANTE:
+-----------
+• Los archivos se procesan EN EL NAVEGADOR (no necesitas terminal)
+• Puedes cambiar de período simplemente arrastrando nuevas carpetas
+• El botón "Cargar datos preprocesados" es solo si ya tienes el JSON
+
+
+⚠️ SI VES ERROR "No se pudo cargar archivo JSON":
+--------------------------------------------------
+1. Haz clic en "Limpiar" (botón rojo)
+2. Arrastra de nuevo tus carpetas CSV
+3. Procesa los datos
+
+El dashboard ESTÁ diseñado para cargar datos nuevos fácilmente.
+No necesitas editar código ni usar terminal.
