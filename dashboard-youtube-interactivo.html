@@ -564,9 +564,9 @@
               <tr>
                 <th style="width: 40px;">#</th>
                 <th style="width: 130px;">Thumbnail</th>
-                <th onclick="ytSort('Título del video')">Contenido ↕️</th>
+                <th>Contenido</th>
                 <th class="number-cell" onclick="ytSort('Vistas')">Vistas ↕️</th>
-                <th class="number-cell" onclick="ytSort('Tiempo de reproducción (horas)')">Tiempo (h) ↕️</th>
+                <th class="number-cell" onclick="ytSort('Tasa de clics de las impresiones (%)')">CTR ↕️</th>
                 <th class="number-cell" onclick="ytSort('Impresiones')">Impresiones ↕️</th>
                 <th class="number-cell" onclick="ytSort('Suscriptores')">Subs ↕️</th>
                 <th class="number-cell" onclick="ytSort('Porcentaje promedio reproducido (%)')">Ret. % ↕️</th>
@@ -726,14 +726,14 @@
           },
           eng_rate: '4.40%',
           topContent: [
-            { "title": "Club de Lectura de IdeaPaís - La Araucanía", "likes": 219, "shares": 49, "comments": 19, "reach": 27600, "type": "Secuencia", "url": "https://www.instagram.com/p/DTvfbajDX01/" },
-            { "title": "¡Así vivimos Pasaporte Diplomático 2025!", "likes": 209, "shares": 34, "comments": 14, "reach": 5724, "views": 8300, "type": "Reel", "url": "https://www.instagram.com/reel/DTqx5sWERSe/" },
-            { "title": "¡Un resumen de ELIJO en la RM 2025!", "likes": 159, "shares": 20, "comments": 4, "reach": 3543, "views": 5700, "type": "Reel", "url": "https://www.instagram.com/reel/DTgj3ZqjyIF/" },
-            { "title": "¿Cómo fue la caída de Nicolás Maduro?", "likes": 107, "shares": 16, "comments": 4, "reach": 2627, "views": 3801, "type": "Reel", "url": "https://www.instagram.com/reel/DTd82R2jyFI/" },
-            { "title": "Sala cuna universal: avanzar con libertad", "likes": 102, "shares": 9, "comments": 1, "reach": 6100, "type": "Secuencia", "url": "https://www.instagram.com/p/DTGyQlTj-Jz/" },
+            { "title": "Club de Lectura de IdeaPaís - La Araucanía", "likes": 217, "shares": 48, "comments": 19, "reach": 9741, "views": 27559, "type": "Secuencia", "url": "https://www.instagram.com/p/DTvfbajDX01/" },
+            { "title": "¡Así vivimos Pasaporte Diplomático 2025!", "likes": 209, "shares": 34, "comments": 14, "reach": 5724, "views": 8218, "type": "Reel", "url": "https://www.instagram.com/reel/DTqx5sWERSe/" },
+            { "title": "¡Un resumen de ELIJO en la RM 2025!", "likes": 159, "shares": 20, "comments": 4, "reach": 3543, "views": 5679, "type": "Reel", "url": "https://www.instagram.com/reel/DTgj3ZqjyIF/" },
+            { "title": "¿Cómo fue la caída de Nicolás Maduro?", "likes": 105, "shares": 16, "comments": 4, "reach": 2627, "views": 3801, "type": "Reel", "url": "https://www.instagram.com/reel/DTd82R2jyFI/" },
+            { "title": "Sala cuna universal: avanzar con libertad", "likes": 102, "shares": 9, "comments": 1, "reach": 2457, "views": 6032, "type": "Secuencia", "url": "https://www.instagram.com/p/DTGyQlTj-Jz/" },
             { "title": "Cuentas Claras - Presupuesto", "likes": 22, "shares": 3, "comments": 0, "reach": 1684, "views": 2547, "type": "Reel", "url": "https://www.instagram.com/reel/DT1G0wDDXo-/" }
           ],
-          interaction_breakdown: [1750, 60, 150, 240] // Likes, Comments, Shares, Saves approx
+          interaction_breakdown: [1012, 72, 156, 86] // Likes, Comments, Shares, Saves (totales de posts)
         }
       }
     };
@@ -751,6 +751,8 @@
 
       document.getElementById(viewId + 'View').classList.add('active');
       event.currentTarget.classList.add('active');
+
+      document.getElementById('periodList').style.display = viewId === 'youtube' ? '' : 'none';
 
       if (viewId === 'facebook') renderFacebook();
       if (viewId === 'instagram') renderInstagram();
@@ -789,8 +791,9 @@
       const k = data.kpis;
       const a = k.activity;
       document.querySelector('.ytActivity').innerHTML = `<div class="activity-item"><div class="activity-val">${a.total_published}</div><div class="activity-lab">Videos</div></div><div class="activity-item"><div class="activity-val">${a.standard}</div><div class="activity-lab">Estándar</div></div><div class="activity-item"><div class="activity-val">${a.shorts}</div><div class="activity-lab">Shorts</div></div>`;
-      const mkKPI = (icon, label, value, diff) => `<div class="kpi-card"><div class="kpi-icon-overlay">${icon}</div><div class="kpi-label">${icon} ${label}</div><div class="kpi-value">${value}</div><div class="kpi-diff ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '↑' : '↓'} ${Math.abs(diff).toFixed(1)}% vs ant.</div></div>`;
-      document.querySelector('.ytKPIs').innerHTML = mkKPI('👁️', 'Vistas', fmt(k.views), 21.2) + mkKPI('⏱️', 'Horas', fmt(k.watch_time_hours) + 'h', 2.9) + mkKPI('👥', 'Subs Netos', fmt(k.subscribers_gained - k.subscribers_lost), -26.9) + mkKPI('🎯', 'CTR', k.ctr.toFixed(1) + '%', -8.8) + mkKPI('📊', 'Retención', Math.min(k.avg_watch_percentage, 100).toFixed(1) + '%', -6.7) + mkKPI('📢', 'Impre.', fmt(k.impressions), 15.4);
+      const hasPrev = currentYTPeriod === '2026-01';
+      const mkKPI = (icon, label, value, diff) => `<div class="kpi-card"><div class="kpi-icon-overlay">${icon}</div><div class="kpi-label">${icon} ${label}</div><div class="kpi-value">${value}</div>${hasPrev ? `<div class="kpi-diff ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '↑' : '↓'} ${Math.abs(diff).toFixed(1)}% vs ant.</div>` : ''}</div>`;
+      document.querySelector('.ytKPIs').innerHTML = mkKPI('👁️', 'Vistas', fmt(k.views), 21.2) + mkKPI('⏱️', 'Horas', fmt(k.watch_time_hours) + 'h', 2.9) + mkKPI('👥', 'Subs Netos', fmt(k.subscribers_gained - k.subscribers_lost), -26.9) + mkKPI('🎯', 'CTR', k.ctr.toFixed(1) + '%', -8.8) + mkKPI('📊', 'Retención', Math.min(k.avg_watch_percentage, 100).toFixed(1) + '%', -6.7) + mkKPI('📢', 'Impre.', fmt(k.impressions), -30.4);
       renderYTCharts(data);
       renderYTRankings(data);
       renderYTTable(data);
@@ -818,7 +821,7 @@
     function renderYTTable(data) {
       let v = data.content.table.filter(x => x.Vistas > 0 && x.video_id);
       v.sort((a, b) => (ytSortConfig.direction === 'asc' ? 1 : -1) * (a[ytSortConfig.key] - b[ytSortConfig.key]));
-      document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${r['Tiempo de reproducción (horas)'].toFixed(1)}</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`).join('');
+      document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${(r['Tasa de clics de las impresiones (%)'] || 0).toFixed(1)}%</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`).join('');
     }
     function ytSort(key) { ytSortConfig.direction = ytSortConfig.key === key && ytSortConfig.direction === 'desc' ? 'asc' : 'desc'; ytSortConfig.key = key; renderYTTable(windowAllData[currentYTPeriod]); }
 
