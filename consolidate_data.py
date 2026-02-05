@@ -101,9 +101,9 @@ def process_period(period_name, month_name_eng, year_str, content_p, geo_p, traf
     return {
         "metadata": {"period": period_name},
         "kpis": kpis,
-        "content": {"table": [r for r in content if r.get('Contenido') != 'Total' and r.get('Título del video')]},
-        "geographic": {"table": [r for r in geo if r.get('Ubicación geográfica') != 'Total']},
-        "traffic": {"table": [r for r in traffic if r.get('Fuente de tráfico') != 'Total'], "totals": totals},
+        "content": {"table": [r for r in content if r.get('video_id')]},
+        "geographic": {"table": [r for r in geo if r.get('Ubicación geográfica') and r.get('Ubicación geográfica') != 'Total']},
+        "traffic": {"table": [r for r in traffic if r.get('Fuente de tráfico') and r.get('Fuente de tráfico') != 'Total'], "totals": totals},
         "demographics": {"age": age, "gender": gender}
     }
 
