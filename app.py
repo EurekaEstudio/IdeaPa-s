@@ -9,6 +9,13 @@ CORS(app)
 
 BASE_DIR = Path(__file__).parent
 
+@app.after_request
+def add_no_cache(response):
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, max-age=0'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '0'
+    return response
+
 @app.route('/')
 def index():
     return send_file(BASE_DIR / 'dashboard-youtube-interactivo.html')
@@ -22,7 +29,7 @@ def get_data():
         if filepath.exists():
             with open(filepath, 'r', encoding='utf-8') as f:
                 response_data[period] = json.load(f)
-    
+
     if not response_data:
         return jsonify({'error': 'No data found'}), 404
     return jsonify(response_data)
