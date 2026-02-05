@@ -20,6 +20,7 @@ def normalize_number(value):
 
 def extract_id(text):
     if not text: return None
+    text = text.strip()
     patterns = [r'(?:v=|/)([a-zA-Z0-9_-]{11})', r'^([a-zA-Z0-9_-]{11})$']
     for p in patterns:
         m = re.search(p, text)
@@ -34,6 +35,8 @@ def read_csv(path):
         for row in reader:
             normalized = {}
             for k, v in row.items():
+                if k: k = k.strip()
+                if v: v = v.strip()
                 if k in ['Fecha', 'Título del video', 'Contenido', 'Ubicación geográfica', 'Fuente de tráfico', 'Edad del usuario', 'Género del usuario', 'Tiempo de publicación del video']:
                     normalized[k] = v
                 else:
@@ -98,9 +101,9 @@ def process_period(period_name, month_name_eng, year_str, content_p, geo_p, traf
     return {
         "metadata": {"period": period_name},
         "kpis": kpis,
-        "content": {"table": [r for r in content if r.get('Contenido') != 'Total']},
-        "geographic": {"table": geo},
-        "traffic": {"table": traffic, "totals": totals},
+        "content": {"table": [r for r in content if r.get('Contenido') != 'Total' and r.get('Título del video')]},
+        "geographic": {"table": [r for r in geo if r.get('Ubicación geográfica') != 'Total']},
+        "traffic": {"table": [r for r in traffic if r.get('Fuente de tráfico') != 'Total'], "totals": totals},
         "demographics": {"age": age, "gender": gender}
     }
 

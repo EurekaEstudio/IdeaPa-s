@@ -361,7 +361,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=0AmuX49xq6A"
       },
       {
-        "Contenido": " -YNtEaEsGC0",
+        "Contenido": "-YNtEaEsGC0",
         "Título del video": "América Castillo analiza el escenario presidencial en CNN Chile Radio",
         "Tiempo de publicación del video": "Dec 17, 2025",
         "Duración": 1540.0,
@@ -386,7 +386,10 @@
         "Suscriptores": 1.0,
         "Duración promedio de vistas": 0.0875,
         "Impresiones": 4259.0,
-        "Tasa de clics de las impresiones (%)": 2.3
+        "Tasa de clics de las impresiones (%)": 2.3,
+        "video_id": "-YNtEaEsGC0",
+        "thumbnail_url": "https://img.youtube.com/vi/-YNtEaEsGC0/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-YNtEaEsGC0"
       },
       {
         "Contenido": "LQtkRvB7-wI",
@@ -1939,7 +1942,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=SwcMNOQIXk8"
       },
       {
-        "Contenido": " -VfVrmpBqjI",
+        "Contenido": "-VfVrmpBqjI",
         "Título del video": "Javiera Corvalán sobre la maternidad subrogada y la postura abolicionista",
         "Tiempo de publicación del video": "Aug 22, 2025",
         "Duración": 601.0,
@@ -1964,7 +1967,10 @@
         "Suscriptores": 0.0,
         "Duración promedio de vistas": 0.0075,
         "Impresiones": 16.0,
-        "Tasa de clics de las impresiones (%)": 12.5
+        "Tasa de clics de las impresiones (%)": 12.5,
+        "video_id": "-VfVrmpBqjI",
+        "thumbnail_url": "https://img.youtube.com/vi/-VfVrmpBqjI/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-VfVrmpBqjI"
       },
       {
         "Contenido": "4JyDiRSKjVU",
@@ -2649,7 +2655,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=snqkiiWZj48"
       },
       {
-        "Contenido": " -aKXs0eAy-c",
+        "Contenido": "-aKXs0eAy-c",
         "Título del video": "Sembrando Futuro: ¿Cómo superar la vulnerabilidad de la clase media?",
         "Tiempo de publicación del video": "Oct 29, 2024",
         "Duración": 4341.0,
@@ -2674,7 +2680,10 @@
         "Suscriptores": 0.0,
         "Duración promedio de vistas": 0.0005555555555555556,
         "Impresiones": 17.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-aKXs0eAy-c",
+        "thumbnail_url": "https://img.youtube.com/vi/-aKXs0eAy-c/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-aKXs0eAy-c"
       },
       {
         "Contenido": "7fzjhbYwIvo",
@@ -4568,7 +4577,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=zwhWopVj-PU"
       },
       {
-        "Contenido": " -GsQibQKbRw",
+        "Contenido": "-GsQibQKbRw",
         "Título del video": "Javiera Corvalán se refiere a los apoyos que han recibido los candidatos Matthei y Kast @T13_cl",
         "Tiempo de publicación del video": "Jun 13, 2025",
         "Duración": 594.0,
@@ -4593,10 +4602,13 @@
         "Suscriptores": 0.0,
         "Duración promedio de vistas": 0.0077777777777777776,
         "Impresiones": 5.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-GsQibQKbRw",
+        "thumbnail_url": "https://img.youtube.com/vi/-GsQibQKbRw/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-GsQibQKbRw"
       },
       {
-        "Contenido": " -xcIPO-78aM",
+        "Contenido": "-xcIPO-78aM",
         "Título del video": "Debate Diego Schalper y Luis Larraín sobre Uniones de Hecho parte 1",
         "Tiempo de publicación del video": "Jul 14, 2011",
         "Duración": 896.0,
@@ -4621,7 +4633,10 @@
         "Suscriptores": 0.0,
         "Duración promedio de vistas": 0.0033333333333333335,
         "Impresiones": 10.0,
-        "Tasa de clics de las impresiones (%)": 10.0
+        "Tasa de clics de las impresiones (%)": 10.0,
+        "video_id": "-xcIPO-78aM",
+        "thumbnail_url": "https://img.youtube.com/vi/-xcIPO-78aM/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-xcIPO-78aM"
       },
       {
         "Contenido": "6Ql39MdPwS4",
@@ -6608,7 +6623,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=uVemhBofHss"
       },
       {
-        "Contenido": " --awFqz6h9g",
+        "Contenido": "--awFqz6h9g",
         "Título del video": "Emilia García conversa sobre feminismo y natalidad en Money Talks de la @latercera",
         "Tiempo de publicación del video": "May 22, 2025",
         "Duración": 1895.0,
@@ -6633,7 +6648,10 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 7.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "--awFqz6h9g",
+        "thumbnail_url": "https://img.youtube.com/vi/--awFqz6h9g/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=--awFqz6h9g"
       },
       {
         "Contenido": "-8sUGHEymcE",
@@ -6667,7 +6685,7 @@
         "URL del vídeo": "https://www.youtube.com/watch?v=-8sUGHEymcE"
       },
       {
-        "Contenido": " -AkZJ9oXq_w",
+        "Contenido": "-AkZJ9oXq_w",
         "Título del video": "Emilia García en T13 Noche: Frente Amplio y apoyo a Tohá",
         "Tiempo de publicación del video": "May 5, 2025",
         "Duración": 665.0,
@@ -6692,10 +6710,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 1.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-AkZJ9oXq_w",
+        "thumbnail_url": "https://img.youtube.com/vi/-AkZJ9oXq_w/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-AkZJ9oXq_w"
       },
       {
-        "Contenido": " -IU2Yby1nGI",
+        "Contenido": "-IU2Yby1nGI",
         "Título del video": "Sherif Girgis expone en ICARE",
         "Tiempo de publicación del video": "May 29, 2012",
         "Duración": 74.0,
@@ -6720,10 +6741,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 5.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-IU2Yby1nGI",
+        "thumbnail_url": "https://img.youtube.com/vi/-IU2Yby1nGI/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-IU2Yby1nGI"
       },
       {
-        "Contenido": " -QjMCov_mFs",
+        "Contenido": "-QjMCov_mFs",
         "Título del video": "“La Propuesta de nueva Constitución”: con Fernando Atria y Ruggero Cozzi",
         "Tiempo de publicación del video": "Jul 12, 2022",
         "Duración": 5055.0,
@@ -6748,10 +6772,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 6.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-QjMCov_mFs",
+        "thumbnail_url": "https://img.youtube.com/vi/-QjMCov_mFs/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-QjMCov_mFs"
       },
       {
-        "Contenido": " -eLdD0XCp1Q",
+        "Contenido": "-eLdD0XCp1Q",
         "Título del video": "Rol y Modernización del Estado",
         "Tiempo de publicación del video": "Feb 23, 2021",
         "Duración": 4728.0,
@@ -6776,10 +6803,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 3.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-eLdD0XCp1Q",
+        "thumbnail_url": "https://img.youtube.com/vi/-eLdD0XCp1Q/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-eLdD0XCp1Q"
       },
       {
-        "Contenido": " -kSIq00FPDc",
+        "Contenido": "-kSIq00FPDc",
         "Título del video": "Javiera Corvalán en T13 Noche: Declaraciones de Carmona y propuesta “Chao Préstamo” bajo la lupa",
         "Tiempo de publicación del video": "Sep 1, 2025",
         "Duración": 567.0,
@@ -6804,10 +6834,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 12.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-kSIq00FPDc",
+        "thumbnail_url": "https://img.youtube.com/vi/-kSIq00FPDc/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-kSIq00FPDc"
       },
       {
-        "Contenido": " -nmm9J3p5FI",
+        "Contenido": "-nmm9J3p5FI",
         "Título del video": "Conflicto en Medio Oriente y Nobel de la Paz: la mirada de Cristián Stewart en Radio Pauta",
         "Tiempo de publicación del video": "Oct 17, 2025",
         "Duración": 1113.0,
@@ -6832,10 +6865,13 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 16.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-nmm9J3p5FI",
+        "thumbnail_url": "https://img.youtube.com/vi/-nmm9J3p5FI/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-nmm9J3p5FI"
       },
       {
-        "Contenido": " -sXIo9zLi5g",
+        "Contenido": "-sXIo9zLi5g",
         "Título del video": "Libertad de Enseñanza y Rol de los Padres en la Educación de sus Hijos.",
         "Tiempo de publicación del video": "Oct 6, 2021",
         "Duración": 3443.0,
@@ -6860,7 +6896,10 @@
         "Suscriptores": 0,
         "Duración promedio de vistas": 0,
         "Impresiones": 3.0,
-        "Tasa de clics de las impresiones (%)": 0.0
+        "Tasa de clics de las impresiones (%)": 0.0,
+        "video_id": "-sXIo9zLi5g",
+        "thumbnail_url": "https://img.youtube.com/vi/-sXIo9zLi5g/mqdefault.jpg",
+        "URL del vídeo": "https://www.youtube.com/watch?v=-sXIo9zLi5g"
       },
       {
         "Contenido": "0EF7-DYsZf0",
@@ -15051,12 +15090,6 @@
   "geographic": {
     "table": [
       {
-        "Ubicación geográfica": "Total",
-        "Vistas": 6702.0,
-        "Tiempo de reproducción (horas)": 345.2449,
-        "Duración promedio de vistas": 0.05777777777777778
-      },
-      {
         "Ubicación geográfica": "CL",
         "Vistas": 4405.0,
         "Tiempo de reproducción (horas)": 256.5898,
@@ -15114,14 +15147,6 @@
   },
   "traffic": {
     "table": [
-      {
-        "Fuente de tráfico": "Total",
-        "Vistas": 6702.0,
-        "Tiempo de reproducción (horas)": 345.2449,
-        "Duración promedio de vistas": 0.05777777777777778,
-        "Impresiones": 119704.0,
-        "Tasa de clics de las impresiones (%)": 2.94
-      },
       {
         "Fuente de tráfico": "Funciones de exploración",
         "Vistas": 2626.0,
