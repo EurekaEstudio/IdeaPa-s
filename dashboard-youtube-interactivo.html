@@ -490,7 +490,7 @@
       Instagram Insights
     </div>
     <div style="position: absolute; bottom: 40px; width: calc(100% - 40px); font-size: 0.7rem; opacity: 0.5;">
-      v2.0 Beta - Expansión Meta
+      v2.3 - Ghost Filter Active
     </div>
   </aside>
 
@@ -762,6 +762,11 @@
       try {
         const response = await fetch('/api/data?t=' + Date.now());
         windowAllData = await response.json();
+        console.log("Data loaded from API:", windowAllData);
+        if (windowAllData['2026-01'] && windowAllData['2026-01'].content) {
+          console.log("Videos in 2026-01:", windowAllData['2026-01'].content.table.length);
+          console.log("First video:", windowAllData['2026-01'].content.table[0]);
+        }
         const periods = Object.keys(windowAllData).sort().reverse();
         const periodList = document.getElementById('periodList');
         periodList.innerHTML = periods.map(p => `<div class="period-chip" id="chip-${p}" onclick="switchYTPeriod('${p}')">${formatPeriod(p)}</div>`).join('');

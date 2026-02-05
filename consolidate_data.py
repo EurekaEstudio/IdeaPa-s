@@ -109,6 +109,9 @@ def process_period(period_name, month_name_eng, year_str, content_p, geo_p, traf
 
 # Process Jan 2026
 jan_data = process_period("2026-01", "Jan", "2026", "jan_content.csv", "jan_geo.csv", "jan_traffic.csv", "jan_totals.csv", "jan_age.csv", "jan_gender.csv")
+print(f"Jan 2026: Kept {len(jan_data['content']['table'])} videos.")
+for v in jan_data['content']['table'][:3]: print(f"  - {v['Título del video']} ({v['Vistas']} views)")
+
 with open('youtube_analytics_jan_26.json', 'w', encoding='utf-8') as f:
     json.dump(jan_data, f, ensure_ascii=False, indent=2)
 
