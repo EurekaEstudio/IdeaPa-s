@@ -806,12 +806,12 @@
       ytCharts.gender = new Chart(ctx('ytGenderChart'), { type: 'pie', data: { labels: data.demographics.gender.map(x => x['Género del usuario']), datasets: [{ data: data.demographics.gender.map(x => x['Vistas (%)']), backgroundColor: ['#60A5FA', '#FB923C'] }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
     }
     function renderYTRankings(data) {
-      const v = data.content.table.filter(x => x.Vistas >= 5);
+      const v = data.content.table.filter(x => x.Vistas >= 5 && x['Título del video']);
       const rows = (items, metric) => items.map((x, i) => `<div class="ranking-item"><a href="${x['URL del vídeo']}" target="_blank" class="ranking-title">${i + 1}. ${x['Título del video']}</a><div class="ranking-metric">${metric(x)}</div></div>`).join('');
       document.querySelector('.ytRankings').innerHTML = `<div class="ranking-card"><h4>🔥 Vistas</h4>${rows([...v].sort((a, b) => b.Vistas - a.Vistas).slice(0, 3), x => fmt(x.Vistas) + ' views')}</div><div class="ranking-card"><h4>🚀 Impacto Subs</h4>${rows([...v].sort((a, b) => (b.Suscriptores || 0) - (a.Suscriptores || 0)).slice(0, 3), x => fmt(x.Suscriptores || 0) + ' subs')}</div>`;
     }
     function renderYTTable(data) {
-      let v = data.content.table.filter(x => x.Vistas > 0);
+      let v = data.content.table.filter(x => x.Vistas > 0 && x['Título del video'] && x['Título del video'] !== 'Total');
       v.sort((a, b) => (ytSortConfig.direction === 'asc' ? 1 : -1) * (a[ytSortConfig.key] - b[ytSortConfig.key]));
       document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${r['Tiempo de reproducción (horas)'].toFixed(1)}</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`).join('');
     }

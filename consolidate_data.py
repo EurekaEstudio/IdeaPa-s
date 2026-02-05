@@ -98,7 +98,7 @@ def process_period(period_name, month_name_eng, year_str, content_p, geo_p, traf
     return {
         "metadata": {"period": period_name},
         "kpis": kpis,
-        "content": {"table": content},
+        "content": {"table": [r for r in content if r.get('Contenido') != 'Total']},
         "geographic": {"table": geo},
         "traffic": {"table": traffic, "totals": totals},
         "demographics": {"age": age, "gender": gender}
