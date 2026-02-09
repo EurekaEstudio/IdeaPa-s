@@ -70,7 +70,8 @@ def process_period(period_name, month_name_eng, year_str, content_p, geo_p, traf
             if month_name_eng in pub_date and year_str in pub_date:
                 new_videos_count += 1
                 duration = row.get('Duración', 0)
-                if duration > 0 and duration <= 60:
+                # YouTube Shorts: ≤90 seconds (updated limit from Oct 2024)
+                if duration > 0 and duration <= 90:
                     new_shorts_count += 1
                 else:
                     new_standard_count += 1
