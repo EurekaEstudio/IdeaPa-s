@@ -565,6 +565,7 @@
                 <th style="width: 40px;">#</th>
                 <th style="width: 130px;">Thumbnail</th>
                 <th>Contenido</th>
+                <th class="number-cell" style="width: 110px;">Fecha Pub.</th>
                 <th class="number-cell" onclick="ytSort('Vistas')">Vistas ↕️</th>
                 <th class="number-cell" onclick="ytSort('Tasa de clics de las impresiones (%)')">CTR ↕️</th>
                 <th class="number-cell" onclick="ytSort('Impresiones')">Impresiones ↕️</th>
@@ -791,7 +792,7 @@
       const k = data.kpis;
       const a = k.activity;
       // TEMPORAL HARDCODE - Fix deploy issue
-      const activityHTML = currentYTPeriod === '2026-01' 
+      const activityHTML = currentYTPeriod === '2026-01'
         ? `<div class="activity-item"><div class="activity-val">20</div><div class="activity-lab">Videos</div></div><div class="activity-item"><div class="activity-val">18</div><div class="activity-lab">Estándar</div></div><div class="activity-item"><div class="activity-val">2</div><div class="activity-lab">Shorts</div></div>`
         : `<div class="activity-item"><div class="activity-val">${a.total_published}</div><div class="activity-lab">Videos</div></div><div class="activity-item"><div class="activity-val">${a.standard}</div><div class="activity-lab">Estándar</div></div><div class="activity-item"><div class="activity-val">${a.shorts}</div><div class="activity-lab">Shorts</div></div>`;
       document.querySelector('.ytActivity').innerHTML = activityHTML;
@@ -807,15 +808,17 @@
       if (ytCharts.trend) ytCharts.trend.destroy();
       ytCharts.trend = new Chart(ctx('ytTrendChart'), { type: 'line', data: { labels: data.traffic.totals.map(r => r.Fecha.slice(8)), datasets: [{ label: 'Vistas', data: data.traffic.totals.map(r => r.Vistas), borderColor: '#3E3CCA', backgroundColor: 'rgba(62,60,202,0.1)', fill: true, tension: 0.4 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
       const tr = data.traffic.table.filter(x => x['Fuente de tráfico'] !== 'Total').sort((a, b) => b.Vistas - a.Vistas).slice(0, 5);
+      const totalTrafficViews = tr.reduce((sum, x) => sum + x.Vistas, 0);
       if (ytCharts.traffic) ytCharts.traffic.destroy();
-      ytCharts.traffic = new Chart(ctx('ytTrafficChart'), { type: 'doughnut', data: { labels: tr.map(x => x['Fuente de tráfico']), datasets: [{ data: tr.map(x => x.Vistas), backgroundColor: ['#161233', '#3E3CCA', '#10B981', '#F59E0B', '#8B5CF6'] }] }, options: { cutout: '70%', responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
+      ytCharts.traffic = new Chart(ctx('ytTrafficChart'), { type: 'doughnut', data: { labels: tr.map(x => x['Fuente de tráfico']), datasets: [{ data: tr.map(x => x.Vistas), backgroundColor: ['#161233', '#3E3CCA', '#10B981', '#F59E0B', '#8B5CF6'] }] }, options: { cutout: '70%', responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { label: function (context) { const value = context.parsed; const percentage = ((value / totalTrafficViews) * 100).toFixed(1); return context.label + ': ' + fmt(value) + ' (' + percentage + '%)'; } } } } } });
       const g = data.geographic.table.filter(x => x['Ubicación geográfica'] !== 'Total').sort((a, b) => b.Vistas - a.Vistas).slice(0, 5);
+      const totalGeoViews = g.reduce((sum, x) => sum + x.Vistas, 0);
       if (ytCharts.geo) ytCharts.geo.destroy();
-      ytCharts.geo = new Chart(ctx('ytGeoChart'), { type: 'bar', data: { labels: g.map(x => x['Ubicación geográfica']), datasets: [{ data: g.map(x => x.Vistas), backgroundColor: '#161233' }] }, options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+      ytCharts.geo = new Chart(ctx('ytGeoChart'), { type: 'bar', data: { labels: g.map(x => x['Ubicación geográfica']), datasets: [{ data: g.map(x => x.Vistas), backgroundColor: '#161233' }] }, options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (context) { const value = context.parsed.x; const percentage = ((value / totalGeoViews) * 100).toFixed(1); return fmt(value) + ' vistas (' + percentage + '%)'; } } } } } });
       if (ytCharts.age) ytCharts.age.destroy();
-      ytCharts.age = new Chart(ctx('ytAgeChart'), { type: 'bar', data: { labels: data.demographics.age.map(x => x['Edad del usuario']), datasets: [{ data: data.demographics.age.map(x => x['Vistas (%)']), backgroundColor: '#A78BFA' }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+      ytCharts.age = new Chart(ctx('ytAgeChart'), { type: 'bar', data: { labels: data.demographics.age.map(x => x['Edad del usuario']), datasets: [{ data: data.demographics.age.map(x => x['Vistas (%)']), backgroundColor: '#A78BFA' }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (context) { return context.parsed.y.toFixed(1) + '%'; } } } } } });
       if (ytCharts.gender) ytCharts.gender.destroy();
-      ytCharts.gender = new Chart(ctx('ytGenderChart'), { type: 'pie', data: { labels: data.demographics.gender.map(x => x['Género del usuario']), datasets: [{ data: data.demographics.gender.map(x => x['Vistas (%)']), backgroundColor: ['#60A5FA', '#FB923C'] }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
+      ytCharts.gender = new Chart(ctx('ytGenderChart'), { type: 'pie', data: { labels: data.demographics.gender.map(x => x['Género del usuario']), datasets: [{ data: data.demographics.gender.map(x => x['Vistas (%)']), backgroundColor: ['#60A5FA', '#FB923C'] }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { label: function (context) { return context.label + ': ' + context.parsed.toFixed(1) + '%'; } } } } } });
     }
     function renderYTRankings(data) {
       const v = data.content.table.filter(x => x.Vistas >= 5 && x.video_id);
@@ -825,7 +828,11 @@
     function renderYTTable(data) {
       let v = data.content.table.filter(x => x.Vistas > 0 && x.video_id);
       v.sort((a, b) => (ytSortConfig.direction === 'asc' ? 1 : -1) * (a[ytSortConfig.key] - b[ytSortConfig.key]));
-      document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${(r['Tasa de clics de las impresiones (%)'] || 0).toFixed(1)}%</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`).join('');
+      document.getElementById('ytVideosTable').innerHTML = v.slice(0, 20).map((r, i) => {
+        const pubDate = r['Tiempo de publicación del video'] || '';
+        const formattedDate = pubDate ? pubDate.split(' ').slice(0, 3).join(' ') : 'N/A';
+        return `<tr><td>${i + 1}</td><td><div class="thumbnail-box"><img src="${r.thumbnail_url || ''}"></div></td><td><a href="${r['URL del vídeo']}" target="_blank" class="video-link">${r['Título del video']}</a></td><td class="number-cell" style="font-size: 0.75rem;">${formattedDate}</td><td class="number-cell">${fmt(r.Vistas)}</td><td class="number-cell">${(r['Tasa de clics de las impresiones (%)'] || 0).toFixed(1)}%</td><td class="number-cell">${fmt(r.Impresiones || 0)}</td><td class="number-cell">${fmt(r.Suscriptores || 0)}</td><td class="number-cell">${Math.min(r['Porcentaje promedio reproducido (%)'], 100).toFixed(1)}%</td></tr>`;
+      }).join('');
     }
     function ytSort(key) { ytSortConfig.direction = ytSortConfig.key === key && ytSortConfig.direction === 'desc' ? 'asc' : 'desc'; ytSortConfig.key = key; renderYTTable(windowAllData[currentYTPeriod]); }
 
